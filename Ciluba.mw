@@ -1,11 +1,105 @@
-[[Image:Map_-_DR_Congo,_major_languages.png|thumb|texte manquant pour exemple de langue.]]
+{| border="1" cellpadding="2" cellspacing="0" align="right" width="300"
+! colspan="2" bgcolor="orange" style="font-size:120%"|Tshiluba
+|-
+| valign="top"|Spoken in:
+|[[Democratic Republic of the Congo]]
+|-
+| valign="top"|Region:
+|[[Kasaï Occidental province]], [[Kasaï Oriental province]]
+|-
+| valign="top"|Total speakers:
+|6.3 million ([[1991]])
+|-
+| valign="top"|[[List of languages by total speakers|Ranking]]:
+|See [http://www.davidpbrown.co.uk/help/top-100-languages-by-population.html] ''Not in top 100''
+|-
+| valign="top"|[[Language families and languages|Genetic]]<br>[[Language families and languages|classification]]:
+|[[Niger-Congo]]
+&nbsp;[[Atlantic-Congo]]<br>
+&nbsp;&nbsp;[[Volta-Congo]]<br>
+&nbsp;&nbsp;&nbsp;[[Benue-Congo]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[[Bantoid]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[Narrow Bantu]]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''Tshiluba'''
+|-
+! colspan="2" bgcolor="orange"|Official status
+|-
+| valign="top"|Official language of:
+| valign="top"|-
+|-
+| valign="top"|Regulated by:
+| valign="top"|-
+|-
+! colspan="2" bgcolor="orange"|Language codes
+|-
+|[[ISO 639]]-1||-
+|-
+|ISO 639-2||lua
+|-
+|[[SIL]]||LUB
+|}
 
-{{ndambo}}
+<!--
+==History==
+Probable history of the language. What language(s) it is derived from. Dates of movement of major groups of speakers, etc.
+-->
 
-'''Ciluba''' (tchiluba,  Tshiluba) ezali [[lokótá]] na bato na kati-kati ya [[Kongo-Kinshasa|Kongo]].
+==Classification==
+Tshiluba belongs to the [[Bantu]] branch of the [[Niger-Congo languages]].
+
+==Geographic distribution==
+Tshiluba is spoken by about 6.3 million people in the [[Kasaï Occidental]] and [[Kasaï Oriental]] provinces of the Democratic Republic of the Congo.
+
+<!--
+===Official status===
+List which countries have this language as an official language or other special status.
+-->
+
+===Dialects===
+There are significant dialect differences between the [[East Kasai Region]] ([[Baluba]] people) and the [[West Kasai Region]] ([[Bena Lulua]] people).
+
+<!--
+===Derived languages===
+Creoles and other languages that are derived from this language.
+
+==Sounds==
+Description of the sound set of the language. Can include phoneme charts and example words for each phoneme like in [[French language]]. If there is significant discussion here, it is probably best to divide the section into vowels and consonants subsections.
+===Vowels===
+Vowel chart and discussion of vowels.
+===Consonants===
+Consonant chart and discussion of consonants.
+===Phonology===
+Discussion of some major phonological processes, such as important [[allophone]]s or assimilation rules.
+===Historical sound changes===
+Description of important sound changes in the history of the language. (Maybe this should go under history?)
+
+==Grammar==
+Description of the grammar of the language.
+
+-->
+==Vocabulary==
+The [[Bantu]] word identified in [[June 2004]] by Today's Translations, a [[Britain|British]] translation company, as the most [[ilunga|untranslatable]] in the world: ''[[ilunga]]'', in the Tshiluba tongue, means "a person ready to forgive any abuse the first time, to tolerate it a second time, but never a third time". However, it is more likely to be a [[personal name]] rather than a difficult word.
+
+<!--
+==Writing system==
+Brief description of the [[writing system]](s) used to write the language. Writing systems have their own page, so what's written here should just be a brief discussion of how this language makes any special use of the writing system and a link to all the writing systems used to write the language.
+
+==Examples==
+Some short examples of the language in the writing system(s) used to write the language. You might also include sound samples of the language being spoken.
+-->
+
+==Sources==
+*MacIntyre, Ben. ''Why do Koreans say 'a biscuit would be nice' instead of 'I want a biscuit'?'', The Times, [[August 21]], [[2004]].
+
+==External links==
+* [http://www.ethnologue.com/show_language.asp?code=LUB Ethnologue report on Tshiluba]
+* [http://news.bbc.co.uk/2/hi/africa/3830521.stm BBC News: Congo word "most untranslatable"]
 
 
+{{nc-lang-stub}}
 
+[[Category:Bantu languages]]
+[[Category:Languages of the Democratic Republic of the Congo]]
 
 == Makasa-web olibanda Wikipedia ==
 * Centre de Recherche pour l'Instrumentalisation du Ciluba http://cric.populus.org/
@@ -28,5 +122,5 @@ Comment améliorer un article sur une langue?
 [[Category:Lokótá]]
 
 
-[[fr:tshiluba]]
+[[fr:tchiluba]]
 [[en:tshiluba]]
