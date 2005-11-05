@@ -1,19 +1,19 @@
 [[af:Verenigde Koninkryk]] [[ar:مملكة متحدة]] [[bg:Обединено кралство]] [[br:Rouantelezh Unanet]] [[ca:Regne Unit de la Gran Bretanya i Irlanda del Nord]] [[cs:Velká Británie]] [[cy:Y Deyrnas Unedig]] [[da:Det Forenede Kongerige]] [[de:Großbritannien und Nordirland]] [[et:Suurbritannia]] [[el:Ηνωμένο Βασίλειο]] [[en:United Kingdom]] [[es:Reino Unido]] [[eo:Unuigita Reĝlando de Britio kaj Nord-Irlando]] [[ga:An Ríocht Aontaithe]] [[gl:Reino Unido]] [[ko:영국]] [[id:Britania Raya]] [[ia:Regno Unite]] [[it:Regno Unito]] [[he:הממלכה המאוחדת]] [[la:Regnum Unitum]] [[lt:Jungtinė Karalystė]] [[ms:United Kingdom]] [[nl:Verenigd Koninkrijk]] [[ja:イギリス]] [[no:Storbritannia]] [[oc:Reialme Unit]] [[nds:Groot Britannien]] [[pl:Wielka Brytania]] [[pt:Reino Unido]] [[ro:Regatul Unit]] [[rm:Reginavel Unì da la Gronda Britannia ed Irlanda dal Nord]] [[ru:Великобритания]] [[simple:United Kingdom]] [[sl:Združeno kraljestvo]] [[fi:Yhdistynyt kuningaskunta]] [[sv:Storbritannien]][[tl:Nagkakaisang Kaharian]] [[ur:برطانیہ]] [[vi:Liên hiệp Vương quốc Anh và Bắc Ai-len]] [[zh-cn:英国]] [[zh-tw:英國]] [[zh-min-nan:Li&#226;n-ha&#781;p &#212;ng-kok]]
 {{bokokani}}
-
+{{lingála tɛ́}}
 
 {{Infobox_country|
-native_name = United Kingdom of Great Britain and Northern Ireland |
-common_name = Ingɛlɛ́tɛlɛ |
+nkómbó_na_lokóta = United Kingdom of Great Britain and Northern Ireland |
+nkómbó = Ingɛlɛ́tɛlɛ |
 image_flag = uk flag large.png |
 image_coat = UK_Royal_Coat_of_Arms.png |
 image_map = LocationUnitedKingdom.png |
-national_motto = [[Dieu et mon droit]] (Royal motto)<br>([[Lifalansé]]: Nzambe nde likokí na ngai)''<sup>2</sup></small> |
-national_anthem = [[God Save the Queen]]<sup>3</sup> |
-official_languages = [[Nkotá ya Ingɛlɛ́tɛlɛ|None]]; [[Lingɛlɛsa]] ''[[de facto]]'' <sup>4</sup> |
-capital = [[Londoni]] |
+mokáno = [[Dieu et mon droit]] (Royal motto)<br>([[Lifalansé]]: Nzámbe ndé likoki na ngáí)''<sup>2</sup></small> |
+loyémbo = [[God Save the Queen]]<sup>3</sup> |
+nkótá_ya_lɛ́ta = [[Nkotá ya Ingɛlɛ́tɛlɛ|None]]; [[Lingɛlɛsa]] ''[[de facto]]'' <sup>4</sup> |
+engúmba_mokonzi = [[Londoni]] |
 latd=51|latm=30|latNS=N|longd=0|longm=7|longEW=W|
-largest_city = [[Londoni]] |
+engúmba_monɛ́nɛ = [[Londoni]] |
 government_type = [[Constitutional monarchy]] |
 leader_titles = [[British monarchy|Queen]]<br>[[Prime Minister of the United Kingdom|Prime Minister]] |
 leader_names =  [[Elizabeth II ya Ingɛlɛ́tɛlɛ|Elizabeth II]]<br>[[Tony Blair]] |
@@ -36,11 +36,11 @@ GDP_PPP_per_capita_rank = 15th |
 sovereignty_type = [[Act of Union 1800|Establishment]] |
 established_events =  |
 established_dates = 1801<sup>5</sup>|
-currency = [[Pound Sterling|British pound]] (&pound;) |
+mosɔlɔ = [[Pound Sterling|British pound]] (&pound;) |
 currency_code =  GBP |
-time_zone = [[GMT]] |
+ngonga = [[GMT]] |
 utc_offset = +0 |
-time_zone_DST = [[British Summer Time|BST]] |
+ngonga_DST = [[British Summer Time|BST]] |
 utc_offset_DST = +1 |
 cctld= [[.uk]]<sup>7</sup> |
 calling_code = 44 |
