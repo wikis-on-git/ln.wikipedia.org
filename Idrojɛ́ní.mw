@@ -26,7 +26,7 @@
 ! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Lingómba]], [[période du tableau périodique|Eleko]], [[bloc du tableau périodique|blok]]
 | [[éléments du groupe 1|1]], [[éléments de la période 1|1]], [[éléments du bloc s|s]]
 |-
-! align=left bgcolor=#E0E0E0 | [[Masse volumique]]
+! align=left bgcolor=#E0E0E0 | [[Masi ya mbinga]]
 | 0,0899 [[kilogrammes par mètre cube|kg/m<sup>3</sup>]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Bokasi]] ya [[échelle de Mohs|Mohs]]
@@ -53,53 +53,54 @@
 | 1s<sup>1</sup>
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Baélectron]] na<br />[[niveau d'énergie]]
-| {{{électrons_par_niveau}}}
+| 1
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[état d'oxydation|États d'oxydation]]<br />([[oxyde]])
-| {{{états_oxydation}}}<br />{{{oxyde}}}
+! align=left bgcolor=#E0E0E0 | [[Boyangeli ya oxydation|Boyangeli(état) ya oxydation]]<br />([[oxyde]])
+| 1<br />amfoter
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Structure cristalline|Structure<br />cristalline]]
-| {{{liens_structures|[[{{{structure_cristalline}}}]]}}}
+| {{{liens_structures|[[Exagonal]]}}}
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés physiques
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[état de la matière|État ordinaire]]
-| {{{état}}}
+| Gaz
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[température de fusion|Température<br />de fusion]]
-| {{{T_fusion}}} [[kelvin|K]]
+| 
+14,025 [[kelvin|K]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[température de vaporisation|Température<br />de vaporisation]]
-| {{{T_vaporisation}}} K
+| 20,268 K
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Énergie de fusion]]
-| {{{E_fusion}}} [[kilojoule par mole|kJ/mol]]
+| 0,05868 [[kilojoule par mole|kJ/mol]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[énergie de vaporisation|Énergie<br />de vaporisation]]
-| {{{E_vaporisation}}} kJ/mol
+| 0,44936 kJ/mol
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Volume molaire]]
-| {{{volume_molaire}}} [[Mètre cube par mole|m³/mol]]
+! align=left bgcolor=#E0E0E0 | [[Mbinga ya mole]]
+| 11,42×10<sup>-3</sup> [[Mètre cube par mole|m³/mol]]
 |- valign="top"
 ! align=left bgcolor=#E0E0E0 | [[Pression de vapeur]]
-| {{{pression_vapeur}}}
+| 209 [[Pascal|Pa]] na 23 K
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
-| {{{vélocité}}} [[mètre par seconde|m/s]] à 20 °C
+| 1 270 [[mètre par seconde|m/s]] à 20 °C
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Divers
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Électronégativité]]<br />([[échelle de Pauling|Pauling]])
-| {{{électronégativité}}}
+| 2,2
 |- valign=top
 ! align="left" bgcolor=#E0E0E0 | [[Chaleur massique]]
-| {{{capacité_calorique}}} [[Joule par kilogramme-kelvin|J/(kg.K)]]
+| 14 304 [[Joule par kilogramme-kelvin|J/(kg.K)]]
 |- valign=top
 ! align="left" bgcolor="#E0E0E0" | [[Conductivité électrique]]
-| {{{cond_electrique}}} [[siemens (unité)|S]]/m
+| — [[siemens (unité)|S]]/m
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Conductivité thermique]]
-| {{{cond_thermique}}} [[Watt par mètre-kelvin|W/(m.K)]]
+| 	0,1815 [[Watt par mètre-kelvin|W/(m.K)]]
 |- valign=top
-! align=left bgcolor=#E0E0E0 | 1{{exp|er}} [[ion|potentiel d'ionisation]]
-| {{{pot_ion_1}}} kJ/mol
+! align=left bgcolor=#E0E0E0 | 1<sup>er</sup> [[ion|potentiel d'ionisation]]
+| 1 312 kJ/mol
