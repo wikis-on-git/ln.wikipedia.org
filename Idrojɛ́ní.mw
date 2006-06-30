@@ -1,58 +1,58 @@
 {| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
-! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''{{{nom}}}''
+! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Idrojɛ́ní''
 |-
-| align=center colspan=2 | [[Image:{{{symbole}}},{{{numéro}}}.jpg|250px]]
+| align=center colspan=2 | [[Image:H%2C1.jpg|250px]]
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés générales
 |-
 | colspan=2 |
 {| width="100%" border=0 cellspacing=0
 |-
-| rowspan=2 | {{{haut}}}<br />↑<br />{{{symbole}}}<br />↓<br />{{{bas}}}
-| align=center | {{{précédent}}} ← {{{symbole}}} → {{{suivant}}}
+| rowspan=2 | -<br />↑<br />H<br />↓<br />Li
+| align=center | - ← H → He
 |- align=center valign=top
-| [[Image:{{{symbole}}}-TableImage.png|250px]]<br /><small>[[tableau périodique des éléments|Table complète]]</small>
+| [[Image:H-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
-! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nom]]
-| {{{nom}}}
+! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
+| Idrojɛ́ní
 |-
-! align=left bgcolor=#E0E0E0 | [[numéro atomique|{{ind|Z}}]][[liste des éléments par symbole|Symbole]] 
-| {{ind|{{{numéro}}}}}{{{symbole}}}
+! align=left bgcolor=#E0E0E0 | [[numéro atomique|<sub>Z</sub>]][[liste des éléments par symbole|Elembo]] 
+| <sub>1</sub>H
 |-
 ! align=left bgcolor=#E0E0E0 | [[Série chimique]]
-| [[{{{série_chimique}}}]]
+| Non-metal*
 |-
-! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Groupe]], [[période du tableau périodique|période]], [[bloc du tableau périodique|bloc]]
-| [[éléments du groupe {{{groupe}}}|{{{groupe}}}]], [[éléments de la période {{{période}}}|{{{période}}}]], [[éléments du bloc {{{bloc}}}|{{{bloc}}}]]
+! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Lingómba]], [[période du tableau périodique|Eleko]], [[bloc du tableau périodique|blok]]
+| [[éléments du groupe 1|1]], [[éléments de la période 1|1]], [[éléments du bloc s|s]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Masse volumique]]
-| {{{masse_volumique}}} [[kilogrammes par mètre cube|kg/m{{exp|3}}]]
+| 0,0899 [[kilogrammes par mètre cube|kg/m<sup>3</sup>]]
 |-
-! align=left bgcolor=#E0E0E0 | [[Dureté]] [[échelle de Mohs|Mohs]]
-| {{{dureté}}}
+! align=left bgcolor=#E0E0E0 | [[Bokasi]] ya [[échelle de Mohs|Mohs]]
+| —
 |-
-! align=left bgcolor=#E0E0E0 | [[Couleur]]
-| {{{couleur}}}
+! align=left bgcolor=#E0E0E0 | [[Lángi]]
+| Ezate
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés atomiques
 |-
-! align=left bgcolor=#E0E0E0 | [[Masse atomique]] 
-| {{{masse_atomique}}} [[unité de masse atomique|u]]
+! align=left bgcolor=#E0E0E0 | [[Masi ya atome]] 
+| 1,00794 [[lyoko ya masi ya atome|u]]
 |-
-! align=left bgcolor=#E0E0E0 | [[Rayon atomique]]<br />(calc.)
-| {{{rayon_atomique}}} [[picomètre|pm]]
+! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
+| 25 (53)  [[picomètre|pm]]
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[rayon de covalence|Rayon de<br />covalence]] 
-| {{{rayon_de_covalence}}} pm
+! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
+| 37 pm
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[rayon de van der Waals|Rayon de<br />van der Waals]]
-| {{{rayon_de_van_der_waals}}} pm
+! align=left bgcolor=#E0E0E0 | [[nsasa ya van der Waals|Reyo de<br />van der Waals]]
+| 120 pm
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Configuration électronique|Configuration<br />électronique]]
-| {{{configuration_électronique}}}
+| 1s<sup>1</sup>
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Électron]]s par<br />[[niveau d'énergie]]
+! align=left bgcolor=#E0E0E0 | [[Baélectron]] na<br />[[niveau d'énergie]]
 | {{{électrons_par_niveau}}}
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[état d'oxydation|États d'oxydation]]<br />([[oxyde]])
