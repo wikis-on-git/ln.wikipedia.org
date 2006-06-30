@@ -1,0 +1,105 @@
+{| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
+! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''{{{nom}}}''
+|-
+| align=center colspan=2 | [[Image:{{{symbole}}},{{{numéro}}}.jpg|250px]]
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés générales
+|-
+| colspan=2 |
+{| width="100%" border=0 cellspacing=0
+|-
+| rowspan=2 | {{{haut}}}<br />↑<br />{{{symbole}}}<br />↓<br />{{{bas}}}
+| align=center | {{{précédent}}} ← {{{symbole}}} → {{{suivant}}}
+|- align=center valign=top
+| [[Image:{{{symbole}}}-TableImage.png|250px]]<br /><small>[[tableau périodique des éléments|Table complète]]</small>
+|}
+|-
+! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nom]]
+| {{{nom}}}
+|-
+! align=left bgcolor=#E0E0E0 | [[numéro atomique|{{ind|Z}}]][[liste des éléments par symbole|Symbole]] 
+| {{ind|{{{numéro}}}}}{{{symbole}}}
+|-
+! align=left bgcolor=#E0E0E0 | [[Série chimique]]
+| [[{{{série_chimique}}}]]
+|-
+! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Groupe]], [[période du tableau périodique|période]], [[bloc du tableau périodique|bloc]]
+| [[éléments du groupe {{{groupe}}}|{{{groupe}}}]], [[éléments de la période {{{période}}}|{{{période}}}]], [[éléments du bloc {{{bloc}}}|{{{bloc}}}]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Masse volumique]]
+| {{{masse_volumique}}} [[kilogrammes par mètre cube|kg/m{{exp|3}}]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Dureté]] [[échelle de Mohs|Mohs]]
+| {{{dureté}}}
+|-
+! align=left bgcolor=#E0E0E0 | [[Couleur]]
+| {{{couleur}}}
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés atomiques
+|-
+! align=left bgcolor=#E0E0E0 | [[Masse atomique]] 
+| {{{masse_atomique}}} [[unité de masse atomique|u]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Rayon atomique]]<br />(calc.)
+| {{{rayon_atomique}}} [[picomètre|pm]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[rayon de covalence|Rayon de<br />covalence]] 
+| {{{rayon_de_covalence}}} pm
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[rayon de van der Waals|Rayon de<br />van der Waals]]
+| {{{rayon_de_van_der_waals}}} pm
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Configuration électronique|Configuration<br />électronique]]
+| {{{configuration_électronique}}}
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Électron]]s par<br />[[niveau d'énergie]]
+| {{{électrons_par_niveau}}}
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[état d'oxydation|États d'oxydation]]<br />([[oxyde]])
+| {{{états_oxydation}}}<br />{{{oxyde}}}
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Structure cristalline|Structure<br />cristalline]]
+| {{{liens_structures|[[{{{structure_cristalline}}}]]}}}
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Propriétés physiques
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[état de la matière|État ordinaire]]
+| {{{état}}}
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[température de fusion|Température<br />de fusion]]
+| {{{T_fusion}}} [[kelvin|K]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[température de vaporisation|Température<br />de vaporisation]]
+| {{{T_vaporisation}}} K
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Énergie de fusion]]
+| {{{E_fusion}}} [[kilojoule par mole|kJ/mol]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[énergie de vaporisation|Énergie<br />de vaporisation]]
+| {{{E_vaporisation}}} kJ/mol
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Volume molaire]]
+| {{{volume_molaire}}} [[Mètre cube par mole|m³/mol]]
+|- valign="top"
+! align=left bgcolor=#E0E0E0 | [[Pression de vapeur]]
+| {{{pression_vapeur}}}
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
+| {{{vélocité}}} [[mètre par seconde|m/s]] à 20 °C
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Divers
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Électronégativité]]<br />([[échelle de Pauling|Pauling]])
+| {{{électronégativité}}}
+|- valign=top
+! align="left" bgcolor=#E0E0E0 | [[Chaleur massique]]
+| {{{capacité_calorique}}} [[Joule par kilogramme-kelvin|J/(kg.K)]]
+|- valign=top
+! align="left" bgcolor="#E0E0E0" | [[Conductivité électrique]]
+| {{{cond_electrique}}} [[siemens (unité)|S]]/m
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Conductivité thermique]]
+| {{{cond_thermique}}} [[Watt par mètre-kelvin|W/(m.K)]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | 1{{exp|er}} [[ion|potentiel d'ionisation]]
+| {{{pot_ion_1}}} kJ/mol
