@@ -14,23 +14,23 @@
 | [[Image:C-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
-! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
+! align=left bgcolor=#E0E0E0 | [[Nkásá ya bankombo|Nkombo]]
 | Kaboni
 |-
-! align=left bgcolor=#E0E0E0 | [[numéro atomique|<sub>Z</sub>]][[liste des éléments par symbole|Elembo]] 
+! align=left bgcolor=#E0E0E0 | [[motanga ya atome|<sub>Z</sub>]][[nkásá ya bilembo|Elembo]] 
 | <sub>6</sub>C
 |-
-! align=left bgcolor=#E0E0E0 | [[Série chimique]]
+! align=left bgcolor=#E0E0E0 | [[Seria ya kémi]]
 | Non-metal*
 |-
-! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Lingómba]], [[période du tableau périodique|Eleko]], [[bloc du tableau périodique|blok]]
-| [[éléments du groupe 14|14]], [[éléments de la période 2|2]], [[éléments du bloc p|p]]
+! align=left bgcolor=#E0E0E0 | [[Lingómba ya Etánda ya bileko|Lingómba]], [[Bileko ya Etánda ya bileko|Eleko]], [[blok ya Etánda ya bileko|blok]]
+| [[éléments ya lingómba 14|14]], [[éléments ya eleko 2|2]], [[éléments ya glok p|p]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Masi ya mbinga]]
-| <small>grafite:</small> 2267 [[kilogrammes par mètre cube|kg/m<sup>3</sup>]]
+| <small>grafite:</small> 2267 [[kilogrammes na métele cube|kg/m<sup>3</sup>]]
 |-
-! align=left bgcolor=#E0E0E0 | [[Bokasi]] ya [[échelle de Mohs|Mohs]]
-| 0,5 <small>([[graphite]])</small><br />10,0
+! align=left bgcolor=#E0E0E0 | [[Bokasi]] ya [[échelle ya Mohs|Mohs]]
+| 0,5 <small>([[grafite]])</small><br />10,0 [[diamant]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Lángi]]
 | Moíndo <small>(grafite)</small><br />Transparent <small>(diamant)</small>
@@ -41,7 +41,7 @@
 | 12,0107 [[lyoko ya masi ya atome|u]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
-| 70 (67)  [[picomètre|pm]]
+| 70 (67)  [[picométele|pm]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
 | 77 pm
@@ -49,8 +49,8 @@
 ! align=left bgcolor=#E0E0E0 | [[nsasa ya van der Waals|Reyo de<br />van der Waals]]
 | 170 pm
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Configuration électronique|Configuration<br />électronique]]
-| [[Hélium|He]]2[[Orbitale-s|s]]<sup>2</sup> 2[[Orbitale-p|p]]<sup>2</sup>
+! align=left bgcolor=#E0E0E0 | [[Configuration ya baélektron|Configuration<br />ya baélektron]]
+| [[Eliyúmu|He]]2[[Orbitale-s|s]]<sup>2</sup> 2[[Orbitale-p|p]]<sup>2</sup>
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Baélectron]] na<br />[[niveau d'énergie]]
 | 2, 4
@@ -63,14 +63,14 @@
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya  Fízíkí 
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[état de la matière|État ordinaire]]
+! align=left bgcolor=#E0E0E0 | [[boyangeli ya bilɔkɔ|Boyangeli nayango]]
 | [[Bokási]] [[diamaniétik]]
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[température de fusion|Température<br />de fusion]]
+! align=left bgcolor=#E0E0E0 | [[Temperature ya fusion|Temperature<br />de fusion]]
 | 
 3 773 [[kelvin|K]]
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[température de vaporisation|Température<br />de vaporisation]]
+! align=left bgcolor=#E0E0E0 | [[Temperature ya vaporisation|Temperature<br />ya vaporisation]]
 | 5 100 K
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Énergie de fusion]]
@@ -80,12 +80,12 @@
 | 355,8 kJ/mol
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Mbinga ya mole]]
-| 5,29×10<sup>-6</sup> [[Mètre cube par mole|m³/mol]]
+| 5,29×10<sup>-6</sup> [[Métele cube na mole|m³/mol]]
 |- valign="top"
-! align=left bgcolor=#E0E0E0 | [[Pression de vapeur]]
+! align=left bgcolor=#E0E0E0 | [[Enyete de vapeur]]<br>(pression)
 | 
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
+! align=left bgcolor=#E0E0E0 | [[Mbángo ya son]]
 | 18 350 [[mètre par seconde|m/s]] à 20 °C
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Misusu
@@ -93,13 +93,13 @@
 ! align=left bgcolor=#E0E0E0 | [[Électronégativité]]<br />([[échelle de Pauling|Pauling]])
 | 2,55
 |- valign=top
-! align="left" bgcolor=#E0E0E0 | [[Chaleur massique]]
+! align="left" bgcolor=#E0E0E0 | [[Molungé massique]]
 | 710 [[Joule par kilogramme-kelvin|J/(kg.K)]]
 |- valign=top
-! align="left" bgcolor="#E0E0E0" | [[Conductivité électrique]]
+! align="left" bgcolor="#E0E0E0" | [[Ememe ya électrique]]
 | 61×10<sup>3</sup> [[siemens (unité)|S]]/m
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Conductivité thermique]]
+! align=left bgcolor=#E0E0E0 | [[Ememe ya thermique]]
 | 129 [[Watt par mètre-kelvin|W/(m.K)]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | 1<sup>er</sup> [[ion|potentiel d'ionisation]]
