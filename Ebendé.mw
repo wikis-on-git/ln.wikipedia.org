@@ -3,8 +3,135 @@
 == Tálá mpé ==
 * [[ebendé ya mpúnda]]
 * 
+
 {{ndámbo}}
+
+
+{| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
+! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Ebendé''
+|-
+| align=center colspan=2 | [[Image:Ebendé.jpg|250px]]
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Makoki bayike
+|-
+| colspan=2 |
+{| width="100%" border=0 cellspacing=0
+|-
+| rowspan=2 | -<br />↑<br />Fe<br />↓<br />Ru
+| align=center | Mn ← Fe → Co
+|- align=center valign=top
+| [[Image:Fe-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
+|}
+|-
+! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
+| Ebendé
+|-
+! align=left bgcolor=#E0E0E0 | [[numéro atomique|<sub>26</sub>]][[liste des éléments par symbole|Elembo]] 
+| <sub>2</sub>Fe
+|-
+! align=left bgcolor=#E0E0E0 | [[Série chimique]]
+| *Métaux de transition
+|-
+! align=left bgcolor=#E0E0E0 | [[groupe du tableau périodique|Lingómba]], [[période du tableau périodique|Eleko]], [[bloc du tableau périodique|blok]]
+| [[éléments du groupe 8|8]], [[éléments de la période 4|4]], [[éléments du bloc d|d]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Masi ya mbinga]]
+| 7874 [[kilogrammes par mètre cube|kg/m<sup>3</sup>]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Bokasi]] ya [[échelle de Mohs|Mohs]]
+| 4
+|-
+! align=left bgcolor=#E0E0E0 | [[Lángi]]
+| *blanc argenté, *gris
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya baatome
+|-
+! align=left bgcolor=#E0E0E0 | [[Masi ya atome]] 
+| 55.845 [[lyoko ya masi ya atome|u]]
+|-
+! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
+| 140 (156)  [[picomètre|pm]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
+| 125 pm
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[nsasa ya van der Waals|Reyo de<br />van der Waals]]
+| -
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Configuration électronique|Configuration<br />électronique]]
+| <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki>3d<sup>6</sup>4s<sup>2</sup>
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Baélectron]] na<br />[[niveau d'énergie]]
+| 2, 8, 14, 2
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Boyangeli ya oxydation|Boyangeli(état) ya oxydation]]<br />([[oxyde]])
+| 2, '''3''', 4, 6
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Structure cristalline|Structure cristalline]]
+| {{{liens_structures|[[*Cubique face centrée]]}}}
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya  Fízíkí 
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[état de la matière|État ordinaire]]
+| *solide, *ferromagnétique
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[température de fusion|Température<br />de fusion]]
+| 1808 [[kelvin|K]] (1535 [[Celsius|°C]]) 
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[température de vaporisation|Température<br />de vaporisation]]
+| 3023 K (2750 °C)
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Énergie de fusion]]
+| 13,8 [[kilojoule par mole|kJ/mol]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[énergie de vaporisation|Énergie<br />de vaporisation]]
+| 349,6 kJ/mol
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Mbinga ya mole]]
+| 7,09×10<sup>-6</sup> [[Mètre cube par mole|m³/mol]]
+|- valign="top"
+! align=left bgcolor=#E0E0E0 | [[Pression de vapeur]]
+| 7,05 Pa
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
+| 4910 [[mètre par seconde|m/s]] à 20°C
+|-
+! align=center bgcolor=#C0C0C0 colspan=2 | Misusu
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Électronégativité]]<br />([[échelle de Pauling|Pauling]])
+| 1,83
+|- valign=top
+! align="left" bgcolor=#E0E0E0 | [[Chaleur massique]]
+| 440 [[Joule par kilogramme-kelvin|J/(kg.K)]]
+|- valign=top
+! align="left" bgcolor="#E0E0E0" | [[Conductivité électrique]]
+| 9,93×10<sup>-6</sup> [[siemens (unité)|S]]/m
+|- valign=top
+! align=left bgcolor=#E0E0E0 | [[Conductivité thermique]]
+|80,2 [[Watt par mètre-kelvin|W/(m.K)]]
+|- valign=top
+! align=left bgcolor=#E0E0E0 | 1<sup>er</sup> [[ion|potentiel d'ionisation]]
+| 762,5 kJ/mol
+|- valign=top
+! align=left bgcolor=#E0E0E0 | 2<sup>e</sup> potentiel d'ionisation
+|1561,9
+<!---
+|- valign=top
+!isotope
+|- valign=top
+|isotope stable   | isotope=<sub>3</sub>He | an=10<sup>-4</sup> | n=1
+|- valign=top
+|isotope stable   | isotope=<sub>4</sub>He | an='''100''' | n=2
+|- valign=top
+|isotope instable | isotope=<sub>6</sub>He | an=[[radioisotope synthétique|''syn.'']] | pr=0,806 7 s 
+|- valign=top
+| md=[[désintégration β|β<sup>-</sup>]] | ed=3,5 | pd=<sub>6</sub>[[lithium|Li]]
+--->}}
+
+
+
 [[Category:Kémi]]
+
 [[af:Yster]]
 [[als:Eisen]]
 [[ar:حديد]]
