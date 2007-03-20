@@ -1,7 +1,32 @@
-{{Bokokani}} 
-
+{{Bokokani}}
+<div style="float:right; font-size:90%; text-align:center; margin-right:0.5em; margin-left:1.5em; margin-bottom:1em; background-color:#FFFFFF; border:solid 1px #000000; width: 120px">
 {|align="center" width="100%" colspan="5"|[[motáné]] :
-|- align="center"
-|[[motáné soo]] || [[lángi la malála|ya malála]] || [[motáné ngbaa]] || [[maron]] || [[rose]]
+|------ align="center"
+|[[motáné soo]]
 |-
-| style="background-color:yellow; width: 20%"| &nbsp; ||style="background-color:orange; width: 20%"| &nbsp; ||style="background-color:red; width: 20%"| &nbsp; ||style="background-color:#965220; width: 20%"| &nbsp; ||style="background-color:pink; width: 20%"|}
+| style="background-color:yellow;"| &nbsp; 
+|------ align="center"
+|[[motáné soo]]
+|-
+| style="background-color:orange;"| &nbsp; 
+|------ align="center"
+|[[lángi la malála|ya malála]]
+|-
+| style="background-color:red;"| &nbsp; 
+|------ align="center"
+|[[maron]]
+|-
+| style="background-color:#965220;"| &nbsp; 
+|------ align="center"
+|[[rose]]
+|-
+| style="background-color:pink"| &nbsp; 
+|}
+</div>
+Lángi '''motáné''' ezalí [[lángi]] míngi. 
+Ekokí kozala lángi motáné soo lokola [[mói]] tǒ [[mwesé]], [[mɔ̌tɔ]], mpé [[wólo]].
+Ekokí kozala [[lángi la malála]] tǒ [[maron]]
+Mpé ekokí kozala lángi [[rose]].
+
+{{ndámbo}}
+[[Category:Lángi]]
