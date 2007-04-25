@@ -1,62 +1,126 @@
-{| border="1" cellpadding="2" cellspacing="0" align="right" width="290px" style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
-|+<font size="+1">'''Timór Lorosa’e'''<br>'''Timor-Leste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'''</font>
-|-
-| style="background:#ffffff;" align="center" colspan="2" |
-{| border="0" cellpadding="2" cellspacing="0" tyle="background:#f9f9f9; text-align:center;"
-|-
-| align="center" width="135px" | [[Image:Flag of East Timor.svg|130 px|Bandeira de Timor-Leste]]
-| align="center" width="135px" | [[Imagem:Timor-Leste CoA.gif|100px|Brasão de Timor-Leste]]
-|-
-| align="center" width="135px" | ([[Bandeira de Timor-Leste|Em detalhe]])
-| align="center" width="135px" | ([[Brasão de armas de Timor-Leste|Em detalhe]])
-|}
-|-
-| align="center" colspan=2 style="border-bottom:1px solid gray;" | <font size="-1">''[[Lema]]: "Honra, Pátria e Povo"''</font>
-|-
-| align=center colspan=2 | [[Imagem:LocationEastTimor.svg|270px]]
-|-
-| [[Língua oficial|Línguas oficiais]]
-| [[Tétum]] e [[Língua portuguesa|português]], o inglês e o bahassa indonésio são consideradas línguas de trabalho.
-|-
-| [[Capital]]
-| [[Díli]]
-|-
-| [[Lista de presidentes de Timor-Leste|Presidente]]
-| [[Xanana Gusmão]]
-|-
-| [[Lista de primeiros-ministros de Timor-Leste|Primeiro-Ministro]]
-| [[José Ramos Horta|Ramos Horta]]
-|-
-| [[Área]]<br>&nbsp;- Total <br>&nbsp;- % água
-| [[Lista de países por área|154º maior]] <br> 14.615 [[quilómetro quadrado|km&sup2;]] <br> Insignificante
-|-
-| [[População]]
-<br>&nbsp;- Total ([[2002]])
-<br>&nbsp;- [[Densidade populacional|Densidade]]
-| [[Lista de países por população|152º mais populoso]]
-<br> 924.000
-<br> 63,22/km&sup2;
-|-
-| [[Independência]]
-<br>&nbsp;- Declarada
-<br><br><br>&nbsp;- Reconhecida
-| De [[Portugal]]
-<br>[[28 de Novembro]] de [[1975]]
-<br><br> Da [[Indonésia]]
-<br>[[20 de Maio]] de [[2002]]
-|-
-| [[Moeda]]
-| [[Dólar americano]]
-|-
-| [[Fuso horário]]
-| [[Tempo Universal Coordenado|UTC]] +9
-|-
-| [[Hino nacional]]
-| [[Hino nacional do Timor-Leste|Pátria]]
-|-
-| [[TLD (Internet)]]
-| .tp (vai mudar para .tl)
-|-
-| [[Código telefónico]]
-| 670
-|}
+{{Infobox Esé|
+|nkómbó 			= Republiki ya Timor ya monyɛlɛ|
+|nkómbó_na_lokótá	= Repúblika Demokrátika Timór-Leste| 
+República Democrática de Timor-Leste|
+|image_flag 		= Flag_of_East_Timor.svg‎ |
+|image_coat 		= Timor-Leste_CoA.gif |
+|image_map 		= LocationEastTimor.svg‎ |
+|mokáno			= ''Honra, Pátria e Povo''
+|loyémbo          = [[Pátria]]
+|nkótá_ya_lɛ́ta 		 = [[Liputrugɛ́shi]] |
+|mbóka-mokonzi 		= Dili|
+|engúmba_monɛ́nɛ 	= [[Dili]]|
+|nkótá_ya_lɛ́ta 		= [[Liputrugɛ́shi]] |
+|loléngé_lɛ́ta  	= [[Republiki]]|
+|babengí_mokambi	= [[Bakambi-ekólo ba Angola|Mokonzi wa ekólo]] |
+|nkómbó_mokambi 	= [[José ´Xanana´ Gusmão]] |
+|etando 			= 14,609 |
+|etando_limati		=ya 23|
+|etando_bonɛ́nɛ		=2 E9|
+|ndámbo_mái =3.3|
+|bato_ndakisa-mitúya 	= 947 000|
+|bato_ndakisa-mitúya_mbúla=2005|
+|bato_ndakisa-mitúya_limati=23 |
+|bato_na_etando 	= 27|
+|bato_na_etando_limati=ya 182 |
+|BOTIBO_BOZIBI 		= 35,798|
+|BOTIBO_BOZIBI_mbúla=2003|
+|BOTIBO_BOZIBI_limati=ya 7|
+|BOTIBO_BOZIBI_moto_na_moto 	= 673|
+|BOTIBO_BOZIBI_moto_na_moto_limati=ya 189|
+|sovereignty_type 	=[[dipanda]] |
+|established_events 	= - dipanda na [[Pulutugal]]|
+|established_dates 	= <br/>- 1975-[[sánzá ya motóbá mikɔlɔ 11|28-11]]|
+|mosɔlɔ 	 	= [[Dolar]]|currency_code=USD|
+|ngonga 		= [[Temps universel coordonné|UTC]] |utc_offset=+1 na +2 |
+|ngonga_DST	= - | utc_offset_DST=- |
+|cctld		= .[[ISO 3166-2:AO|AO]] |
+|calling_code	= 670|
+}}
+
+'''Republiki ya Angola''' ezalí esé ya Afríka. Ekabwaní o likólo na Kongo-Kinsásá mpé Namibia ya yě ya mwa sánzá ya motóbá mikɔlɔ 11 - 1975, ekólo ya makokí, lipandá, bonsɔ́mí, ekanganí mpé ekabwaní tɛ́, ya bato, ya bokonzi boútí na bato mpé epɔní eyamba yɔ̌kɔ́ tɛ́.
+
+{{Bisé ya Afríka}}
+{{ndámbo}}
+
+[[Category:Esé ya Azía]]
+[[Category:Esé]]
+[[Category:Timor|*]]
+
+[[ar:تيمور الشرقية]]
+[[an:Timor Oriental]]
+[[frp:Timor orientâl]]
+[[ast:Timor Oriental]]
+[[az:Şərqi Timor]]
+[[zh-min-nan:Tang Timor]]
+[[be:Тымор-Лешці]]
+[[bs:Istočni Timor]]
+[[bg:Източен Тимор]]
+[[ca:Timor Oriental]]
+[[cs:Východní Timor]]
+[[cy:Dwyrain Timor]]
+[[da:Østtimor]]
+[[de:Osttimor]]
+[[et:Ida-Timor]]
+[[el:Ανατολικό Τιμόρ]]
+[[es:Timor Oriental]]
+[[eo:Orienta Timoro]]
+[[eu:Ekialdeko Timor]]
+[[fa:تیمور شرقی]]
+[[fr:Timor oriental]]
+[[fy:East Timor]]
+[[gl:Timor Leste - Timor Lorosa'e]]
+[[ko:동티모르]]
+[[hi:पूर्वी तीमोर]]
+[[hsb:Wuchodny Timor]]
+[[hr:Istočni Timor]]
+[[io:Timor Leste]]
+[[ilo:Daya a Timor]]
+[[id:Timor Timur]]
+[[ia:Timor Oriental]]
+[[is:Austur-Tímor]]
+[[it:Timor Est]]
+[[he:מזרח טימור]]
+[[kk:Тимор-Лесте]]
+[[kw:Timor Est]]
+[[sw:Timor ya Mashariki]]
+[[ku:Tîmora Rojhelat]]
+[[la:Timoria Orientalis]]
+[[lv:Austrumtimora]]
+[[lt:Rytų Timoras]]
+[[li:Oos-Timor]]
+[[hu:Kelet-Timor]]
+[[mk:Источен Тимор]]
+[[ms:Timor Leste]]
+[[nl:Oost-Timor]]
+[[ja:東ティモール]]
+[[no:Øst-Timor]]
+[[nn:Aust-Timor]]
+[[nov:Timor-Leste]]
+[[oc:Timòr Èst]]
+[[pam:East Timor]]
+[[ps:ختيځ ټيمور]]
+[[pms:Timor Est]]
+[[nds:Oosttimor]]
+[[pl:Timor Wschodni]]
+[[pt:Timor-Leste]]
+[[ro:Timorul de Est]]
+[[ru:Восточный Тимор]]
+[[se:Nuorta-Timor]]
+[[sq:Timori Lindor]]
+[[scn:Timor Est]]
+[[simple:East Timor]]
+[[sk:Východný Timor]]
+[[sl:Vzhodni Timor]]
+[[sr:Источни Тимор]]
+[[sh:Istočni Timor]]
+[[fi:Itä-Timor]]
+[[sv:Östtimor]]
+[[tl:Silangang Timor]]
+[[tet:Timór Lorosa'e]]
+[[th:ประเทศติมอร์ตะวันออก]]
+[[vi:Đông Timor]]
+[[tr:Doğu Timor]]
+[[uk:Східний Тимор]]
+[[vo:Lofüda-Timoreän]]
+[[zh:东帝汶]]
