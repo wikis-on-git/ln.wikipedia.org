@@ -1,43 +1,22 @@
-{{Taxobox animal | Mboto | Common carp.jpg | ''Cyprinus carpio''}}
-{{Taxobox phylum | Chordata }}
-{{Taxobox classe | Actinopterygii }}
-{{Taxobox ordre | Cypriniformes }}
-{{Taxobox famille | Cyprinidae }}
-{{Taxobox genre | Cyprinus }}
-{{Taxobox binomial animal | Cyprinus carpio | [[Carl von Linné|Linnaeus]], [[1758]] }}
-{{Taxobox commons|Cyprinus_carpio}}
+{{Taxobox animal | Mboto | Common carp.jpg | ''Distichodus''}}
+{{Taxobox phylum                | Chordata }}
+{{Taxobox sous-embranchement    | Vertebrata }}
+{{Taxobox super-classe          | Osteichthyes }}
+{{Taxobox classe                | Actinopterygii }}
+{{Taxobox sous-classe           | Neopterygii }}
+{{Taxobox infra-classe          | Teleostei }}
+{{Taxobox super-ordre           | Ostariophysi  }}
+{{Taxobox ordre                 | Characiformes}}
+{{Taxobox famille               | Alestiidae}}
+{{Taxobox wikispecies           | Distichodus }}
+{{Taxobox commons               | Category:Distichodus }}
 {{Taxobox fin}}
 
-'''Mboto ''' (''Cyprinus carpio'') ezalí [[mbísi]] ya [[moliba]] mpé [[eliba]].
+'''Mbótó ''' (''Distichodus sp.'') ezalí [[mbísi]] ya [[moliba]] mpé [[eliba]].
 
 == Tála mpé ==
-* {{FishBase espèce|1450|''Cyprinus carpio carpio''  L., 1758 }}
-* {{ITIS|163344|''Cyprinus carpio''  L., 1758 }}
-* {{IUCN|6181|''Cyprinus carpio''  L., 1758 }}
-* {{GISD|60|''Cyprinus carpio''  L., 1758 }}
+{{ITIS |163211| ''Distichodus'' Müller et Troschel, 1844  }}
 
 [[Category:mbísi]]
 
-[[bg:Шаран]]
-[[cs:Kapr obecný]]
-[[da:Karpe]]
-[[de:Karpfen]]
-[[en:Common carp]]
-[[es:Cyprinus carpio]]
-[[fi:Karppi]]
-[[fr:Carpe (poisson)]]
-[[hr:Šaran]]
-[[hu:Ponty]]
-[[io:Karpo]]
-[[it:Cyprinus carpio]]
-[[ja:コイ]]
-[[nl:Karper]]
-[[no:Karpe]]
-[[pl:Karp]]
-[[pt:Carpa]]
-[[ru:Карп]]
-[[sr:Шаран]]
-[[sv:Karp]]
-[[tr:Sazan balığı]]
-[[vi:Cá chép]]
-[[zh:鯉]]
+[[fr:Distichodus]]
