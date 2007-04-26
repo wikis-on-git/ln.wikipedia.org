@@ -1,20 +1,24 @@
-{{Taxobox animal | Nzɔmbɔ|Anguilla anguilla.jpg| Nzɔmbɔ}}
-{{Taxobox phylum | Chordata }}
-{{Taxobox classe | Actinopterygii }}
-{{Taxobox ordre | Anguilliformes }} 
-{{Taxobox famille | Anguillidae }}
-{{Taxobox genre | Anguilla (genre) | Anguilla }}
-{{Taxobox binomial animal | Anguilla anguilla | ([[Carl von Linné|Linnaeus]], [[1758]]) }}
-{{Taxobox fin}}
+{{taxobox animal                | Nzɔmbɔ| Gőtehal.jpg | ''[[Protopterus annectens]]''}}
+{{Taxobox phylum                | Chordata   }}
+{{Taxobox sous-embranchement    | Vertebrata }}
+{{Taxobox super-classe          | Osteichthyes   }}
+{{Taxobox classe                | Sarcopterygii  }}
+{{taxobox sous-classe           | Dipnoi }}
+{{taxobox ordre                 | Lepidosireniformes }}
+{{taxobox genre animal (auteur) | Protopterus | }}
+{{taxobox wikispecies | Protopterus }}
+{{taxobox commons | Category:Protopterus }}
+{{taxobox fin }}
 
-'''Nzɔmbɔ''' (''Anguilla anguilla'') ezalí [[mbísi]] ya [[moliba]] mpé [[eliba]].
+'''Nzɔmbɔ́''' (''Protopterus'') ezalí [[mbísi]] ya [[moliba]] mpé [[eliba]].
 
 == Tála mpé ==
-* {{Faunaeur|304332|''Anguilla anguilla'' }}
-* {{FishBase espèce|35|''Anguilla anguilla''  (Linnaeus, 1758) }}
-* {{ITIS|161128|''Anguilla anguilla''  (Linnaeus, 1758) }}
-* {{ADW|Anguilla_anguilla|''Anguilla anguilla'' }}
-* {{NCBI|7936|''Anguilla anguilla'' }}
+* {{ITIS|161043|famille ''Protopteridae'' }}
+* {{ITIS|161044|genre ''Protopterus''  Owen, 1839 }}
+* {{ADW|Protopteridae|famille ''Protopteridae'' }}
+* {{ADW|Protopterus|genre ''Protopterus'' }}
+* {{NCBI|7884|famille ''Protopteridae'' }}
+* {{NCBI|7885|genre ''Protopterus'' }}
 
 [[Category:mbísi]]
 
