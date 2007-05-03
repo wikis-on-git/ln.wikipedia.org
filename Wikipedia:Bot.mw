@@ -113,7 +113,17 @@ If you have any question, please write it to my [[:cs:Wikipedista diskuse:JAn Du
 
 ==== Tɛ́ (non, no) ====
 
+=== [[User:VolkovBot|VolkovBot]] ===
+I'd like to request a flag for this bot --[[User:VolkovBot|VolkovBot]] 22:33, 3 máyí 2007 (UTC)
+* Botmaster: [[:ru:User:Volkov]] ([[:ru:User talk:Volkov|talk]])
+* Bot's name: [[User:VolkovBot]] ([[Special:Contributions/VolkovBot|contributions]])
+* List of botflags on other wikipedias: [[:ar:User:VolkovBot|ar]], [[:be-x-old:User:VolkovBot|be-x-old]], [[:ca:User:VolkovBot|ca]], [[:cs:User:VolkovBot|cs]], [[:da:User:VolkovBot|da]], [[:de:User:VolkovBot|de]], [[:en:User:VolkovBot|en]], [[:eo:User:VolkovBot|eo]], [[:es:User:VolkovBot|es]], [[:et:User:VolkovBot|et]], [[:fi:User:VolkovBot|fi]], [[:fr:User:VolkovBot|fr]], [[:gu:User:VolkovBot|gu]], [[:he:User:VolkovBot|he]], [[:id:User:VolkovBot|id]], [[:is:User:VolkovBot|is]], [[:it:User:VolkovBot|it]], [[:ka:User:VolkovBot|ka]], [[:ku:User:VolkovBot|ku]], [[:lt:User:VolkovBot|lt]], [[:mi:User:VolkovBot|mi]], [[:no:User:VolkovBot|no]], [[:pl:User:VolkovBot|pl]], [[:pt:User:VolkovBot|pt]], [[:ro:User:VolkovBot|ro]], [[:ru:User:VolkovBot|ru]], [[:simple:User:VolkovBot|simple]], [[:sl:User:VolkovBot|sl]], [[:sr:User:VolkovBot|sr]], [[:tg:User:VolkovBot|tg]], [[:tr:User:VolkovBot|tr]], [[:uk:User:VolkovBot|uk]], [[:vec:User:VolkovBot|vec]], [[:zh-yue:User:VolkovBot|zh-yue]]
+* Purpose: interwiki
+* Technical details: use pywikipedia framework; registered in 200+ wiki versions
 
+==== Ɛ́ɛ́ (oui/yes) ====
+
+==== Tɛ́ (non, no) ====
 [[Category:Wikipedia Bot]]
 
 [[af:Wikipedia:Robot]]
