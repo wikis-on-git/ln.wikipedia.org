@@ -1,0 +1,92 @@
+'''Vous parlez le lingala? N'hésitez pas, cliquez sur [http://ln.wikipedia.org/w/index.php?title=Wikipedia:Kot%C3%A1mbola_ya_libos%C3%B3&action=edit kokoma] et traduisez ces quelques phrases français en lingala! Merci.'''
+
+'''Vous parlez le lingala? N'hésitez pas, cliquez sur ''kokoma'' à droite d'un paragraphe et traduisez un paragraphe encore en français en lingala! Merci.'''
+
+
+
+
+Cet article décrit ''les premiers pas'' pour contribuer à Wikipedia. Des informations plus détailées sont [[Wikipedia:syntaxe|disponible sur une seconde page]].
+
+== Comment modifier ou ajouter un article? ==
+
+Pratiquement toutes les pages de Wikipédia peuvent être immédiatement modifiées par tous les visiteurs, sans enregistrement préalable :
+*Cliquez sur '''Kokoma''' en haut de la page.
+*Le texte de la page apparaît dans un champ éditable: tapez, effacez, corrigez ce que vous devrez, en lingala, pour améliorer l'article et la qualité de l'article. Tálá mpé: [[Wikipedia:Neutralité de point de vue|Neutralité de point de vue]]
+*Cliquez sur '''Prévisualisation''' (Show preview) pour voir l'effet de vos changements. Vous pouvez répéter la manœuvre jusqu'à ce que le résultat vous convienne.
+*Si le résultat convient, cliquez sur '''kobíkisa ekakoli''' et vous avez alors ''contribué'' à Wikipédia. Sinon, la modification peut être abandonnée sans autre formalité en visitant une quelconque autre page.
+
+'''Ajouter un article non existant'''
+* Tapez le titre du futur article dans l'espace ''boluki''
+* Cliquez '''Kɛndɛ́'''
+* Sur la page ''Boluki'' qui s'ouvre, cliquez sur le texte rouge <font style="color:#FF0000">create this page</font>.
+
+== Comment changer les polices en '''gras''' ou ''italique''? ==
+Vous pouvez marquer le texte en question (appuyer la touche de la souris et glisser à travers du texte). Ensuite cliquez en haut à gauche sur le bouton avec le "'''B'''" gras pour gras ou sur le bouton avec le "'''''I'''''" italique pour italique. Le texte marqué sera signé par deux ou trois ' pour qu'il sera affiché gras ou italique.
+
+{| align="center" border="1" cellpadding="5px"
+!Résultat
+!Syntaxe wikipédia
+|-
+|''texte en italique''
+|<nowiki>''texte en italique''</nowiki> (apostrophes et non guillemets)
+|-
+| '''texte en gras'''
+|<nowiki>'''texte en gras'''</nowiki>
+|}
+
+*Cliquez sur '''Prévisualisation''' pour voir l'effet de vos changements. Vous pouvez répéter la manœuvre jusqu'à ce que le résultat vous convienne.
+*Si le résultat convient, cliquez sur '''kobíkisa ekakoli''' et vous avez alors ''contribué'' à Wikipédia. Sinon, la modification peut être abandonnée sans autre formalité en visitant une quelconque autre page.
+
+== Comment écrire les lettres lingála comme ɔ́, ɛ, ... et des accents bizzares du lingála? ==
+* Cliquez sur les lettres déjà préparées à cet effet en bas de la fenêtre d'édition dans la rubrique '''Bilembo bisúsu'''. Dans les browser récents, la lettre cliquée sera introduit dans le texte. Les accents s'affichent derrière la lettre. Cliquez sur '''Prévisualiser''' pour être sûr sur l'affichage; ensuite cliquez sur '''kobíkisa ekakoli'''.
+* Si cela ne fonctionne pas, vous pouvez piquer les lettres en bas de la fenêtre d'édition avec ''copier'' – ''coller''. Les accents s'affichent derrière la lettre. Cliquez sur '''Prévisualiser''' pour être sûr sur l'affichage; ensuite cliquez sur '''kobíkisa ekakoli'''.
+
+== Comment faire une liste? ==
+
+{| align="center" border="1" cellpadding="5px"
+!Résultat
+!Syntaxe wikipédia
+|-
+|<ul><li>liste</li><li>à</li><li>puce</li></ul>
+|<nowiki>*</nowiki>liste<br/><nowiki>*</nowiki>à<br/><nowiki>*</nowiki>puce
+|-
+|<ol><li>liste</li><li>numérotée</li></ol>
+|<nowiki>#</nowiki>liste<br/><nowiki>#</nowiki>numérotée
+|}
+
+*Cliquez sur '''Prévisualisation''' pour voir l'effet de vos changements. Vous pouvez répéter la manœuvre jusqu'à ce que le résultat vous convienne.
+*Si le résultat convient, cliquez sur '''kobíkisa ekakoli''' et vous avez alors ''contribué'' à Wikipédia. Sinon, la modification peut être abandonnée sans autre formalité en visitant une quelconque autre page.
+
+
+
+== Comment faire les titres? ==
+Vous pouvez marquer le texte en question (appuyer la touche de la souris et glisser à travers du texte). Ensuite cliquez en haut à gauche sur le bouton avec le grand "'''A'''". Le texte marqué sera signé par les "==" pour qu'il sera affiché comme titre.
+
+{| align="center" border="1" cellpadding="5px"
+!Résultat
+!Syntaxe wikipédia
+|-
+|Ɛ́Ɛ́Ɛ́Ɛ́<h2>Titre de section</h2>
+|<nowiki> ==Titre de section== </nowiki>
+|-
+|<h3>Titre de sous-section</h3>
+|<nowiki>===Titre de sous-section===</nowiki>
+|}
+
+*Cliquez sur '''Prévisualisation''' pour voir l'effet de vos changements. Vous pouvez répéter la manœuvre jusqu'à ce que le résultat vous convienne.
+*Si le résultat convient, cliquez sur '''kobíkisa ekakoli''' et vous avez alors ''contribué'' à Wikipédia. Sinon, la modification peut être abandonnée sans autre formalité en visitant une quelconque autre page.
+
+== Y-a-t-il d'autres possibilités pour éditer? ==
+
+Cet article vous présente la [[Wikipedia:syntaxe|syntaxe propre à wikipédia]]. Il résume sous la forme de tableaux les différentes mises en forme possibles. La colonne de droite indique les codes à saisir, et celle de gauche l'effet obtenu.
+
+
+
+== Où est-ce que je peux faire mes premiers pas sans rien casser? ==
+
+Vous pouvez effectuer vos tests sur le [[Wikipedia:Esika yakomeka|Esika yakomeka]] qui est réservé à cet usage.
+
+[[en:Wikipedia:How to edit a page]]
+[[fr:Aide:Premiers_pas]]
+
+[[Category:Wikipedia]]
