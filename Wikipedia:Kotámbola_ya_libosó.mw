@@ -66,7 +66,7 @@ Vous pouvez marquer le texte en question (appuyer la touche de la souris et glis
 !Résultat
 !Syntaxe wikipédia
 |-
-|Ɛ́Ɛ́Ɛ́Ɛ́<h2>Titre de section</h2>
+|<h2>Titre de section</h2>
 |<nowiki> ==Titre de section== </nowiki>
 |-
 |<h3>Titre de sous-section</h3>
