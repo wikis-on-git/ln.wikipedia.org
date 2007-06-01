@@ -1,0 +1,319 @@
+'''CETTE PAGE EST A TRADUIRE --- vous parlez le lingala? Merci de traduire une partie ou la page entiere en lingala.'''
+
+Les '''modèles d'utilisateurs par langue''' permettent de faciliter la communication entre utilisateurs pratiquant différentes langues. Ils ont été développés, à l'origine, sur [[commons:Commons:Babel|Wikimedia Commons]], puis repris dans [[meta:Meta:Babel templates|Meta-Wiki]] puis dans divers Wikipedia et aussi, récemment, dans le Wikinews francophone (« gamme » volontairement limitée aux douze langues actuelles du projet Wikinews).
+
+Voir aussi les modèles disponibles sur [[commons:Commons:Babel]] ou sur [[meta:Meta:Babel templates]]. Pour certaines langues, la « gamme » de modèles est encore incomplète : il est également conseillé d'aller voir de temps en temps [[:en:Wikipedia:Babel]] sur le Wikipedia anglophone, dont la « gamme » étendue diffère sensiblement de celles de commons: et meta:.
+
+<div style="border: 1px solid #999; padding: 0 0.5em 0 0.5em; margin: 0.5em">
+Vous ne parlez pas <span style="color: red">'''lingalá'''</span> ? Voir : [[Wikipedia:Babel/ln-0#Français|Français]] – 
+[[Wikipedia:Babel/ln-0#English|English]] – 
+[[Wikipedia:Babel/ln-0#Deutsch|Deutsch]] - 
+[[Wikipedia:Babel/ln-0#Español|Español]] – 
+[[Wikipedia:Babel/ln-0#Italiano|Italiano]] – 
+[[Wikipedia:Babel/ln-0#日本語|日本語]] – 
+[[Wikipedia:Babel/ln-0#한국어|한국어]] – 
+[[Wikipedia:Babel/ln-0#Nederlands|Nederlands]] – 
+[[Wikipedia:Babel/ln-0#Português|Português]] – 
+[[Wikipedia:Babel/ln-0#Slovenščina|Slovenščina]] – 
+[[Wikipedia:Babel/ln-0#Serbian/Српски|Serbian/Српски]] - 
+[[Wikipedia:Babel/ln-0#Svenska|Svenska]] - 
+[[Wikipedia:Babel/ln-0#中文|中文]] - 
+[[Wikipedia:Babel/ln-0#Bân-lâm-gú|Bân-lâm-gú]]
+</div>
+__NOTOC__
+== Sommaire ==
+<div style="margin: 1em 2em 0 2em; padding: 0.5em; background-color: #f9f9f9; border:1px solid #aaaaaa">
+1. '''[[#Les modèles Babel-x|Les modèles Babel-x]]''' – 2. '''[[#Création de catégories et de modèles pour une langue|Création de catégories et de modèles pour une langue]]''' – 3. '''[[#Langues|Langues]]''' :
+<div style="margin-left: 2em">
+{{accès langue|af|afrikaans}} {{accès langue|als|alémanique}} {{accès langue|ang|anglo-saxon}} {{accès langue|ar|arabe}} {{accès langue|ast|asturien}} {{accès langue|be|biélorusse}} {{accès langue|bg|bulgare}} {{accès langue|bs|bosniaque}} {{accès langue|ca|catalan}} {{accès langue|co|corse}} {{accès langue|cs|tchèque}} {{accès langue|cy|gallois}} {{accès langue|da|danois}} {{accès langue|de|allemand}} {{accès langue|el|grec moderne}} {{accès langue|en|anglais}} {{accès langue|eo|espéranto}} {{accès langue|es|espagnol}} {{accès langue|et|estonien}} {{accès langue|fa|persan}} {{accès langue|fi|finnois}} {{accès langue|fo|féroïen}} {{accès langue|fr|français}} {{accès langue|fur|frioulan}} {{accès langue|fy|frison}} {{accès langue|ga|irlandais}} {{accès langue|gd|écossais}} {{accès langue|gl|galicien}} {{accès langue|gal|gallo}}  {{accès langue|gu|gujarati}} {{accès langue|he|hébreu}} {{accès langue|hi|hindi}} {{accès langue|hr|croate}} {{accès langue|hu|hongrois}} {{accès langue|hy|arménien}} {{accès langue|ia|interlingua}} {{accès langue|id|indonésien}} {{accès langue|io|ido}} {{accès langue|is|islandais}} {{accès langue|it|italien}} {{accès langue|ja|japonais}} {{accès langue|jv|javanais}} {{accès langue|kn|kannara}} {{accès langue|ko|coréen}} {{accès langue|la|latin}} {{accès langue|lb|luxembourgeois}} {{accès langue|li|limbourgeois}} {{accès langue|ln|lingalá}} {{accès langue|lt|lituanien}} {{accès langue|lv|letton}} {{accès langue|mk|macédonien}} {{accès langue|ms|malais}} {{accès langue|nd|normand}} {{accès langue|nds|bas-allemand}} {{accès langue|nl|néerlandais}} {{accès langue|nn|nynorsk}} {{accès langue|no|norvégien}} {{accès langue|os|ossète}} {{accès langue|pl|polonais}} {{accès langue|pt|portugais}} {{accès langue|qu|quechua}} {{accès langue|ro|roumain}} {{accès langue|ru|russe}} {{accès langue|sa|sanskrit}} {{accès langue|sc|sarde}} {{accès langue|scn|sicilien}} {{accès langue|sk|slovaque}} {{accès langue|sl|slovène}} {{accès langue|sq|albanais}} {{accès langue|sr|serbe}} {{accès langue|sv|suédois}} {{accès langue|sw|swahili}} {{accès langue|ta|tamoul}} {{accès langue|th|thaï}} {{accès langue|tl|tagalog}} {{accès langue|tr|turc}} {{accès langue|tt|tatar}} {{accès langue|uk|ukrainien}} {{accès langue|ur|ourdou}} {{accès langue|vi|vietnamien}} {{accès langue|wa|wallon}} {{accès langue|yi|yiddish}} {{accès langue|zh|Langue chinoise}} {{accès langue|zh-min-nan|minnan}}
+</div>
+</div>
+
+== Les modèles Babel-x ==
+Il existe des modèles prédéfinis qui créent un tableau « flottant » à droite de la page où ils sont appelés. Le modèle à appeler est fonction du nombre de langues parlées par l'utilisateur. Par exemple {{m|Babel-1}} pour un utilisateur unilingue, {{m|Babel-2}} pour un utilisateur parlant 2 langues, jusqu'à {{m|Babel-6}} pour un utilisateur parlant 6 langues (encore qu'on puisse créer des modèles supplémentaires en cas de nécessité).
+
+Même si cela paraît une évidence, il faut préciser qu'il paraît logique, même si c'est facultatif, qu'un utilisateur liste les langues qu'il pratique dans l'ordre décroissant des connaissances qu'il en a, la ou les langues maternelles en premier, puis les langues moins bien connues...
+
+{|
+|
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: #99B3FF solid 1px; text-align: center"
+|-
+| '''[[Wikipedia:Babel]]'''
+|-
+| <div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
+<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''fr'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Cette personne a pour '''[[:Category:User fr-M|langue maternelle]]''' le '''[[:Category:User fr|français]]'''.</td>
+</tr></table></div>
+|-
+| <div style="float:left;border:solid #99B3FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#E0E8FF"><tr>
+<td style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt">'''en-2'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">This user is able to contribute with an '''[[:Category:User en-2|intermediate]]''' level of '''[[:Category:User en|English]]'''.</td>
+</tr></table></div>
+|-
+| <div style="float:left;border:solid #99B3FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#E0E8FF"><tr>
+<td style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt">'''de-1'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Dieser Benutzer hat '''[[:Category:User de-1|grundlegende]] [[:Category:User de|Deutschkenntnisse]]'''.</td>
+</tr></table></div>
+|}
+<big>'''Exemple 1 : utilisateur trilingue (incluant le français)'''<big>
+
+Un utilisateur parlant trois langues pourra par exemple insérer dans sa page utilisateur (et dans celle-là seulement, surtout pas dans sa page de discussion) le modèle {{m|babel-3}} via la syntaxe <nowiki>{{babel-3|ln|fr-3|en-1}}</nowiki>.
+
+L'appel d'un de ces modèles dans une page utilisateur, avec les bons critères (voir ci-dessous), ajoute en outre la catégorie correspondant à chacune des langues.
+
+Remarquez que, dans l'illustration ci-contre, les catégories ne sont volontairement pas appelées, afin de ne pas catégoriser inutilement la présente page.
+|}
+
+{| style="margin-top: 1em"
+|
+{| style="float: right; margin-left: 1em; margin-bottom: 0.5em; width: 242px; border: #99B3FF solid 1px; text-align: center"
+|-
+| '''[[Wikipedia:Babel]]'''
+|-
+| <div style="float:left;border:solid #6EF7A7 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#C5FCDC"><tr>
+<td style="width:45px;height:45px;background:#6EF7A7;text-align:center;font-size:14pt">'''en'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">This user is a native '''[[:Category:User en|English speaker]]'''.</td>
+</tr></table></div>
+|-
+| <div style="float:left;border:solid #99B3FF 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#E0E8FF"><tr>
+<td style="width:45px;height:45px;background:#99B3FF;text-align:center;font-size:14pt">'''pl-3'''</td>
+<td style="font-size:8pt;padding:4pt;line-height:1.25em">Ten użytkownik posługuje się  '''[[:Category:User pl|językiem polskim]]''' na poziomie '''[[:Category:User pl-3|zaawansowanym]]'''.</td>
+</tr></table></div>
+|-
+| <div style="float:left;border:solid #ffb3b3 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#ffe0e8"><tr>
+<td style="width:45px;height:45px;background:#ffb3b3;text-align:center;font-size:14pt">'''ln-0'''</td>
+<td style="font-size:0.9em;padding:4pt;line-height:1.25em">Cet utilisateur [[:Category:User ln-0|'''ne comprend pas''']] le '''[[:Category:User ln|lingalá]]''', ou seulement avec des difficultés notables.</td>
+</tr></table></div>
+|}
+<big>'''Exemple 2 : utilisateur bilingue<br />(et précisant sa méconnaissance du lingalá)'''</big>
+
+En outre, un utilisateur de wikipédias non francophone – ou qui estime avoir un niveau très insuffisant en français –, par exemple un participant à une autre wikipédia inscrit sur la wikipédia francophone dans le but de faire des liens interlangues vers « sa » wikipédia de prédilection ou vers d'autres, pourra également appeler dans l'un ou l'autre des modèles Babel, un critère fr-0, qui signale sa faible connaissance de la langue française.
+
+Remarquer que, dans l'illustration ci-contre, les catégories ne sont volontairement pas appelées, afin de ne pas catégoriser inutilement la présente page.
+|}
+
+== Création de catégories et de modèles pour une langue ==
+Si vous avez besoin de créer des modèles pour une langue :
+:'''1.''' Créer la catégorie « mère » <nowiki>[[Category:User ??]]</nowiki> (liée à la catégorie supérieure [[:Category:Wikipediens par langue]]),
+:'''2.''' Créer les quatre catégories « filles » :
+::*<nowiki>[[Category:User ??-M]]</nowiki> (langue maternelle)
+::*<nowiki>[[Category:User ??-3]]</nowiki> (niveau avancé)
+::*<nowiki>[[Category:User ??-2]]</nowiki> (niveau intermédiaire)
+::*<nowiki>[[Category:User ??-1]]</nowiki> (niveau de base)
+::chacune liée à la catégorie « mère » <nowiki>[[Category:User ??]]</nowiki>
+:'''3.''' Créer les quatre modèles :
+::*<nowiki>{{Modèle:User ??}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-M]]</nowiki>
+::*<nowiki>{{Modèle:User ??-3}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-3]]</nowiki>
+::*<nowiki>{{Modèle:User ??-2}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-2]]</nowiki>
+::*<nowiki>{{Modèle:User ??-1}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-1]]</nowiki>
+:'''4.''' Créer l'« éventail » des modèles d'une langue dans une sous-page <nowiki>[[Wikipédia:Babel/??]]</nowiki> en saisissant simplement, dans la sous-page, <nowiki>{{éventail langue|??}}</nowiki> ?? = préfixe de la langue
+:'''5.''' Créer ci-dessous, si elle n'est pas préexistante, la section consacrée à une langue, en utilisant simplement, dans la section « Langues » ci-dessous, le modèle {{m|sommaire langue}}, avec la syntaxe :
+::'''<nowiki>{{sommaire langue | préfixe | nom de la langue (dans la langue) | nom de la langue (en français)}}</nowiki>'''
+:::Exemple : '''<nowiki>{{sommaire langue | en | English | anglais}}</nowiki>'''
+
+== Langues ==
+Classées, comme sur la plupart des wikis, par ordre alphabétique du préfixe de la langue.
+<div style="float:right;border:solid #ffb3b3 1px;margin:1px">
+<table cellspacing="0" style="width:238px;background:#ffe0e8"><tr>
+<td style="width:45px;height:45px;background:#ffb3b3;text-align:center;font-size:14pt">'''ln-0'''</td>
+<td style="font-size:0.9em;padding:4pt;line-height:1.25em">Cette personne [[:Category:User ln-0|'''ne comprend pas''']] le '''[[:Category:User ln|lingála]]''', ou seulement avec des difficultés notables.</td>
+</tr></table></div>
+::modèle et catégorie supplémentaires '''pour ceux qui ne parlent pas le lingála''' (template and category '''for those who do not speak lingalá''') :
+::{{m|User ln-0}} – Catégorie associée : [[:Category:User ln-0]] (directement rangée dans [[:Category:Wikipediens par langue]])
+
+::Pour information : liste des Wikipedias disposant d'un modèle comparable à {{m|User ln-0}} (et à n'utiliser que sur le Wikipedia concerné)
+::[[:ar:قالب:مستخدم ar-0]] (arabe), [[:bg:Шаблон:User bg-0]] (bulgare), [[:ca:Template:Babel ca-0]] (catalan), [[:cs:Šablona:User cs-0]] (tchèque), [[:de:Vorlage:User de-0]] (allemand), [[:en:Template:User en-0]] (anglais), [[:es:Plantilla:·Usuarios por idioma (es-0)]] (espagnol), [[:fi:Malline:User fi-0]] (finnois), [[:ga:Múnla:Úsáideoir ga-0]] (irlandais), [[:id:Templat:User id-0]] (indonésien), [[:it:Template:Utente it-0]] (italien), [[:ja:Template:User ja-0]] (japonais), [[:ko:Template:User ko-0]] (coréen), [[:ln:Template:User ln-0]] (lingalá), [[:na:Template:User na-0]] (nauruan), [[:pl:Szablon:User pl-0]] (polonais), [[:pt:Predefinição:User pt-0]] (portugais), [[:qu:Template:Ruwaq:qu-0]] (quechua), [[:ru:Template:User ru-0]] (russe), [[:scn:Template:User scn-0]] (sicilien), [[:sl:Template:User sl-0]] (slovène), [[:sr:Template:User sr-0]] (serbe), [[:sv:Mall:Användare sv-0]] (suédois), [[:uk:Шаблон:User uk-0]] (ukrainien) – ''liste non exhaustive''...
+
+{{sommaire langue|af|Afrikaans|afrikaans}}
+{{sommaire langue|als|Alemannisch|alémanique}}
+{{sommaire langue|ang|Anglo Saxon|anglo-saxon}}
+{{sommaire langue|ar|العربية [Arabiiya]|arabe}}
+{{sommaire langue|ast|Asturianu|asturien}}
+{{sommaire langue|be|Беларуская [Belaruskaja]|biélorusse}}
+{{sommaire langue|bg|български [Bulgarski]|bulgare}}
+{{sommaire langue|bs|Bosanski|bosniaque}}
+{{sommaire langue|ca|Català|catalan}}
+{{sommaire langue|co|Corsu|corse}}
+{{sommaire langue|cs|Český|tchèque}}
+{{sommaire langue|cy|Cymraeg|gallois}}
+{{sommaire langue|da|Dansk|danois}}
+{{sommaire langue|de|Deutsch|allemand}}
+{{sommaire langue|el|Ελληνικά [Ellinika]|grec moderne}}
+{{sommaire langue|en|English|anglais}}
+{{sommaire langue|eo|Esperanto|espéranto}}
+{{sommaire langue|es|Español|espagnol}}
+{{sommaire langue|et|Eesti|estonien}}
+{{sommaire langue|fa|فارسی [Faarsi]|persan}}
+{{sommaire langue|fi|Suomi|finnois}}
+{{sommaire langue|fo|Føroyskt|féroïen}}
+{{sommaire langue|fr|Français|français}}
+{{sommaire langue|fur|Furlan|frioulan}}
+{{sommaire langue|fy|Frysk|frison}}
+{{sommaire langue|ga|Gaeilge|irlandais}}
+{{sommaire langue|gd|Gàidhlig|écossais}}
+{{sommaire langue|gl|Galego|galicien}}
+{{sommaire langue|gal|Galo|gallo}}
+{{sommaire langue|gu|ગુજરાતી [Gujrâtî]|gujarati}}
+{{sommaire langue|he|עברית [Ivrit]|hébreu}}
+{{sommaire langue|hi|हिन्दी [Hindî]|hindi}}
+{{sommaire langue|hr|Hrvatski|croate}}
+{{sommaire langue|hu|Magyar|hongrois}}
+{{sommaire langue|hy|Հայերեն [Haybodon]|arménien}}
+{{sommaire langue|ia|Interlingua|interlingua}}
+{{sommaire langue|id|Bahasa Indonesia|indonésien}}
+{{sommaire langue|io|Ido|ido}}
+{{sommaire langue|is|Íslenska|islandais}}
+{{sommaire langue|it|Italiano|italien}}
+{{sommaire langue|ja|日本語 [Nihongo]|japonais}}
+{{sommaire langue|jv|Basa Jawa|javanais}}
+{{sommaire langue|kn|ಕನ್ನಡ [Kannadda]|kannara}}
+{{sommaire langue|ko|한국어 [Hangugeo]|coréen}}
+{{sommaire langue|la|Latina|latin}}
+{{sommaire langue|lb|Lëtzebuergesch|luxembourgeois}}
+{{sommaire langue|li|Limburgs|limbourgeois}}
+{{sommaire langue|ln|Lingalá|lingalá}}
+{{sommaire langue|lt|Lietuvių|lituanien}}
+{{sommaire langue|lv|Latviešu|letton}}
+{{sommaire langue|mk|Македонски [Makedonski]|macédonien}}
+{{sommaire langue|ms|Bahasa Melayu|malais}}
+{{sommaire langue|nds|Plattdüütsch|bas-allemand}}
+{{sommaire langue|nl|Nederlands|néerlandais}}
+{{sommaire langue|nn|Nynorsk|nynorsk}}
+{{sommaire langue|no|Norsk|norvégien}}
+{{sommaire langue|os|Ирон [Iron]|ossète}}
+{{sommaire langue|pl|Polski|polonais}}
+{{sommaire langue|pt|Português|portugais}}
+{{sommaire langue|qu|Runa Simi|quechua}}
+{{sommaire langue|ro|Română|roumain}}
+{{sommaire langue|ru|Русский [Russkii]|russe}}
+{{sommaire langue|sa|संस्कृत [Samskrta]|sanskrit}}
+{{sommaire langue|sc|Sardu|sarde}}
+{{sommaire langue|scn|Sicilianu|sicilien}}
+{{sommaire langue|sk|Slovenčina|slovaque}}
+{{sommaire langue|sl|Slovenščina|slovène}}
+{{sommaire langue|sq|shqip|albanais}}
+{{sommaire langue|sr|Српски / Srpski|serbe}}
+{{sommaire langue|sv|Svenska|suédois}}
+{{sommaire langue|sw|Kiswahili|swahili}}
+{{sommaire langue|ta|தமிழ் [Tamilll]|tamoul}}
+{{sommaire langue|th|ไทย [Thai]|thaï}}
+{{sommaire langue|tl|Tagalog|tagalog}}
+{{sommaire langue|tr|Türkçe|turc}}
+{{sommaire langue|tt|Tatarça|tatar}}
+{{sommaire langue|uk|Українська [Ukrainska]|ukrainien}}
+{{sommaire langue|ur|اردو [Urdu]|ourdou}}
+{{sommaire langue|vi|Tiếng Việt|vietnamien}}
+{{sommaire langue|wa|Walon|wallon}}
+{{sommaire langue|yi|ייִדיש [Yidish]|yiddish}}
+{{sommaire langue|zh|中文 [zhōngwén]|langue chinoise}}
+{{sommaire langue|zh-min-nan|Bân-lâm-gú|minnan}}
+
+[[Catégorie:Wikipédia|Babel]]
+
+<!-- Liens interlangues : les interwikis ne sont pas classés, sur le Wikipédia francophone, d'après les préfixes de langue, mais d'après le nom de la langue. S'il vous plaît, ne touchez pas à l'ordre existant. -->
+<!-- Interlanguage links: interwikis are not ordered, on French Wikipedia, by language codes, but by language names. Please leave the order as it is. -->
+
+[[af:Wikipedia:Babel]]
+[[als:Wikipedia:Babel]]
+[[am:Wikipedia:ልሳናት]]
+[[an:Wikipedia:Babel]]
+[[ang:Wikipedia:Babel]]
+[[ar:ويكيبيديا:بابل]]
+[[ast:Uiquipedia:Babel]]
+[[az:Vikipediya:Babil]]
+[[be:Вікіпэдыя:Бабілёнская вежа]]
+[[be-x-old:Вікіпэдыя:Бабілёнская вежа]]
+[[bg:Уикипедия:Вавилон]]
+[[br:Wikipedia:Babel]]
+[[bs:Wikipedia:Babel]]
+[[ca:Viquipèdia:Babel]]
+[[cs:Wikipedie:Babylón]]
+[[cv:Википеди:Вавилон]]
+[[cy:Wicipedia:Babel]]
+[[de:Wikipedia:Babel]]
+[[el:Βικιπαίδεια:Βαβέλ]]
+[[en:Wikipedia:Babel]]
+[[eo:Vikipedio:Babel]]
+[[es:Wikipedia:Babel]]
+[[et:Vikipeedia:Babel]]
+[[eu:Wikipedia:Babel]]
+[[fa:ویکی‌پدیا:بابل]]
+[[fi:Wikipedia:Babylon]]
+[[fo:Wikipedia:Babel]]
+[[fr:Wikipédia:Babel]]
+[[fur:Vichipedie:Babel]]
+[[fy:Wikipedy:Babel]]
+[[ga:Vicipéid:Baibéal]]
+[[gl:Wikipedia:Babel]]
+[[got:Wikipedia:Babilu]]
+[[he:ויקיפדיה:כישורי שפה]]
+[[hr:Wikipedija:Babilon]]
+[[hsb:Wikipedija:Babel]]
+[[hu:Wikipédia:Bábel]]
+[[id:Wikipedia:Babel]]
+[[io:Wikipedio:Babel]]
+[[is:Wikipedia:Babel]]
+[[it:Wikipedia:Babel]]
+[[ja:Wikipedia:バベル]]
+[[ka:ვიკიპედია:ბაბილონი]]
+[[ko:위키백과:바벨]]
+[[ksh:Wikipedia:Babel]]
+[[ku:Wîkîpediya:Babel]]
+[[ky:Wikipedia:Babel]]
+[[la:Vicipaedia:Babel formulae]]
+[[lb:Wikipedia:Babel]]
+[[li:Wikipedia:Babel]]
+[[lt:Wikipedia:Babel]]
+[[lv:Wikipedia:Babel]]
+[[mg:Wikipedia:Babel]]
+[[mi:Wikipedia:Babel]]
+[[mk:Википедија:Вавилон]]
+[[mo:Wikipedia:Babel]]
+[[ms:Wikipedia:Babel]]
+[[mt:Wikipedija:Babel]]
+[[na:Wikipedia:Babel]]
+[[nah:Huiquipedia:Babel]]
+[[nds:Wikipedia:Babel]]
+[[nds-nl:Wikipedie:Babel]]
+[[nl:Wikipedia:Babel]]
+[[nn:Wikipedia:Babel]]
+[[no:Wikipedia:Babel]]
+[[oc:Wikipèdia:Babèl]]
+[[pl:Wikipedia:Wieża Babel]]
+[[pt:Wikipedia:Babel]]
+[[qu:Wikipedia:Babel]]
+[[rmy:Vikipidiya:Babel]]
+[[ro:Wikipedia:Babel]]
+[[ru:Википедия:Вавилон]]
+[[sc:Wikipedia:Babel]]
+[[scn:Wikipedia:Babeli]]
+[[sh:Wikipedia:Babel]]
+[[simple:Wikipedia:Babel]]
+[[sk:Wikipédia:Babylon]]
+[[sl:Wikipedija:Babilon]]
+[[so:Wikipedia:Babel]]
+[[sq:Wikipedia:Babel]]
+[[sr:Википедија:Шаблони/Језичке кутијице]]
+[[su:Wikipedia:Babel]]
+[[sv:Wikipedia:Babel]]
+[[th:วิกิพีเดีย:บาเบล]]
+[[tpi:Wikipedia:Babel]]
+[[tr:Vikipedi:Babil]]
+[[uk:Вікіпедія:Вавілон]]
+[[uz:Wikipedia:Bobil]]
+[[vec:Wikipedia:Babel]]
+[[vi:Wikipedia:Ngôn ngữ sử dụng]]
+[[wa:Wikipedia:Babel]]
+[[war:Wikipedia:Babel]]
+[[wuu:Wikipedia:Babel]]
+[[zh:Wikipedia:巴別]]
+[[zh-classical:Wikipedia:Babel]]
+[[zh-min-nan:Wikipedia:Babel]]
+[[zh-yue:Wikipedia:Babel]]
+[[zu:Wikipedia:Babel]]
