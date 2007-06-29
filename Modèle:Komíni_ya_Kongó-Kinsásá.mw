@@ -1,0 +1,36 @@
+<!--
+[[Wikipédia:Projet, Charte graphique/Domaine géographique/Couleurs et niveaux administratifs]]
+-->
+{| align="right" rules="all" cellpadding="3" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 1px; border-bottom-width: 1px; background-color: #f3fff3"
+! colspan="2" style="background-color: #ddffdd" |
+{| style="background: #ddffdd" align="center" width="100%"
+| padding=0px|
+| style="background: #ddffdd" align="center" width="100%" |<font color=black size=4>'''{{{nom}}}'''
+| padding=0px|
+|}
+|-
+<!--
+| valign="top" colspan="2" align="center" bgcolor="white"| {{{carte}}}
+|-
+-->
+| valign="top"| [[Esé]] || align=center| [[Image:Flag of the Democratic Republic of the Congo.svg|20px|République démocratique du Congo]] [[Kongó-Kinsásá]]
+|-
+| [[Bitúká bya Kongó-Kinsásá|Etúká]] || align=center| {{{ProvII}}}
+|-
+| valign="top"| [[Engumba]] || align=center| {{{ville}}}
+|-
+| valign="top"| [[Bourgmestre]] || align=center| {{{bourgmestre}}}
+|-
+| valign="top"| [[Nkótá ya Ekólo]] || align=center| {{{lg}}}
+|-
+| valign="top"| [[Etando]] || align=center|<!-- {{{supha}}} ha<br />--> {{{supkm2}}} km²
+|-
+| [[Bato]]<br /> - motángo ([[Mbúla]])
+| align=center| {{{pop}}} bato <br /><small>({{{annéepop}}})</small>
+|-
+| [[Densité de population|Densité]] || align=center| {{{densité}}} bato/km²
+
+|-
+|align=center colspan=2 style="background: #f3fff3"|<small>[[Molɔngɔ́ ya bakomini ya Kongó-Kinsásá|Bakomini]] - [[Molɔngɔ́ ya engumba ya Kongó-Kinsásá|Bingúmba]] - [[Bitúká bya Kongó-Kinsásá|Bitúká]]
+|}
+<noinclude>[[Category:Modèle Afrique|Commune RDC 2005]]</noinclude>
