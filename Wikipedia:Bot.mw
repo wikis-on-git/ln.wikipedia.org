@@ -139,6 +139,20 @@ Cordialy, [[User:EDUCA33E|EDUCA33E]] 14:46, 30 máyí 2007 (UTC)
 
 ==== Tɛ́ (non, no) ====
 
+=== [[User:Byrialbot|Byrialbot]] ===
+Hello! Sorry for not speaking your language. I ask for permission to run my interwiki bot [[User:Byrialbot|Byrialbot]] here at the Lingala Wikipedia, and to get a bot flag for it.
+* Bot account: [[User:Byrialbot]] ([[Special:Contributions/Byrialbot|contributions]])
+* Botmaster: [[User:Byrial]]
+* Botmaster's home project: [[:da:User:Byrial]]
+* List of botflags on other wikipedias: als:, am:, ar:, bat-smg:, be:, bg:, bm:, bn:, bs:, bpy:, ca:, cdo:, ceb:, co:, cs:, da:, de:, el:, en:, eo:, es:, et:, ff:, fo:, fr:, fy:, ga:, gl:, he:, hr:, hsb:, hu:, hy:, id:, io:, is:, it:, ka:, ksh:, kw:, lb:, li:, lt:, lv:, mk:, ml:, mr:, ms:, nap:, nds:, nds-nl:, nl:, nn:, no:, nrm:, pms:, pt:, ro:, ru:, scn:, sco:, simple:, sh:, sk:, sl:, sr:, su:, sv:, ta:, te:, th:, tl:, uk:, vo:, wo:, zh-min-nan:
+* Purpose: Interwiki
+* Technical details: Interwiki using [[meta:Pywikipediabot|Pywikipediabot]] (constantly updated  with CVS) starting from da:, nn:, no: and sv:. It mostly runs manually assisted and I try to solve found interwiki conflicts when I can.
+It has alreay has done a few test edits. Thank you! [[User:Byrial|Byrial]] 13:23, 4 yúli 2007 (UTC)
+
+==== Ɛ́ɛ́ (oui/yes) ====
+
+==== Tɛ́ (non, no) ====
+
 
 [[Category:Wikipedia Bot]]
 
