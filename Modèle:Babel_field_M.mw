@@ -1,0 +1,7 @@
+{{Babel field|
+color 1=#6EF7A7|
+color 2=#C5FCDC|
+letter code size=<includeonly>{{{letter code size}}}</includeonly><noinclude>1.5em</noinclude>|
+letter code='''<includeonly>{{{letter code}}}</includeonly><noinclude><nowiki>{{{letter code}}}</nowiki></noinclude>'''|
+text size=<includeonly>{{{text size}}}</includeonly><noinclude>0.83em</noinclude>|
+text=<includeonly>{{{text}}}</includeonly><noinclude><nowiki>{{{text}}}</nowiki></noinclude>}}
