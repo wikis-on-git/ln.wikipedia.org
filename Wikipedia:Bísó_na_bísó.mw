@@ -1,0 +1,150 @@
+{{/Yambo}}
+
+{{Lininísa |
+    |logo=
+    |titre = [[Image:Plume ombre.png|35px|kosálisa]] Kosálisa
+    |bord = 111111
+    |fond = FFFFFF
+    |fond_titre = FFEEAA
+    |align_titre = center
+    |tailleTitre = 150%
+    |partie = /Kosálisa
+    |mod=
+    }}
+
+{{Lininísa |
+    |logo=
+     |titre = [[Image:Firstaid.gif|35px|Bosungi]] Bosungi
+    |bord = 111111
+    |fond = FFFFFF
+    |fond_titre = FFEEAA
+    |align_titre = center
+    |tailleTitre = 150%
+    |partie = /Bosungi
+    |mod=
+    }}
+{{Lininísa |
+    |logo=
+    |titre = [[Image:Symbol_Kaffee.png|35px|Ntembe]] Ntembe
+    |bord = 111111
+    |fond = FFFFFF
+    |fond_titre = FFEEAA
+    |align_titre = center
+    |tailleTitre = 150%
+    |partie = /Ntembe
+    |mod=
+    }}
+
+<!--CATEGORIES-->
+<div style="margin-top:10px; margin-right:0%; text-align:center; background-color:#FCFCFC; border:1px solid green; padding:0.6ex 2ex;">
+[[Special:Lonelypages|lokásá etíké]] &nbsp; – &nbsp; [[Special:Uncategorizedpages|articles sans catégorie]] &nbsp; – &nbsp; [[Special:Newpages|ndambo ya sika]] &nbsp; – &nbsp; [[Special:Wantedpages|articles manquants]] &nbsp; – &nbsp; [[Special:Shortpages|articles à prolonger]] &nbsp; – &nbsp; [[Special:Recentchanges|derniers mises à jour]]</div>
+</div>
+<div style="background:#fff;padding:1em; margin:1em 0.5em;">
+
+<!--BABEL-->
+{| align="centre" style="background:#efd; padding:0px; border:0px solid #000000"
+|- style="background:#efd"
+! ''Utiliser les modèles de langue''
+|- style="background:#efd"
+|
+ {{babel-3|ln|fr-2|als-1}} Dans le but de faciliter la communication entre utilisateurs pratiquant différentes langues, ont été créés des '''modèles d'utilisateurs par langue'''.  La syntaxe de ces modèles est commune pour de nombreux projets Wikimedia tels que [[commons:Commons:Babel|Wikimedia Commons]] ou [[meta:Meta:Babel templates|Meta-Wiki]], leur utilisation en est donc simplifiée. Ils sont à utiliser sur votre page utilisateur, sur laquelle il suffit d'ajouter si par exemple vous êtes trilingue <nowiki>{{babel-3|ln|fr-2|als-1}}</nowiki>, ce qui donnera : 
+La syntaxe détaillée est expliquée [http://fr.wikipedia.org/wiki/Wikipédia:Babel ici] (falansé).
+|}
+
+
+
+
+[[af:Wikipedia:Geselshoekie]]
+[[als:Wikipedia:Ich brauche Hilfe]]
+[[an:Wikipedia:Tabierna]]
+[[ang:Wikipedia:Þorpes Wiella]]
+[[ar:ويكيبيديا:الميدان]]
+[[ast:Uiquipedia:Chigre]]
+[[be:Вікіпэдыя:Форум]]
+[[bg:Уикипедия:Разговори]]
+[[bm:Wikipedia:Le lavoir]]
+[[bn:উইকিপিডিয়া:আলোচনা সভা]]
+[[br:Wikipedia:An ti-chopin]]
+[[bs:Wikipedia:Čaršija]]
+[[bug:Wikipedia:Warung Kopi]]
+[[ca:Viquipèdia:La taverna]]
+[[chr:ᏫᎩᏇᏗᏯ:ᎾᎥ ᏄᎾᏓᎸ ᎾᎿᎢ]]
+[[cs:Wikipedie:Pod lípou]]
+[[cv:Википеди:Канашлăв]]
+[[cy:Wicipedia:Y Caffi]]
+[[da:Wikipedia:Landsbybrønden]]
+[[de:Wikipedia:Forum]]
+[[el:Βικιπαίδεια:Αγορά]]
+[[en:Wikipedia:Village pump]]
+[[eo:Vikipedio:Diskutejo]]
+[[es:Wikipedia:Café]]
+[[et:Vikipeedia:Üldine arutelu]]
+[[eu:Wikipedia:Txokoa]]
+[[fa:ویکی‌پدیا:قهوه‌خانه]]
+[[fi:Wikipedia:Kahvihuone]]
+[[fo:Wikipedia:Undirhúsið]]
+[[fur:Vichipedie:Ostarie]]
+[[fy:Wikipedy:Oerlis side]]
+[[ga:Vicipéid:Halla baile]]
+[[gd:Wikipedia:Talla a'Bhaile]]
+[[gl:Wikipedia:A Taberna]]
+[[gu:વિકિપીડિયા:ચોતરો]]
+[[he:ויקיפדיה:מזנון]]
+[[hi:विकिपीडिया:गाँव का पम्प]]
+[[hr:Wikipedia:Kafić]]
+[[hu:Wikipédia:Kocsmafal]]
+[[ia:Wikipedia:Taverna]]
+[[id:Wikipedia:Warung Kopi]]
+[[is:Wikipedia:Potturinn]]
+[[it:Wikipedia:Bar]]
+[[ja:Wikipedia:井戸端]]
+[[ka:ვიკიპედია:ყავახანა]]
+[[ko:위키백과:사랑방]]
+[[kw:Wikipedia:Porth Kemmynieth]]
+[[la:Vicipaedia:Taberna]]
+[[lb:Wikipedia:De Stamminet]]
+[[li:Wikipedia:De kaffee]]
+[[lv:Wikipedia:Kopienas portāls]]
+[[mi:Wikipedia:Kōrero]]
+[[ms:Wikipedia:Kedai Kopi]]
+[[mt:Wikipedija:Pjazza]]
+[[na:Wikipedia:Domaneab]]
+[[nah:Wikipedia:Tlatlahtoaloyan]]
+[[nap:Wikipedia:Circolo]]
+[[nds:Wikipedia:Ik bruuk Hülp]]
+[[nl:Wikipedia:De kroeg]]
+[[nn:Wikipedia:Samfunnshuset]]
+[[no:Wikipedia:Tinget]]
+[[oc:Oiquipedià:La tavèrna]]
+[[os:Википеди:Ныхас]]
+[[pl:Wikipedia:Kawiarenka pod Wesołym Encyklopedystą]]
+[[pt:Wikipedia:Esplanada]]
+[[ro:Wikipedia:Cafenea]]
+[[roa-rup:Uichipedia:Fântâna]]
+[[ru:Википедия:Форум]]
+[[sc:Wikipedia:Tzilleri]]
+[[scn:Wikipedia:Circulu]]
+[[sco:Wikipedia:Mercat Cross]]
+[[sh:Wikipedia:Pijaca-Пијаца]]
+[[simple:Wikipedia:Simple talk]]
+[[sk:Wikipédia:Krčma]]
+[[sl:Wikipedija:Pod lipo]]
+[[sq:Wikipedia:Kuvendi]]
+[[sr:Википедија:Трг]]
+[[su:Wikipédia:Padungdengan]]
+[[sv:Wikipedia:Bybrunnen]]
+[[sw:Wikipedia:Jumuia]]
+[[ta:விக்கிபீடியா:ஆலமரத்தடி]]
+[[th:วิกิพีเดีย:สภากาแฟ]]
+[[tl:Wikipedia:Kapihan]]
+[[tr:Vikipedi:Köy çeşmesi]]
+[[tt:Wikipedia:Bäxäslek]]
+[[uk:Вікіпедія:Кнайпа]]
+[[vec:Wikipedia:Ciacołe]]
+[[vi:Wikipedia:Thảo luận]]
+[[wa:Wikipedia:Cåbaret]]
+[[zh:Wikipedia:互助客栈]]
+[[zh-min-nan:Wikipedia:Chhiū-á-kha]]
+
+</div>
+<br />
