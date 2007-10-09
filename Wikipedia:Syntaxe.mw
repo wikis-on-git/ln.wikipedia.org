@@ -1,0 +1,589 @@
+[[Catégorie:Wikipedia:aide technique|Syntaxe wikipédia]]
+
+'''Vous parlez le lingala? Aidez à traduire cette page ou un seul paragraphe. Merci.'''
+
+Pour [[FAQ|mettre en forme]] vos articles, [[Wikipédia]] permet d'introduire certains codes&nbsp;; les plus courants sont:
+
+{| align="center" border="1" cellpadding="5px"
+!Résultat
+!Syntaxe wikipédia
+|-
+|''texte en italique''
+|<nowiki>''texte en italique''</nowiki> (apostrophes et non guillemets)
+|-
+| '''texte en gras''' ||<nowiki>'''texte en gras'''</nowiki>
+|-
+|<ul><li>liste</li><li>à</li><li>puce</li></ul>
+|<nowiki>*</nowiki>liste<br/><nowiki>*</nowiki>à<br/><nowiki>*</nowiki>puce
+|-
+|<ol><li>liste</li><li>numérotée</li></ol>
+|<nowiki>#</nowiki>liste<br/><nowiki>#</nowiki>numérotée
+|-
+|<h2>Titre de section</h2>
+|<nowiki> ==Titre de section== </nowiki>
+|-
+|<h3>Titre de sous-section</h3>
+|<nowiki>===Titre de sous-section===</nowiki>
+|}
+
+Cet article vous présente la ''syntaxe propre à wikipédia''. Il résume sous la forme de tableaux les différentes mises en forme possibles. La colonne de droite indique les codes à saisir, et celle de gauche l'effet obtenu.
+
+Vous pouvez effectuer vos tests sur le [[Wikipedia:Esika yakomeka|Esika yakomeka]] qui est réservé à cet usage.
+
+__TOC__
+== Table des matières ==
+
+Une table des matières est créée automatiquement si l'article comporte plus de 3 titres ou sous-titres (au moins 4).
+
+Pour supprimer le sommaire automatique, il suffit de mettre quelque part <nowiki>__NOTOC__</nowiki>.
+
+Pour modifier l'emplacement de la table des matières :
+placer <nowiki>__NOTOC__</nowiki> en haut de la page, puis insérer <nowiki>__TOC__</nowiki> là où vous désirez voir apparaître la table.
+
+== Sections, paragraphes, listes et lignes ==
+
+{| border="1"
+|-----
+|
+Pour les titres :
+<br/><br/>
+== Nouvelle section ==
+=== Nouvelle sous-section ===
+==== Nouveau paragraphe ====
+
+Les notations ci-contre sont respectivement équivalentes à l'utilisation des balises html &lt;h2&gt;...&lt;/h2&gt;, &lt;h3&gt;...&lt;/h3&gt; et &lt;h4&gt;...&lt;/h4&gt;.
+| <tt>
+<nowiki>== Nouvelle section ==</nowiki><br/>
+<nowiki>=== Nouvelle sous-section ===</nowiki><br/>
+<nowiki>==== Nouveau paragraphe ====</nowiki></tt>
+|-----
+|
+Un simple saut à la ligne
+n'a aucun effet.
+<br/><br/>
+Mais une ligne vide
+
+permet de séparer les paragraphes.
+| <pre>Un simple saut à la ligne
+n'a aucun effet.
+
+
+Mais une ligne vide
+
+permet de séparer les paragraphes.</pre>
+|----- valign="top"
+| Voilà comment il faut faire<br/>
+pour aller à la ligne.
+| <pre>Voilà comment il faut faire<br />
+pour aller à la ligne.</pre>
+|-----
+|
+* Les listes sont bien pratiques :
+** Elles permettent d'organiser les données
+** Elles embellissent le document
+| <pre>* Les listes sont bien pratiques :</pre>
+<pre>** Elles permettent d'organiser les données</pre>
+<pre>** Elles embellissent le document</pre>
+|-----
+|
+# Les listes numérotées sont également bien pratiques
+# Bien organisées
+## Faciles à lire
+| <pre># Les listes numérotées sont également bien pratiques</pre>
+<pre># Bien organisées</pre>
+<pre>## Faciles à lire</pre>
+|-----
+|
+:Les lignes peuvent être
+::indentées
+:::sur plusieurs niveaux
+| <pre>:Les lignes peuvent être</pre>
+<pre>::indentées</pre>
+<pre>:::sur plusieurs niveaux</pre>
+|-----
+| Avec tout cela, il est maintenant possible de mélanger les types de listes :
+*Une liste numérotée :
+:#Premier élément
+:#Second élément
+*d'autres branches à l'arborescence
+|
+<pre>
+*Une liste numérotée :
+:#Premier élément
+:#Second élément
+*d'autres branches à l'arborescence
+</pre>
+|-----
+|
+; Listes de définitions : listes contenant des définitions
+; Terme à expliquer : explication du terme
+| <pre>; Listes de définitions : listes contenant des définitions</pre>
+<pre>; Terme à expliquer : explication du terme</pre>
+|-----
+| En utilisant des balises (''tags'') HTML c'est plus beau (mais c'est plus difficile à mémoriser) :
+<ul>
+<li>Une liste numérotée :
+<ol>
+<li>Premier élément
+<li>Second élément
+</ol>
+<li>d'autres branches à l'arborescence
+</ul>
+''Petit truc mnémotechnique :''
+*'' ol = Liste Ordonnée (c'est à dire numérotée - Ordered List en anglais)''&nbsp;;
+*'' ul = Liste "Unordonnée" (Unordered List en anglais) ou plus prosaïquement liste à puces''&nbsp;;
+*'' li = élément d'une liste (List Item en anglais).
+|
+<pre>&lt;ul&gt;</pre>
+<pre>  &lt;li&gt;Une liste numérotée :</pre>
+<pre>  &lt;ol&gt;</pre>
+<pre>    &lt;li&gt;Premier élément</pre>
+<pre>    &lt;li&gt;Second élément</pre>
+<pre>  &lt;/ol&gt;</pre>
+<pre>  &lt;li&gt;d'autres branches à l'arborescence</pre>
+<pre>&lt;/ul&gt;</pre>
+|----- valign="top"
+|
+  SI (une ligne commence par une espace) ALORS
+    elle apparaîtra exactement telle qu'elle a été saisie&nbsp;;
+    dans une police non proportionnelle&nbsp;;
+    les sauts de ligne ne seront pas automatiques&nbsp;;
+  FIN SI
+  C'est bien utile pour :
+  • copier/coller un texte pré-formaté&nbsp;;
+  • des descriptions d'algorithmes&nbsp;;
+| <pre> SI (une ligne commence par une espace) ALORS
+    elle apparaîtra exactement telle qu'elle a été saisie;
+    dans une police non proportionnelle;
+    les sauts de ligne ne seront pas automatiques ;
+  FIN SI
+  C'est bien utile pour :
+  &amp;bull; copier/coller un texte pré-formaté ;
+<br/><br/>
+  &amp;bull; des descriptions d'algorithmes ;</pre>
+|----- valign="top"
+| <center>Le texte peut être centré.</center>
+| <pre>&lt;center&gt;Le texte peut être centré.&lt;/center&gt;</pre>
+|-----
+| Une ligne horizontale : au-dessus
+----
+et en-dessous.
+| <pre>Une ligne horizontale : au-dessus</pre>
+<pre>----</pre>
+<pre>et en-dessous.</pre>
+|}
+
+==Sourcres et littérature==
+A la fin de votre article, ajouté les références et vos sources.
+
+Pour créer des notes en bas de page,<ref> Exemple de note en bas de page.</ref> ajoutez les simplement entre <nowiki> <ref> </nowiki> et <nowiki> </ref> </nowiki> au lieu juste dans le texte. Wikipedia les mets automatiquement au juste endroit en bas de la page, la oú se trouve <nowiki> <references/> </nowiki>.
+{|
+|
+==Tála mpé== 
+===Nkásá o libándá=== 
+===Littérature===
+* Nom Postnom, Prénom: ''Titre du livre''. Lieu: Éditeur, Année. 
+===Sources=== 
+<references/>
+|<nowiki>==Tála mpé== </nowiki><br/><br/><nowiki> ===Nkásá o libándá=== </nowiki><br/><br/><nowiki> ===Littérature=== </nowiki><br/><nowiki> * Nom Postnom, Prénom: ''Titre du livre''. Lieu: Éditeur, Année. </nowiki><br/><br/><nowiki> ===Sources=== </nowiki><br/><nowiki> <references/> </nowiki>
+|}
+
+
+
+== Liens, adresses internet et images ==
+
+{| border="1"
+|-----
+| colspan="2" |
+=== Les liens === 
+|----- valign="top"
+| Lien vers [[Lokásá ya libosó]].<br/>
+La première lettre apparaît automatiquement en [[majuscule]].<br/>
+Les espaces sont convertis en 'underscores'.<br/>
+Pour créer une nouvelle page, créez d'abord un lien vers cette page, puis cliquez sur le lien en rouge qui apparaît.
+| <pre>Lien vers [[Lokásá ya libosó]].</pre>
+|----- valign="top"
+| Le même lien, mais avec un nom différent : [[Lokásá ya libosó|page d'accueil]].<br/>
+Les liens ne peuvent contenir que des lettres et des espaces !
+| <pre>Le même lien, mais avec un nom différent : [[Lokásá ya libosó|page d'accueil]]</pre>;
+|----- valign="top"
+| [[La sexualité des mouches dans le Vercors oriental]] est une page qui n'existe pas encore.<br/>
+Vous pouvez la créer en cliquant simplement sur le lien.<br/>
+Après l'avoir créée, faites une recherche sur son titre, et assurez-vous que les autres articles y font correctement référence.
+| <tt><nowiki>[[La sexualité des mouches dans le Vercors oriental]]</nowiki> est une page qui n'existe pas encore.</tt>
+|----- valign="top"
+| Pour les pages d'[[Wikipédia:Homonymie|homonymie]], il existe un raccourci pour cacher le domaine :<br/> la planète [[Jupiter (planète)|Jupiter]]
+| <tt><nowiki>la planète [[Jupiter (planète)|]]</nowiki></tt>
+|----- valign="top"
+| Pour référencer les pages utilisateur, il existe un raccourci pour éviter de taper deux fois le nom : [[Utilisateur:Dupont|Dupont]] est équivalent à [[Utilisateur:Dupont|Dupont]]
+| <tt><nowiki>[[Utilisateur:Dupont|]] est équivalent à [[Utilisateur:Dupont|Dupont]]</nowiki></tt>
+|----- valign="top"
+| Lien vers les commentaires associés à cette page ou à une page du domaine Wikipédia :
+[[Discussion Wikipédia:Comment modifier une page]]<br/>
+Lien vers une discussion d'une page normale du Wikipédia [[Discuter:Accueil]]<br/>
+| <tt>Lien vers les commentaires associés à cette page ou a une page du domaine Wikipédia :
+<nowiki>[[Discussion_Wikipédia:Comment modifier une page]]</nowiki><br/>
+Lien vers une discussion d'une page normale du Wikipédia <nowiki>[[Discuter:Accueil]]</nowiki></tt><br/>
+|----- valign="top"
+| [[Wikipédia:Redirection|Redirection]] d'une page vers une autre en mettant ce texte dans la première ligne.
+| <pre>#REDIRECT [[France]]</pre>
+|----- valign="top"
+| Il existe une notation pour référencer une page sur un Wikipédia dans une autre langue : [[:en:Wikipedia:How to edit a page]]
+<br/><br/>
+On peut ici aussi utiliser la barre verticale pour afficher un texte différent du titre de l'article pointé : [[:en:Wikipedia:How to edit a page|Cette page en anglais]]
+<br/><br/>
+Attention, ici la barre verticale seule en fin de lien ne permet pas de réduire le texte affiché au strict nécessaire : [[:en:Wikipedia:How to edit a page|en:Wikipedia:How to edit a page]]
+| <tt><nowiki>[[:en:Wikipedia:How to edit a page]]</nowiki>
+<br/><br/>
+<nowiki>[[:en:Wikipedia:How to edit a page|Cette page en anglais]]</nowiki>
+<br/><br/>
+<nowiki>[[:en:Wikipedia:How to edit a page|]]</nowiki>
+</tt>
+|----- valign="top"
+| Pour référencer un mot sur [[Wiktionary]] : [[wikt:Mot]]
+<br/><br/>
+On peut ici aussi utiliser la barre verticale pour afficher un texte différent du titre de l'article pointé : [[wikt:Mot|Mot]] ou directement [[wikt:Mot|Mot]]
+<br/><br/>
+On peut aussi référencer un mot sur un wiktionary dans une autre langue: [[wikt:en:Word]] ou [[Wikt:en:Word|Word]]
+| <tt><nowiki>[[wikt:Mot]]</nowiki> 
+<br/><br/>
+<nowiki>[[wikt:Mot|Mot]]</nowiki> ou directement <nowiki>[[wikt:Mot|]]</nowiki>
+<br/><br/>
+<nowiki>[[wikt:en:Word]]</nowiki> ou <nowiki>[[wikt:en:Word|Word]]</nowiki>
+</tt>
+|-----
+| colspan="2" |
+
+=== Les liens internes, les ancres ===
+|----- valign="top"
+|
+Les ancres :
+
+<font id="ancre_1">ancre 1.</font>
+
+<font id="ancre_2">ancre 2.</font>
+
+Ces deux lignes sont des ancres vers lesquelles des liens internes à cette pages peuvent pointer. Des liens de pages externes aussi, d'ailleurs.
+|
+<pre><nowiki><font id="ancre_1">ancre 1.</font>
+
+<font id="ancre_2">ancre 2.</font></nowiki></pre>
+
+remarquer que la balise <nowiki><font></nowiki> n'est effectivement pas censée avoir d'effet de mise en forme. Elle n'est là que parce qu'il est nécessaire d'utiliser une balise HTML afin d'y placer un paramètre ''id'' qui indique le nom de l'ancre. Ça devrait pouvoir être n'importe quelle balise HTML que le wiki reconnaît.
+|----- valign="top"
+|
+Les liens vers des ancres externes sont des liens normaux qui pointent vers une ancre de la page vers laquelle ils dirigent.
+
+[[Wikipédia:Syntaxe wikipédia/Lien ancré#ancre_1|lien]] vers
+l'ancre 1 externe.
+
+[[Wikipédia:Syntaxe wikipédia/Lien ancré#ancre_2|lien]] vers
+l'ancre 2 externe.
+
+Ces deux ancres se trouvent sur la [[Wikipédia:Syntaxe wikipédia/Lien ancré|page d'explication des liens ancrés]].
+|
+<pre><nowiki>[[Wikipédia:Syntaxe wikipédia/Lien ancré#ancre_1|lien]] vers
+l'ancre 1 externe.
+
+[[Wikipédia:Syntaxe wikipédia/Lien ancré#ancre_2|lien]] vers
+l'ancre 2 externe.</nowiki></pre>
+On crée un lien normalement, en ajoutant un dièse (#) suivi du nom de l'ancre vers laquelle le lien pointe à la fin du nom de la page pointée.
+|----- valign="top"
+|
+Les liens internes sont des liens normaux qui pointent vers des ancres de la page courante :
+
+[[#ancre_1|lien vers l'ancre 1]].
+
+[[#ancre_2|lien vers l'ancre 2]].
+|
+<pre><nowiki>[[#ancre_1|lien vers l'ancre 1]].
+
+
+[[#ancre_2|lien vers l'ancre 2]].</nowiki></pre>
+Le nom de la page courante est toutefois implicite.
+|-----
+| colspan="2" |
+
+=== Les adresses internet === 
+|----- valign="top"
+| Lien externe : [http://www.nupedia.com Nupedia]
+| <pre>Lien externe : [http://www.nupedia.com Nupedia]</pre>
+|----- valign="top"
+| Mais l'adresse internet suffit : http://www.nupedia.com.<br/>
+(Bien pratique si on veut imprimer la page.)
+| <pre>Mais l'adresse internet suffit : http://www.nupedia.com.</pre>
+|-----
+| Il existe toute une liste de ''préfixes'' utilisables ainsi: <nowiki>[[prefixe:valeur]]</nowiki>.<br/>Une liste complète est disponible sur [[m:Interwiki map]] (en anglais)
+| Exemple: <nowiki>[[google:Wikipédia]]</nowiki> donne [[google:Wikipédia|ceci]]
+|-----
+| colspan="2" |
+
+=== Les images === 
+|----- valign="top"
+| '''Insérer une image :'''
+[[Image:Wiki-exemple.png]]<br/>
+Pour ajouter une image, vous devez d'abord la
+copier sur le serveur, ce qui suppose 
+de vous connecter comme utilisateur identifié,
+vous pouvez alors accéder à la page de copie sur le serveur : http://commons.wikimedia.org/wiki/Commons:Premiers_pas<br/>
+<br/>
+Il faut ensuite placer le lien de l'image dans votre article.<br/>
+NE FAITES PAS de liens externes vers des fichiers se trouvant sur un serveur dont vous ne contrôlez pas le contenu !
+
+Pour l'accessibilité des mal-voyants, il est conseillé d'ajouter le "nom de l'image", ceci permet au lecteur vocal ou à la tablette braille de fournir un descriptif parlant, là où il y a une image.
+
+Voir [[Wikipédia:Règles d'utilisation des images]] pour de plus amples informations à ce sujet.
+|
+<pre><nowiki>[[Image:Wiki-exemple.png]]</nowiki></pre> ou <br/>
+<pre><nowiki>[[Image:Wiki-exemple.png|nom de l'image]]</nowiki></pre>
+|-----
+| '''Faire "flotter" une image'''<br/><br/>
+[[Image:Wiki-exemple.png|left]]
+Quand une image n'occupe pas la largeur de la page, il peut être agréable de la placer à gauche et que le texte s'écrive le long de celle-ci du côté droit.<br/>
+Pour cela, il vous suffit de recopier le code ci-contre à l'endroit où vous souhaitez voir l'image et de remplacer les parties en italique par le lien vers l'image et par la légende de l'image.<br/><br/>
+Si vous souhaitez placer l'image du côté droit, remplacer ''left'' par ''right''<br/>
+|
+<tt><nowiki>[[</nowiki>Image:<i>nom-image.png</i>|left|<i>Légende</i>]]<br/>
+Quand une image n'occupe pas la largeur de la page ...
+</tt>
+|-----
+| '''Faire "flotter" plusieurs images'''<br/>
+[[Image:Icon_no.png|left]][[Image: Icon_yes.png|left]]Plusieurs images qui "flottent" à la suite elles se positionnent les unes à coté des autres.
+
+<div style="float:right;padding:15px">[[Image:Icon_no.png]]<br/>[[Image: Icon_yes.png]]</div>Il est possible de forcer l'affichage d'images les unes en dessous des autres. Pour un meilleur rendu, cette astuce est à utiliser avec des images qui font la même largeur (voir ci dessous "Syntaxe étendue pour les images" pour imposer la taille des images).
+| <nowiki>[[Image:Icon_no.png|left]][[Image:Icon_yes.png|left]]</nowiki> Pour faire flotter un à coté de l'autre.
+<nowiki><div style="float:right;">[[Image:Icon_no.png]]<br/>[[Image: Icon_yes.png]]</div></nowiki> Pour faire flotter l'un en dessous de l'autre.
+|-----
+| colspan="2" |
+
+=== Syntaxe étendue pour les images === 
+|----- valign="top"
+| Une syntaxe étendue permet de contrôler la taille et la position des images:<br/>
+Les options disponibles sont les suivantes (si plusieurs options sont présentes, elles doivent être séparées par un signe <tt>|</tt>; il faut un <tt>|</tt> après la dernière option même si il n'y a pas de légende):<br/>
+*<tt>thumb</tt> ou <tt>thumbnail</tt>
+:permet de générer automatiquement une version réduite de l'image, dans un cadre. Par défaut, l'image sera alignée à droite. La légende, si présente, sera placée en dessous de l'image;  une "icône loupe" placé à droite permet d'accéder à l'image en grandeur réelle.
+*<tt>framed</tt>
+:l'image est placée dans un cadre, comme avec l'option <tt>thumb</tt>, et accepte donc une légende mais n'est disponible que dans sa taille normale et l'"icône loupe" est donc absente.
+*<tt>right</tt>
+:permet d'aligner l'image à droite. Peut s'utiliser avec ou sans l'option <tt>thumb</tt>.
+*<tt>center</tt>
+:permet de centrer l'image. Peut s'utiliser avec ou sans l'option <tt>thumb</tt>.
+*<tt>left</tt>
+:permet d'aligner l'image à gauche. Peut s'utiliser avec ou sans l'option <tt>thumb</tt>.
+*<tt>none</tt>
+:permet de supprimer l'alignement par defaut. Cette option est surtout utile pour les images insérées dans un tableau.
+*<tt>''largeur'' px</tt>
+:permet de specifier la largeur de la version réduite. L'image affichée gardera le même aspect que l'image grandeur réelle.
+|
+<tt><nowiki>[[</nowiki>Image:''nom de l'image''|''options''|''légende'']]
+|}
+
+== Mise en forme des caractères ==
+
+{| border="1"
+|----- valign="top"
+| ''Faire ressortir un mot'', '''un peu plus''', '''''encore plus'''''.<br/>
+À utiliser également dans les formules : '''F''' = ''m'' '''a'''.
+| <pre>''Faire ressortir un mot'', '''un peu plus''', '''''encore plus'''''.
+
+'''F''' = ''m'' '''a'''.</pre>
+|-----
+| <font size="+1" color="red">Polices amusantes</font><br/>
+Mais <code>== ... ==</code> est plus approprié pour séparer des sections.
+| <pre>&lt;font size="+2" color="red"&gt;Polices amusantes&lt;/font&gt;</pre>
+|----- valign="top"
+| Police machine à écrire pour les <tt>termes techniques</tt>.
+| <pre>&lt;tt&gt;termes techniques&lt;/tt&gt;</pre>
+|----- valign="top"
+| Vous pouvez <strike>barrer</strike> certains mots<br/>
+et <u>en souligner d'autres...</u>. Pratique ...
+| <pre>Vous pouvez &lt;strike&gt;barrer&lt;/strike&gt; certains mots
+et &lt;u&gt;en souligner d'autres...&lt;/u&gt;</pre>
+|----- valign="top"
+| Umlauts et accents : (cf [[Aide:Caractères spéciaux]] et [http://www.wikipedia.org/wiki/Wikipedia:Special_Characters Wiki special characters] (en anglais)<br/>
+À Á Â Ã Ä Å Æ <br/>
+Ç È É Ê Ë Ì Í <br/>
+Î Ï Ñ
+Ò Ó Ô Õ Œ<br/>
+Ö Ø Ù Ú Û Ü ß <br/>
+à á â ã ä å æ <br/>
+ç è é ê ë ì í <br/>
+î ï ñ ò ó ô õ œ<br/>
+ö ø ù ú û ü ÿ<br/>
+Note : depuis le passage à l'[[unicode]] on peut aussi parfaitement écrire les caractères spéciaux directement sans aucun souci.
+| <pre>
+
+
+&amp;Agrave; &amp;Aacute; &amp;Acirc; &amp;Atilde; &amp;Auml; &amp;Aring; &amp;AElig;
+&amp;Ccedil; &amp;Egrave; &amp;Eacute; &amp;Ecirc; &amp;Euml; &amp;Igrave; &amp;Iacute;
+&amp;Icirc; &amp;Iuml; &amp;Ntilde; &amp;Ograve; &amp;Oacute; &amp;Ocirc; &amp;Otilde; &amp;OElig;
+&amp;Ouml; &amp;Oslash; &amp;Ugrave; &amp;Uacute; &amp;Ucirc; &amp;Uuml; &amp;szlig;
+&amp;agrave; &amp;aacute; &amp;acirc; &amp;atilde; &amp;auml; &amp;aring; &amp;aelig;
+&amp;ccedil; &amp;egrave; &amp;eacute; &amp;ecirc; &amp;euml; &amp;igrave; &amp;iacute;
+&amp;icirc; &amp;iuml; &amp;ntilde; &amp;ograve; &amp;oacute; &amp;ocirc; &amp;otilde; &amp;oelig;
+&amp;ouml; &amp;oslash; &amp;ugrave; &amp;uacute; &amp;ucirc; &amp;uuml; &amp;yuml;</pre>
+|----- valign="top"
+| Ponctuations : ¿ ¡ « » § ¶<br/>
+† ‡ •
+| <pre>&amp;iquest; &amp;iexcl; &amp;laquo; &amp;raquo; &amp;sect; &amp;para;
+&amp;dagger; &amp;Dagger; &amp;bull;
+</pre>
+|----- valign="top"
+| Caractères spéciaux : ™ © ® ¢ € ¥ £ ¤
+| <pre>&amp;trade; &amp;copy; &amp;reg; &amp;cent; &amp;euro; &amp;yen; &amp;pound; &amp;curren;
+</pre>
+|----- valign="top"
+| Indice (subscript en anglais) : x<sub>2</sub> et<br/> Exposant (superscript en anglais) : x<sup>2</sup>
+| <pre>Indice : x&lt;sub&gt;2&lt;/sub&gt; et Exposant : x&lt;sup&gt;2&lt;/sup&gt;</pre>
+|----- valign="top"
+| Caractères grecs : α β γ δ
+ε ζ η<br/>
+θ ι κ λ μ ν ξ <br/>
+π ρ  σ ς τ υ φ<br/>
+χ ψ ω <br/>
+Γ Δ Θ Λ Ξ Π Σ <br/>
+Φ Ψ Ω
+| <pre>&amp;alpha; &amp;beta; &amp;gamma; &amp;delta; &amp;epsilon; &amp;zeta; &amp;eta;
+&amp;theta; &amp;iota; &amp;kappa; &amp;lambda; &amp;mu; &amp;nu; &amp;xi;
+&amp;pi; &amp;rho;  &amp;sigma; &amp;sigmaf; &amp;tau; &amp;upsilon; &amp;phi;
+&amp;chi; &amp;psi; &amp;omega;
+&amp;Gamma; &amp;Delta; &amp;Theta; &amp;Lambda; &amp;Xi; &amp;Pi; &amp;Sigma;
+&amp;Phi; &amp;Psi; &amp;Omega;
+</pre>
+|----- valign="top"
+| Caractères mathématiques : (cf. [[Wikipedia:Caractères spéciaux]] et [http://www.wikipedia.org/wiki/Wiki_Special_Characters Wiki special characters] (en anglais)) <br/>
+∫ ∑ ∏ √ ± ∞ <br/>
+≈ ∝ ≡ ≠ ≤ ≥ → <br/>
+× · ÷ ∂ ′ ″ ∇ <br/>
+‰ ° ∴ ℵ<br/>
+ø ∈ ∋ ∩ ∪ ⊂ ⊃ ⊆ ⊇<br/>
+¬ ∧ ∨ ∃ ∀ ⇒ ⇔
+| valign="middle" | <pre>&amp;int; &amp;sum; &amp;prod; &amp;radic; &amp;plusmn; &amp;infin;
+&amp;asymp; &amp;prop; &amp;equiv; &amp;ne; &amp;le; &amp;ge; &amp;rarr;
+&amp;times; &amp;middot; &amp;divide; &amp;part; &amp;prime; &amp;Prime; &amp;nabla;
+&amp;permil; &amp;deg; &amp;there4; &amp;alefsym;
+&amp;oslash; &amp;isin; &amp;ni; &amp;cap; &amp;cup; &amp;sub; &amp;sup; &amp;sube; &amp;supe;
+&amp;not; &amp;and; &amp;or; &amp;exist; &amp;forall; &amp;rArr; &amp;hArr;</pre>
+|----- valign="top"
+| Plus d'espace que d'habitude, sans saut de ligne : x<sup>2</sup>&nbsp;&nbsp;&nbsp;≥&nbsp;&nbsp;&nbsp;0 est vrai.<br/>
+Utile pour les formules.
+| <pre>;x<sup>2</sup>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;ge;&amp;nbsp;&amp;nbsp;&amp;nbsp;0
+</pre>
+|-----
+| ASCII art (Commencer chaque ligne par un blanc) :<br/>
+
+∞  -x<sup>2</sup>
+
+∫ e   dx = √π
+
+-∞
+Malgré tout, la racine carrée est très moche.
+| <pre> &amp;infin; -x<sup>2</sup>
+
+&amp;int; e   dx = &amp;radic;&amp;pi;
+
+-&amp;infin;</pre>
+|-----
+| Formules mathématiques compliquées :<br/>
+&nbsp;&nbsp;<math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+* Voir [[Wikipédia:Formules TeX]]
+| <pre><nowiki> 
+<math>\sum_{n=0}^\infty \frac{x^n}{n!}</math>
+</nowiki></pre>
+|-----
+| Suppression de l'interprétation du ''markup'' :<br/>
+<nowiki>Lien → (<i>vers</i>) la [[Wikipédia:FAQ]]</nowiki>
+* Est utilisé pour montrer littéralement des données qui autrement auraient une signification spéciale.
+* Tous les ''markup'' wiki sont ignorés, y compris ceux ressemblant à des tags HTML.
+* Les caractères HTML spéciaux sont toujours interprétés.
+|
+<pre><nowiki><nowiki>Lien → (<i>vers</i>) la [[Wikipédia:FAQ]]</nowiki></nowiki></pre>
+|}
+
+== Tableaux ==
+Le logiciel permet d'utiliser deux syntaxes:
+# la "Wiki" expliquée dans la sous-page: [[Aide:Syntaxe wikipédia/tableaux]]
+# "classique" utilisant le [[Hypertext markup language|HTML]] mais dont l'usage est déprécié.
+
+
+
+ {| border="1"
+ |+ Un exemple de tableau
+ |-
+ ! Premier en-tête
+ ! Deuxième en-tête
+ ! Troisième en-tête
+ |-
+ | Haut gauche || Haut milieu || rowspan="2" | Côté droit
+ |-
+ | Bas gauche || Bas milieu
+ |-
+ | colspan="3" align="center" | ligne du bas
+ |}
+
+
+'''Voir également''' [[meta:Wikipedia_DTD]], [[Aide:Guide d'utilisation des tableaux]] et [[Aide:Modèle]]
+
+== Commentaire ==
+
+Attention, les commentaires dans les articles sont '''strictement''' réservés à la maintenance de la page. Les commentaires sur le contenu de l'article sont à mettre dans la page discussion attachée à l'article en question.
+
+
+<nowiki><!-- Note : Cette page est en cours de rédaction, veuillez patienter avant de l'éditer. --></nowiki>
+
+
+== Identification dans les pages de discussion ==
+
+{| border="1"
+|-----
+|
+Seulement le pseudonyme:<br/>
+[[Utilisateur:Aoineko|Aoineko]]
+|
+<nowiki>~~~ (3 tildes)</nowiki>
+|-----
+|
+Pseudonyme et date:<br/>
+[[Utilisateur:Aoineko|Aoineko]] 03:17 Nov 8, 2002 (CET)
+|
+<nowiki>~~~~ (4 tildes)</nowiki>
+|-----
+|
+Date:<br/>
+03:17 Nov 8, 2002 (CET)
+|
+<nowiki>~~~~~ (5 tildes)</nowiki>
+|}
+
+== Catégories ==
+Pour la syntaxe propre à l'utilisation des catégories, voir l'article [[Aide:Catégorie]]
+
+
+{{Contribuer}}
+
+[[ar:ويكيبيديا:مساعدة التحرير]]
+[[bg:Уикипедия:Как се редактират страници]]
+[[cs:Wikipedie:Jak redigovat stránku]]
+[[da:Wikipedia:Hvordan redigerer jeg en side]]
+[[de:Wikipedia:Handbuch - Artikel bearbeiten]]
+[[el:Wikipedia:Πώς να επεξεργαστείτε μια σελίδα]]
+[[en:Wikipedia:How to edit a page]]
+[[eo:Vikipedio:Kiel redakti pagxon]]
+[[es:Wikipedia:Cómo se edita una página]]
+[[fi:Wikipedia:Kuinka_sivuja_muokataan]]
+[[ga:Vicipéid:Conas a cuirtear leathanach in eagar]]
+[[he:ויקיפדיה:איך לערוך דף]]
+[[hu:Wikipédia:Hogyan szerkessz egy lapot]]
+[[it:Wikipedia:Guida_essenziale]]
+[[ja:Wikipedia:編集の仕方]]
+[[minnan:Help:Editing]]
+[[ro:Wikipedia:Cum să editezi o pagină]]
+[[ru:Как редактировать страницу]]
+[[simple:Wikipedia:How to edit]]
+[[sl:Wikipedija:Urejevanje slovenskih strani]]
+[[sr:Википедија:Како се мења страна]]
+[[sv:Wikipedia:Hur man redigerar en sida]]
+[[th:Wikipedia:การแก้ไขหน้า]]
+[[vi:Help:Sửa đổi]]
+[[zh-cn:Help:如何编辑页面]]
+[[zh-tw:Wikipedia:如何編輯頁面]]
