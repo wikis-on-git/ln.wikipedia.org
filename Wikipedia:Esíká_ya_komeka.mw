@@ -1,0 +1,102 @@
+'''Boyéí bolámu na Esíká ya komeka.''
+
+'''Bonjour. Vous êtes dans le ''{{PAGENAME}}.'' Il est destiné à vous aider à vous familiariser avec le système de création et modification d'articles de Wikipédia (n'hésitez pas à consulter [[Wikipedia:Kotámbola ya libosó]]). Ici vous pouvez faire tous les tests que vous voulez. Il suffit de cliquer sur le lien « modifier » qui se trouve en haut de la page, de taper vos modifications et de cliquer sur « sauvegarder ». Vous pouvez également essayer de modifier [[Wikipedia talk:Esíká ya komeka|Nkásá ya ntembe]].'''
+
+Attention, bien que le bac à sable soit destiné aux tests en tout genre, les insultes et les propos déplacés ne sont pas tolérés tout comme sur les autres pages de Wikipédia.
+
+Si vous pouvez traduire ce texte :) Merci.
+----
+
+== Titre de deuxième niveau ==
+Une liste :
+* Un lien interne direct: [[Special:Recentchanges]]
+* ''italiques''
+* '''gras'''
+* '''''gras italiques'''''
+* Et ça marche avec les apostrophes : l''''automne''' sera pluvieux !
+On numérote '''une''' liste ?
+# Pourquoi pas ?
+# Je veux bien !
+# C'est facile... Par exemple : {{Ier siècle av. J.-C.}} ou encore {{XVIe siècle}} mais aussi 30 m{{2}} voire même 100 m{{3}} !
+
+=== Troisième niveau : comment utiliser les indices ===
+Du texte normal peut contenir <sub>un indice</sub> pour des notations.
+
+==== Quatrième niveau de titre : et maintenant les exposants ====
+Du texte normal peut contenir aussi <sup>un exposant</sup>.
+
+===== Cinquième niveau de titre =====
+Pour passer au paragraphe suivant, il faut laisser une ligne blanche.
+Ici, on est toujours dans le même paragraphe.
+
+Et hop, voici le nouveau paragraphe !
+
+====== Sixième (et dernier) niveau de titre ======
+Normalement, ça doit suffire pour découper un article en détail.
+
+== Références ==
+Une référence<ref>ceci est le bac à sable</ref> et une autre<ref>note en ''italique'' ou en '''gras'''</ref> avec les notes tout en bas de la page. On peut même faire un lien pour un livre : ISBN 020171499X
+
+== Et pour les tableaux... ==
+{| border="3"
+|+ Titre du tableau
+! colonne 1
+! colonne 2
+|-----
+| On peut aussi
+| faire des tableaux
+|-----
+| c'est bien pratique
+| pour présenter des données chiffrées
+|}
+
+== Et pour les images... ==
+[[image:Arthur Rimbaud 01.PNG|100px|left|thumb|Arthur Rimbaud en 100px à gauche]]
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer 
+[[image:Galapagos.JPG|250px|right|thumb|Les Îles Galapagos en 250px à droite]]
+
+Tautam reflexionem ad medium inertiam, laudate sauraia tam sistema questis : ''To philos estin hypostasias phylosei''
+
+Lorem ipsum dolor sit amet, In spirito convetis mundare sicit. Sed consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in
+
+Galerie d'images : 
+
+<gallery>
+Image:Leica-II-p1030002.jpg|[[Leica]] II
+Image:Kyu-kobeko-shingojo004.jpg|[[Kobe]] au [[Japon]]
+Image:Dama dama8.JPG|[[Daim]]
+Image:Petunia.jpg|Du rose
+Image:Arctotis04.jpg|Du bleu.
+</gallery>
+
+== N'oublions pas LaTeX ==
+<math>\textrm{J'adore\ LaTeX\ : } \int_0^\infty e^{-x^2}\textrm{d}x=\frac{\sqrt{\pi}}{2}</math>
+
+<math>\exist \alpha \in\mathbb{R} \mbox{ t.q. } \varphi(x)=\alpha</math>
+
+== Les boîtes déroulantes ==
+{{Boîte déroulante|titre=Ceci est une boîte déroulante|contenu=À utiliser avec parcimonie... [[Image:Passionfruit flower07.jpg|center|thumb|Fleur]] }}
+
+== Et si vous voulez tester les modèles ==
+{{Modèle:Bac à sable|Objet1|Objet2}}
+
+== Et les liens ==
+Pour créer un lien vers une autre page de Wikipedia, vous devrez la mettre entre deux crochets :
+<pre>
+[[Lokásá ya libosó]]
+</pre>
+affichera [[Lokásá ya libosó]] (un lien vers la page d'accueil de Wikipédia).
+En revanche, si vous voulez créer un lien vers une page externe (un autre site web que Wikipédia), vous devrez le mettre entre un seul crochet et le texte à afficher après un espace :
+<pre>
+[http://wikimediafoundation.org/wiki/Accueil Le site de la fondation Wikimedia]
+</pre>
+affichera [http://wikimediafoundation.org/wiki/Accueil Le site de la fondation Wikimedia] (notez la petite icône blanche et bleue qui signifie qu'il s'agit d'un lien externe à la Wikipédia).
+
+== Notes et références ==
+<references />
+
+
+[[fr:Wikipédia:Bac à sable]]
+[[es:Wikipedia:Zona de pruebas]]
+[[Category:Wikipedia]]
