@@ -1,0 +1,132 @@
+<noinclude>
+Emekoleli <nowiki>{{Infobox Esé}}</nowiki> ezalí mpɔ̂ na [[esé]].
+
+=== Ndakisa ya emekoleli ===
+<pre>
+{{Infobox Esé|
+nkómbó 			= Republiki ya Tunisia |
+nkómbó_na_lokótá	= al-Dschumhūriyya at-tūnisiyya (liarabi)<br>الجمهورية التونسية<br><br>|
+image_flag 		= Flag of Tunisia.svg |
+image_coat 		= Tunisia coa.png |
+mokáno 		= Un Peuple, Un But, Une Foi|
+loyémbo 	= [[Humata l-hima]] |
+nkótá_ya_lɛ́ta 		= [[liarabi]]|
+mbóka-mokonzi 		= [[Tunis]] |
+latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E|
+engumba_monɛ́nɛ		= [[Tunis]] |
+loléngé_lɛ́ta 	= [[Republiki]] |
+}}
+</pre>
+{{Infobox Esé|
+nkómbó 			= Republiki ya Tunisia |
+nkómbó_na_lokótá	= al-Dschumhūriyya at-tūnisiyya (liarabi)<br>الجمهورية التونسية<br><br>|
+image_flag 		= Flag of Tunisia.svg |
+image_coat 		= Tunisia coa.png |
+mokáno 		= Un Peuple, Un But, Une Foi|
+loyémbo 	= [[Humata l-hima]] |
+bato_botángi    = 10 031 100 |
+nkótá_ya_lɛ́ta 		= [[liarabi]]|
+mbóka-mokonzi 		= [[Tunis]] |
+latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E|
+engumba_monɛ́nɛ		= [[Tunis]] |
+loléngé_lɛ́ta 	= [[Republiki]] |
+}}
+<br clear="all"/>
+=== Emekoleli ===
+</noinclude>
+<!-- Infobox Esé -->{| class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; font-size: 95%; clear: right"
+|+ style="margin-left: inherit; font-size: medium;" | '''{{{nkómbó}}}'''<br/>{{{nkómbó_na_lokótá}}} 
+|-
+| align=center colspan="2" |
+{| style="background: none;"
+|- align=center
+| [[Image:{{{image_flag}}}|125px|Bɛndɛ́lɛ ya {{{nkómbó}}}]]
+| [[Image:{{{image_coat}}}|110px|Bilembo-nkita ya {{{nkómbó}}}]]
+|- align=center
+| <small>([[Bɛndɛ́lɛ ya {{{nkómbó}}}|Bɛndɛ́lɛ]])</small>
+| <small>([[Bilembo-nkita ya {{{nkómbó}}}|Bilembo-nkita]])</small>
+|}
+|- align=center style="vertical-align: top;" class="hiddenStructure{{{mokáno|}}}"
+| style="font-size:95%" colspan="2" | [[Lisanga lya mikáno mwa Bikólo|Mokáno mwa ekólo]] : <br/>{{{mokáno|eyébání tɛ́}}}
+|- align=center style="vertical-align: top;" class="hiddenStructure{{{loyémbo|}}}"
+| style="font-size:95%" colspan="2" | [[Loyémbo la lokúmú|Loyémbo-lokúmú]] : <br/>{{{loyémbo|eyébání tɛ́}}}
+|- align=center class="hiddenStructure{{{image_map|}}}"
+| colspan="2" style="background:#ffffff;" | [[Image:{{{image_map}}}|290px|Esíká ya {{{nkómbó}}}]]
+|- style="vertical-align: top;" class="hiddenStructure{{{mbóka-mokonzi|}}}"
+| '''[[Mbóka-mokonzi]]'''
+| {{{mbóka-mokonzi}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{engumba_monɛ́nɛ|}}}"
+| '''[[Bato bya {{{nkómbó}}}|Engumba monɛ́nɛ koleka]]'''
+| {{{engumba_monɛ́nɛ}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{nkótá_ya_lɛ́ta|}}}"
+| '''[[Lokóta ya lɛ́ta|Nkótá ya lɛ́ta]]'''
+| {{{nkótá_ya_lɛ́ta}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{nkótá_ya_ekólo|}}}"
+| '''[[Nkótá ya ekólo]]'''
+| {{{nkótá_ya_ekólo}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{babengí_mokambi|}}}"
+| style="white-space: nowrap;" | '''[[Molɔngɔ ya Bisé na kolanda ndenge ya Mokonzi|Mokonzi]]''' <div style="text-align: right;">{{{babengí_mokambi}}}</div>
+| style="white-space: nowrap;" | {{{loléngé_lɛ́ta}}}<br>{{{nkómbó_mokambi}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{sovereignty_type|}}}"
+| style="white-space: nowrap;" | '''{{{sovereignty_type}}}'''<br>{{{established_events}}}
+| {{{established_dates}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{etando_bonɛ́nɛ|}}}"
+| '''[[Etando]]'''<br>&nbsp;&bull; Nyɛ̂<br>&nbsp;&bull; Mái (%)
+| &nbsp;<br>[[{{{etando_bonɛ́nɛ}}} m²|{{{etando}}}&nbsp;km&sup2;]]&nbsp;([[Molɔngɔ ya bisé na kolanda etando|{{{etando_limati}}}]]) <br>{{{ndámbo_mái}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{bato_botángi|}}}"
+| style="white-space: nowrap;" | '''[[Molɔngɔ ya bisé na kolanda bato|Mito]]''' <br>
+&nbsp;&bull; [[Na mbúla {{{bato_ndakisa-mitúya_mbúla}}}|{{{bato_ndakisa-mitúya_mbúla|}}}]] ndakisa-mitúya <br>
+&nbsp;&bull; [[Na {{{bato_botángi_mbúla}}}|{{{bato_botángi_mbúla|}}}]] botángi <br>
+&nbsp;&bull; [[bato_na_etando|Bato na etando]]
+| &nbsp; <br>{{{bato_ndakisa-mitúya}}} ([[Molɔngɔ ya bisé na kolanda bato|{{{bato_ndakisa-mitúya_limati|}}}]]) <br>{{{bato_botángi}}}<br>{{{bato_na_etando}}}/km&sup2; ([[Molɔngɔ ya bisé na kolanda bato na etando|{{{bato_na_etando_limati}}}]])
+|- style="vertical-align: top;" class="hiddenStructure{{{BOTIBO_BOZIBI|}}}"
+| style="white-space: nowrap;" | '''[[Molɔngɔ́ ya bisé na kolanda BOTIBO|BOTIBO]]''' ([[Bokokisi bwa likonzi lya bosómbi|BOZIBI]]) <br>&nbsp;&bull; Nyɛ̂<br>&nbsp;&bull; moto na moto
+| [[na mbúla {{{BOTIBO_BOZIBI_mbúla}}}|{{{BOTIBO_BOZIBI_mbúla|}}}]] ndakisa-mitúya <br>{{{BOTIBO_BOZIBI}}} ([[Molɔngɔ́ ya bisé na kolanda BOTIBO (BOZIBI)|{{{BOTIBO_BOZIBI_limati}}}]]) <br>{{{BOTIBO_BOZIBI_moto_na_moto_limati}}} ([[Molɔngɔ ya bisé na kolanda BOTIBO (BOZIBI)  moto na moto|{{{BOTIBO_BOZIBI_moto_na_moto_limati}}}]])
+|- style="vertical-align: top;" class="hiddenStructure{{{mosɔlɔ|}}}"
+| '''[[Mosɔlɔ]]'''
+| style="white-space: nowrap;" | {{{mosɔlɔ}}} (<code>[[ISO 4217|{{{currency_code}}}]]</code>)
+|- style="vertical-align: top;" class="hiddenStructure{{{ngonga|}}}"
+| '''[[Ngonga]]'''<br>&nbsp;&bull; Summer&nbsp;([[Daylight saving time|DST]])
+| {{{ngonga}}} ([[Coordinated Universal Time|UTC]]{{{utc_offset}}})<br>{{{ngonga_DST}}} ([[Coordinated Universal Time|UTC]]{{{utc_offset_DST}}})
+|- style="vertical-align: top;" class="hiddenStructure{{{cctld|}}}"
+| '''[[List of Internet top-level domains|Internet TLD]]'''
+| {{{cctld}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{calling_code|}}}"
+| '''[[List of country calling codes|Calling code]]'''
+| <code>+{{{calling_code}}}</code>
+|- style="vertical-align: top;" class="hiddenStructure{{{footnotes|}}}"
+| colspan=2 | <small>{{{footnotes}}}</small>
+|}
+
+<noinclude>
+
+
+[[af:Sjabloon:Landtabel-mini-nl]]
+[[an:Template:Infobox País]]
+[[ar:Template:Infobox Country]]
+[[bg:Шаблон:Държава]]
+[[ca:Template:Taula d'estat]]
+[[cs:Šablona:Infobox stát]]
+[[da:Skabelon:Infoboks land]]
+[[el:Πρότυπο:Πληροφορίες Χώρας]]
+[[en:Template:Infobox Country]]
+[[es:Plantilla:Infobox País]]
+[[fi:Malline:Valtion tiedot]]
+[[fiu-vro:Template:Country Infobox]]
+[[fr:Modèle:Pays]]
+[[he:תבנית:מדינה]]
+[[it:Template:Stato]]
+[[ja:Template:基礎情報 国]]
+[[ko:Template:나라 정보틀]]
+[[nl:Sjabloon:Landtabel]]
+[[nn:Mal:Infoboks land2]]
+[[no:Mal:Infoboks land]]
+[[pl:Szablon:PaństwoX]]
+[[pt:Predefinição:Info País]]
+[[ro:Format:CutieŢări]]
+[[sr:Шаблон:Кутијица за државе]]
+[[th:Template:Infobox Country]]
+[[es:Plantilla:País]]
+[[vi:Tiêu bản:Tóm tắt về quốc gia]]
+[[zh:Template:Infobox Country]]
+</noinclude>
