@@ -19,10 +19,10 @@ break=no
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
 <big>'''[[Aide:Sommaire/Débuter|Débuter]]'''</big><br />
-[[Aide:Débuter sur Wikipédia|Introduction]] <tt>|</tt> [[Projet:Service de Parrainage Actif|Se faire parrainer]] <tt>|</tt> [[Aide:Jargon|Jargon de Wikipédia]]
+[[Aide:Kobanda na Wikipédia|Ebandeli]] <tt>|</tt> [[Projet:Service de Parrainage Actif|Se faire parrainer]] <tt>|</tt> [[Aide:Jargon|Jargon de Wikipédia]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Règles|Règles]]'''</big><br />
+<big>'''[[Aide:Sommaire/Mibeko|Mibeko]]'''</big><br />
 [[Wikipédia:Principes fondateurs|Les principes fondateurs]] <tt>|</tt> [[Wikipédia:Conventions de style|Conventions de style]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
@@ -49,8 +49,8 @@ break=no
 [[Wikipédia:Liens internes|Comment lier les articles]] <tt>|</tt> [[Aide:Liens externes|Liens externes]] <tt>|</tt> [[Wikipédia:Citez vos sources|Citez vos sources]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHt COLUMN -->
-<big>'''[[Aide:Sommaire/Images et média|Images et média]]'''</big><br />
-[[Aide:Importer un fichier|Importer un média]] <tt>|</tt> [[Aide:Quelle licence utiliser ?|Licences des fichiers]] <tt>|</tt> [[Aide:Insérer une image|Insérer une image]]
+<big>'''[[Aide:Sommaire/Images et média|Bililingi et média]]'''</big><br />
+[[Aide:Importer un fichier|Importer un média]] <tt>|</tt> [[Bosálisi:Ndingisa ya kasa-kasa nini tokoki kosalela ?|Ndingisa ya kasa-kasa]] <tt>|</tt> [[Aide:Kotisa elilingi moko|Kotisa elilingi moko]]
 |-
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- LEFT COLUMN -->
@@ -63,8 +63,8 @@ break=no
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Communication|Les moyens de communication]]'''</big><br />
-[[Wikipédia:Le Bistro|Le Bistro]] <tt>|</tt> [[Aide:Discussion|Les pages de discussion]]
+<big>'''[[Aide:Sommaire/Communication|Ndenge ya kosolola]]'''</big><br />
+[[Wikipédia:Le Bistro|Le Bistro]] <tt>|</tt> [[Aide:Lisolo|Nkasa ya masolo]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
 <big>'''[[Aide:Sommaire/Communauté|La communauté Wikipédia]]'''</big><br />
@@ -72,16 +72,16 @@ break=no
 |-
 | colspan="2" align="center" style="width:100%; background:#f5faff; border-top:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- BOTTOM ROW 1 -->
-<big>'''[[Aide:Poser une question|Où poser des questions ?]]''' — '''[[Wikipédia:Demander|Où faire une requête précise ?]]</big><br />
-'''[[Wikipédia:Guilde des Guides|Guilde des Guides]]''' - pour des questions techniques en relation avec Wikipédia ou MediaWiki.<br />
-'''[[Aide:Premiers pas|Premiers pas]]''' - Aide pour les débutants.<br />
-'''[[Wikipédia:Oracle|Oracle]]''' - pour des questions encyclopédiques.
+<big>'''[[Aide:Poser une question|Kotuna mituna wapi ?]]''' — '''[[Wikipédia:Kotuna to Kosenga|Tokoki kosala lisengi ya sikisiki wapi ?]]</big><br />
+'''[[Wikipédia:Guilde des Guides|Guilde des Guides]]''' - mpo na mituna ozali na yango mpo Wikipédia to MediaWiki.<br />
+'''[[Aide:Premiers pas|Premiers pas]]''' - Bosálisi mpo na baoyo bameseni nanu te.<br />
+'''[[Wikipédia:Oracle|Oracle]]''' - mpo na mituna oyo etali na encyclopédie.
 <!-- BOTTOM ROW 2 -->
 |- style="background:#f5faff;"
 | align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
 ''Pour voir tous les menus sur une page, voir [[Aide:Sommaire/Plan du site|Plan du site]].''
 | align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
-''Voir aussi :'' '''''[[Projet:Accueil|Annuaire des projets]]''''' ''et'' '''''[[Aide:Liens utiles]]'''''.
+''Tala mpe :'' '''''[[Projet:Accueil|Annuaire des projets]]''''' ''et'' '''''[[Aide:Liens utiles]]'''''.
 |}
 [[Image:Nuvola projet aide.png|23px]] <small>[[Projet:Aide]]</small>
 __NOTOC__
