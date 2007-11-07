@@ -6,12 +6,12 @@
 [[Image:Nuvola apps help index.png|left|100px]]
 <h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;">Sommaire de l’aide</h2>
 <h4>[[Wikipédia:FAQ|Foire aux questions]]</h4>
-<!--<h4>[[Special:Prefixindex/Aide:|Toutes les pages d'aide]]</h4>-->
+<!--<h4>[[Special:Prefixindex/Aide:|Nkasa nyonso ya Bosálisi]]</h4>-->
 <inputbox>
 type=search
 width=20
 namespaces=Aide
-searchbuttonlabel=Rechercher dans l'aide
+searchbuttonlabel=Koluka na kati ya Bosálisi
 bgcolor=#cee0f2
 break=no
 </inputbox>
