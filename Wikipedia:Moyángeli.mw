@@ -1,0 +1,128 @@
+'''Cet article n'est pas encore traduit en lingala. S'il vous plaît, traduisez un paragraphe, si vous pouvez. Merci!'''
+
+Cet article a pour but de décrire tout le statut d' '''administrateur''' (aussi nommé sysop) de la '''Wikipédia lingala'''.
+
+Pour consulter la liste des admins, voir Wikipédia:Liste des administrateurs.
+
+Note : il existe aussi un statut de développeur qui inclut pour l'instant les droits d'administrateur.
+
+
+
+
+
+
+
+
+== Pourquoi des administrateurs ? ==
+Assurer la maintenance d'un site comme Wikipédia où tout visiteur peut modifier la quasi-totalité des pages nécessite des outils puissants permettant, par exemple, de réparer des erreurs, d'effacer des pages non pertinentes, de bloquer temporairement des pages ou des vandales.
+
+Pour des raisons évidentes de sécurité, de tels outils ne peuvent être mis à la disposition de tous. C'est pourquoi le statut d'administrateur existe.
+
+Il est attribué à des contributeurs de Wikipédia qui en font la demande et en qui la communauté donne sa confiance. Voir Wikipédia:Liste des administrateurs.
+
+
+
+=== Oyo Moyangeli akoki kosala ===
+Les administrateurs ont accès à des fonctionnalités supplémentaires sur Wikipédia. Ils peuvent :
+
+*protéger et déprotéger des pages ainsi qu'éditer les pages protégées. Pour plus d'informations, voir Wikipédia:Page protégée; 
+*supprimer des pages et leur historique. Pour plus d'information, voir Wikipedia:Pages à supprimer; 
+*consulter et restaurer les pages supprimées par un autre administrateur en regardant dans les archives seulement accessibles aux administrateurs; 
+*bloquer des adresses IP (voir Wikipédia:Blocage) et des utilisateurs enregistrés; 
+*éditer les messages de l'interface grâce à l'espace MediaWiki; 
+*faire des requêtes directes sur la base de données (voir Wikipédia:Requêtes SQL (ou Database queries) (fonction actuellement désactivée); 
+
+Ce que ne peut pas faire un administrateur
+
+Un administrateur ne dispose pas d'informations supplémentaires, telles que les adresses IP ou courriel d'un utilisateur.
+
+
+
+=== Droits et devoirs ===
+Le devoir d'un administrateur est d'exécuter les décisions que la communauté (dont il fait partie) a prises.
+
+En tant qu'éditeur, un administrateur a les mêmes droits et devoirs que tous les utilisateurs de Wikipédia :
+
+*participer aux articles qui l'intéressent ; 
+*répondre aux questions dans la mesure de ses moyens ; 
+*souhaiter la bienvenue aux nouveaux ; 
+*faire un peu de nettoyage (comme par exemple dans le bistro) ; 
+*vérifier que les articles et les images ne sont pas sous copyright ; 
+*effacer le contenu considéré comme vandalisme (en vidant la page). 
+
+En aucun cas un administrateur n'a davantage de pouvoir que les non administrateurs en matières de création, d'édition, de  forme, de contenu, de ligne directrice. Un administrateur doit être au service d'une meilleure fluidité de fonctionnement  des pages et de leurs rapports entre elles et a un rôle de protecteur de l'information contre le vandalisme.
+
+Contrairement à ce que beaucoup de personnes croient, le nettoyage, la vérification de copyright et la suppression de vandalisme ne sont ni un privilège, ni une obligation des administrateurs. Tout le monde peut le faire et tout le monde a le droit de ne pas le faire.
+
+
+=== Limitations ===
+Un administrateur doit toujours demander la permission de la communauté avant d'utiliser les fonctionnalités supplémentaires dont il dispose.
+
+En aucun cas, il ne doit :
+
+*bloquer une page sur laquelle il est en conflit d'édition avec d'autres contributeurs ; 
+*bloquer un utilisateur sans passer par la procédure habituelle sur Wikipédia:Vandalisme en cours ; 
+*effacer une page sans l'avoir préalablement listée sur la page Wikipédia:Pages à supprimer ; 
+Voir : Wikipédia:Administrateur/Règlement
+
+
+Exception est faite des petits vandalismes (une personne crée une page pour passer un coucou) que les utilisateurs non administrateurs doivent vider et qu'un administrateur peut effacer sans passer par la page Wikipédia:Pages à supprimer. Cela ne concerne que les pages ne contenant aucune information pertinente pour l'encyclopédie.
+
+Les ébauches signalées ne doivent en aucun cas être effacées sans préavis.
+
+
+== Modalités d'accès au statut ==
+Important : Les modalités de nomination des administrateurs, ainsi que leurs devoirs, sont en cours de discussion sur la page Wikipédia:Prise de décision/Administrateur. Venez vous exprimer.
+
+Les points suivants ont été votés :
+
+
+=== Déclaration de la candidature : ===
+La candidature se fera sur la page Wikipédia:Administrator et sera relayée à la page communotaire
+
+=== Durée du statut d'administrateur ===
+Il n'y a pas de limite temporelle à l'exercice de la fonction d'administrateur. La perte du statut se fera donc au cas par cas.
+
+=== Destitution : ===
+Un administrateur est autorisé à demander sa destitution.
+
+== Conséquences d'un abus de pouvoir ==
+Un abus de pouvoir de la part d'un administrateur est une utilisation malhonnête des outils de maintenance qui sont à sa disposition (voir #Ce que peut faire un administrateur) en dehors des cas permis (voir #Limitations). Si vous pensez rencontrer ce genre d'abus, listez-les ci-dessous en proposant la sanction qui devrait selon vous être appliquée. Si possible, indiquez une URL par exemple de modification de page prouvant un abus.
+
+Voir Wikipédia:Prise de décision/Administrateur/Abus et sanctions
+
+
+
+
+
+
+==Propositions de candidature en cours==
+<center><small>{{purger le cache}}</small></center>
+En attendant, l'issue des votes, on peut sans doute s'instruire avec [[Wikipédia:Idées-Administrateurs]]. À commencer par les candidats...
+
+<!-- Pour ouvrir une nouvelle candidature, veuillez insérer {{Wikipédia:Moyángeli/votre_login}} à la suite des autres puis créer la sous-page en question. Celle-ci doit contenir
+
+===[[User:login|login]]===
+====Ɛɛ (pour/for)====
+====Tɛ̂ (contre/against)====
+====Kokila (s'abstenir/abstention)====
+-->
+
+==Archives==
+Les anciennes candidatures sont [[Wikipedia:Moyángeli/Archive|ici]].
+
+
+==Autres liens==
+
+* [[Wikipedia:Lisanga ya bayángeli]]
+* Conditions d'accès au statut d'administrateur, voir [[Wikipedia:Lisanga ya bayángeli]].
+* [[Wikipedia:Blogadmins]]
+* [[:fr:Wikipédia:Administrateur/Processus de suppression|Supprimer une page]] : comment ça marche.
+<br/>
+
+{{Wikipedien}}
+
+
+http://meta.wikimedia.org/wiki/Requests_for_permissions
+
+[[fr:Wikipédia:Administrateur]]
