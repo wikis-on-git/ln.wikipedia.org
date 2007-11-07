@@ -13,22 +13,21 @@ Note : il existe aussi un statut de développeur qui inclut pour l'instant les d
 
 
 
-== Bayaneli bazali mpo na nini ? ==
-Assurer la maintenance d'un site comme Wikipédia où tout visiteur peut modifier la quasi-totalité des pages nécessite des outils puissants permettant, par exemple, de réparer des erreurs, d'effacer des pages non pertinentes, de bloquer temporairement des pages ou des vandales.
+== Bayangeli bazali mpo na nini ? ==
+Mpo na kobatela malamu esika oyo ezali neti Wikipédia wapi batali nyonso bakoki kobongola pene nyonso ya nkasa, bisaleli makasi esengeli kozala, na ndakisa , oyo ekoki kobongisa mabunga, kolongola nkasa oyo ezali na ntina te, kokanga nkasa mpo na mwa ntango to bato.
+Mpo na ntina ya libateli, bisaleli ya ndenge wana, ekoki te ete bato nyonso basalemaka yango. Yango wana ebengeli "Moyangeli" ezali.
 
-Pour des raisons évidentes de sécurité, de tels outils ne peuvent être mis à la disposition de tous. C'est pourquoi le statut d'administrateur existe.
-
-Il est attribué à des contributeurs de Wikipédia qui en font la demande et en qui la communauté donne sa confiance. Voir Wikipédia:Liste des administrateurs.
+Bapesaka ebengeli wana na bato oyo bapesaka mingi na Wikipedia mpe batyaka lisengi mpo na kozwa yango mpe basusu batyelaka ye motema. Tala Wikipédia:Molongo ya bayangeli.
 
 
 
 === Oyo Moyangeli akoki kosala ===
-Les administrateurs ont accès à des fonctionnalités supplémentaires sur Wikipédia. Ils peuvent :
+Bayangeli bazali na mikumba oyo eleki na ntina na Wikipedia. Bakoki :
 
-*protéger et déprotéger des pages ainsi qu'éditer les pages protégées. Pour plus d'informations, voir Wikipédia:Page protégée; 
-*supprimer des pages et leur historique. Pour plus d'information, voir Wikipedia:Pages à supprimer; 
-*consulter et restaurer les pages supprimées par un autre administrateur en regardant dans les archives seulement accessibles aux administrateurs; 
-*bloquer des adresses IP (voir Wikipédia:Blocage) et des utilisateurs enregistrés; 
+*kobatela mpe kolongola libateli na nkasa mpe kobalola nkasa oyo ebatelami. Mpo na kozwa bansango mosusu, tala Wikipédia:Page protégée; 
+*kolongola nkasa mpe molongo na yango. Mpo na kozwa bansango mosusu, tala Wikipedia:Pages à supprimer; 
+*kotala mpe kobongisa nkasa oyo moyangeli mosusu alongolaki, ya kotala na nkasa ya kala oyo bayangeli kaka bakoki kozwa; 
+*kokanga ba-adresi IP (voir Wikipédia:Blocage)mpe batali baoyo babombisaki; 
 *éditer les messages de l'interface grâce à l'espace MediaWiki; 
 *faire des requêtes directes sur la base de données (voir Wikipédia:Requêtes SQL (ou Database queries) (fonction actuellement désactivée); 
 
