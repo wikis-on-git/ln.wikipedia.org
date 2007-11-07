@@ -1,1 +1,110 @@
+<small>L'ancien sommaire est toujours disponible à [[Aide:Sommaire/Ancien sommaire|cet endroit]]</small>
+{| cellspacing="0" cellpadding="0" align="center" style="width:100%; border:2px #a3b1bf solid;"
+|-
+|colspan="2" align="center" style="background:#cee0f2; text-align:center; border-bottom:1px #a3b1bf solid;" |
+{{raccourci|WP:AIDE}}
+[[Image:Nuvola apps help index.png|left|100px]]
+<h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;">Sommaire de l’aide</h2>
+<h4>[[Wikipédia:FAQ|Foire aux questions]]</h4>
+<!--<h4>[[Special:Prefixindex/Aide:|Toutes les pages d'aide]]</h4>-->
+<inputbox>
+type=search
+width=20
+namespaces=Aide
+searchbuttonlabel=Rechercher dans l'aide
+bgcolor=#cee0f2
+break=no
+</inputbox>
+|-
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Débuter|Débuter]]'''</big><br />
+[[Aide:Débuter sur Wikipédia|Introduction]] <tt>|</tt> [[Projet:Service de Parrainage Actif|Se faire parrainer]] <tt>|</tt> [[Aide:Jargon|Jargon de Wikipédia]]
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
+<!-- RIGHT COLUMN -->
+<big>'''[[Aide:Sommaire/Règles|Règles]]'''</big><br />
+[[Wikipédia:Principes fondateurs|Les principes fondateurs]] <tt>|</tt> [[Wikipédia:Conventions de style|Conventions de style]]
+|-
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Parcourir Wikipédia|Parcourir Wikipédia]]'''</big><br />
+[[Aide:Consultation|Consulter l'encyclopédie]] <tt>|</tt> [[Aide:Recherche|Rechercher un article]]
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- RIGHT COLUMN -->
+<big>'''[[Aide:Sommaire/Ressources|Les ressources et les listes]]'''</big><br />
+[[Aide:Catégorie|Les catégories]] <tt>|</tt> [[Aide:Pages spéciales|Pages spéciales]] <tt>|</tt> [[Aide:Modèle|Les modèles]]
+|-
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Modifier Wikipédia|Modifier Wikipédia]]'''</big><br />
+[[Aide:Syntaxe|Syntaxe wiki]] <tt>|</tt> [[Wikipédia:Que faire sur Wikipédia ?|Que faire sur Wikipédia ?]] <tt>|</tt> [[Aide:Premiers pas|Premiers pas]]
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
+<!-- RIGHT COLUMN -->
+<big>'''[[Aide:Sommaire/Suivre les changements|Observer les changements]]'''</big><br />
+[[Aide:Historique|Historique des pages]] <tt>|</tt> [[Aide:Contributions|Contributions des utilisateurs]] <tt>|</tt> [[Wikipédia:Vandalisme|Vandalisme]]
+|-
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Liens|Liens et références]]'''</big><br />
+[[Wikipédia:Liens internes|Comment lier les articles]] <tt>|</tt> [[Aide:Liens externes|Liens externes]] <tt>|</tt> [[Wikipédia:Citez vos sources|Citez vos sources]]
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
+<!-- RIGHt COLUMN -->
+<big>'''[[Aide:Sommaire/Images et média|Images et média]]'''</big><br />
+[[Aide:Importer un fichier|Importer un média]] <tt>|</tt> [[Aide:Quelle licence utiliser ?|Licences des fichiers]] <tt>|</tt> [[Aide:Insérer une image|Insérer une image]]
+|-
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Compte utilisateur|Gestion du compte utilisateur]]'''</big><br />
+[[Aide:Préférences utilisateur|Changez vos préférences]] <tt>|</tt> [[Aide:Signature|Changez votre signature]]
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- RIGHT COLUMN -->
+<big>'''[[Aide:Sommaire/Les informations techniques|Les informations techniques]]'''</big><br />
+[[Aide:Utilitaires|Utilitaires]] <tt>|</tt> [[Aide:MediaWiki|Le logiciel MediaWiki]]
+|-
+| align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
+<!-- LEFT COLUMN -->
+<big>'''[[Aide:Sommaire/Communication|Les moyens de communication]]'''</big><br />
+[[Wikipédia:Le Bistro|Le Bistro]] <tt>|</tt> [[Aide:Discussion|Les pages de discussion]]
+| align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
+<!-- RIGHT COLUMN -->
+<big>'''[[Aide:Sommaire/Communauté|La communauté Wikipédia]]'''</big><br />
+[[Aide:Les différents rôles|Les différents rôles]] <tt>|</tt> [[Wikipédia:Accueil|Accueil]] <tt>|</tt> [[Wikipédia:Résolution de conflit|Résolution de conflit]]
+|-
+| colspan="2" align="center" style="width:100%; background:#f5faff; border-top:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
+<!-- BOTTOM ROW 1 -->
+<big>'''[[Aide:Poser une question|Où poser des questions ?]]''' — '''[[Wikipédia:Demander|Où faire une requête précise ?]]</big><br />
+'''[[Wikipédia:Guilde des Guides|Guilde des Guides]]''' - pour des questions techniques en relation avec Wikipédia ou MediaWiki.<br />
+'''[[Aide:Premiers pas|Premiers pas]]''' - Aide pour les débutants.<br />
+'''[[Wikipédia:Oracle|Oracle]]''' - pour des questions encyclopédiques.
+<!-- BOTTOM ROW 2 -->
+|- style="background:#f5faff;"
+| align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
+''Pour voir tous les menus sur une page, voir [[Aide:Sommaire/Plan du site|Plan du site]].''
+| align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
+''Voir aussi :'' '''''[[Projet:Accueil|Annuaire des projets]]''''' ''et'' '''''[[Aide:Liens utiles]]'''''.
+|}
+[[Image:Nuvola projet aide.png|23px]] <small>[[Projet:Aide]]</small>
+__NOTOC__
+__NOEDITSECTION__
 
+[[Catégorie:Espace Aide|*]]
+
+[[ca:Viquipèdia:Ajuda]]
+[[cs:Nápověda:Obsah]]
+[[de:Wikipedia:Hilfe]]
+[[en:Help:Contents]]
+[[eo:Helpo:Enhavo]]
+[[es:Wikipedia:Ayuda]]
+[[fi:Wikipedia:Ohje]]
+[[it:Aiuto:Manuale]]
+[[ja:Help:目次]]
+[[nl:Help:Wikipedia]]
+[[no:Hjelp:Portal]] 
+[[pl:Pomoc:Spis treści]]
+[[pt:Ajuda:Página principal]]
+[[ro:Wikipedia:Ajutor]]
+[[ru:Википедия:Справка]]
+[[sk:Pomoc:Obsah]]
+[[sv:Hjälp:Innehåll]] 
+[[tr:Yardım:İçindekiler]]
+[[zh:Help:目录]]
