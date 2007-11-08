@@ -1,16 +1,15 @@
-
 {| cellspacing="0" cellpadding="0" align="center" style="width:100%; border:2px #a3b1bf solid;"
 |-
 |colspan="2" align="center" style="background:#cee0f2; text-align:center; border-bottom:1px #a3b1bf solid;" |
-{{Na bokuse|WP:AIDE}}
-[[Image:Nuvola apps help index.png|left|100px]]
+{{Na bokuse|WP:Lisalisi}}
+[[Elilingi:Nuvola apps help index.png|left|100px]]
 <h2 style="margin:.5em; margin-top:.1em; margin-bottom:.1em; border-bottom:0; font-weight:bold;">Oyo ezali na kati ya Bosálisi</h2>
-<h4>[[Wikipédia:FAQ|Foire aux questions]]</h4>
-<!--<h4>[[Special:Prefixindex/Aide:|Nkasa nyonso ya Bosálisi]]</h4>-->
+<h4>[[Wikipédia:FAQ|Ebele ya mituna]]</h4>
+<!--<h4>[[Special:Prefixindex/Lisalisi:|Nkasa nyonso ya Bosálisi]]</h4>-->
 <inputbox>
 type=search
 width=20
-namespaces=Aide
+namespaces=Lisalisi
 searchbuttonlabel=Koluka na kati ya Bosálisi
 bgcolor=#cee0f2
 break=no
@@ -18,76 +17,76 @@ break=no
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Débuter|Débuter]]'''</big><br />
-[[Aide:Kobanda na Wikipédia|Ebandeli]] <tt>|</tt> [[Projet:Service de Parrainage Actif|Se faire parrainer]] <tt>|</tt> [[Aide:Jargon|Jargon de Wikipédia]]
+<big>'''[[Lisalisi:Oyo ezali/Kobanda|Kobanda]]'''</big><br />
+[[Lisalisi:Kobanda na Wikipédia|Ebandeli]] <tt>|</tt> [[Mwango:Service de Parrainage Actif|Se faire parrainer]] <tt>|</tt> [[Lisalisi:Lokota|Ndenge ya koloba ya Wikipédia]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Mibeko|Mibeko]]'''</big><br />
-[[Wikipédia:Principes fondateurs|Les principes fondateurs]] <tt>|</tt> [[Wikipédia:Conventions de style|Conventions de style]]
+<big>'''[[Lisalisi:Oyo ezali/Mibeko|Mibeko]]'''</big><br />
+[[Wikipédia:Mitinda ya moboko| Mitinda ya moboko]] <tt>|</tt> [[Wikipédia:Mayokani ya ndenge ya kosala|Conventions de style]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Parcourir Wikipédia|Parcourir Wikipédia]]'''</big><br />
-[[Aide:Consultation|Consulter l'encyclopédie]] <tt>|</tt> [[Aide:Recherche|Rechercher un article]]
+<big>'''[[Lisalisi:Oyo ezali/Kotambola na Wikipédia|Kotambola na Wikipédia]]'''</big><br />
+[[Lisalisi:Kotalela|Kotalela encyclopédie]] <tt>|</tt> [[Lisalisi:Koluka|Koluka lokasa]]
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Ressources|Les ressources et les listes]]'''</big><br />
-[[Aide:Catégorie|Les catégories]] <tt>|</tt> [[Aide:Pages spéciales|Pages spéciales]] <tt>|</tt> [[Aide:Modèle|Les modèles]]
+<big>'''[[Lisalisi:Oyo ezali/Ressources|Les ressources et les listes]]'''</big><br />
+[[Lisalisi:Catégorie|Les catégories]] <tt>|</tt> [[Lisalisi:Pages spéciales|Pages spéciales]] <tt>|</tt> [[Lisalisi:Ndakisa|Bandakisa]]
 |-
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Kobongola Wikipédia|Kobongola Wikipédia]]'''</big><br />
-[[Aide:Syntaxe|Syntaxe wiki]] <tt>|</tt> [[Wikipédia:Tokoki kosala nini na Wikipedia ?|Tokoki kosala nini na Wikipedia ?]] <tt>|</tt> [[Aide:Matamboli ya liboso|Matamboli ya liboso]]
+<big>'''[[Lisalisi:Oyo ezali/Kobongola Wikipédia|Kobongola Wikipédia]]'''</big><br />
+[[Lisalisi:Ndenge ya kokoma|Ndenge ya kokoma wiki]] <tt>|</tt> [[Wikipédia:Tokoki kosala nini na Wikipedia ?|Tokoki kosala nini na Wikipedia ?]] <tt>|</tt> [[Lisalisi:Matamboli ya liboso|Matamboli ya liboso]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Kolanda mbongwana|Komona mbongwana]]'''</big><br />
-[[Aide:Historique|Historique des pages]] <tt>|</tt> [[Aide:Contributions|Contributions des utilisateurs]] <tt>|</tt> [[Wikipédia:Vandalisme|Vandalisme]]
+<big>'''[[Lisalisi:Oyo ezali/Kolanda mbongwana|Komona mbongwana]]'''</big><br />
+[[Lisalisi:Historique|Historique ya nkasa]] <tt>|</tt> [[Lisalisi:Libakisi|Libakisi ya basaleli]] <tt>|</tt> [[Wikipédia:Libebisi|Libebisi]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Liens|Liens et références]]'''</big><br />
-[[Wikipédia:Liens internes|Comment lier les articles]] <tt>|</tt> [[Aide:Liens externes|Liens externes]] <tt>|</tt> [[Wikipédia:Citez vos sources|Citez vos sources]]
+<big>'''[[Lisalisi:Oyo ezali/Liens|Liens et références]]'''</big><br />
+[[Wikipédia:Bikanganeli na kati|Lolenge nini kokanga nkasa?]] <tt>|</tt> [[Lisalisi:Bikanganeli tii libanda|Bikanganeli tii libanda]] <tt>|</tt> [[Wikipédia:Lobela liziba na yo|Lobela liziba na yo]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHt COLUMN -->
-<big>'''[[Aide:Sommaire/Images et média|Bililingi et média]]'''</big><br />
-[[Aide:Importer un fichier|Importer un média]] <tt>|</tt> [[Bosálisi:Ndingisa ya kasa-kasa nini tokoki kosalela ?|Ndingisa ya kasa-kasa]] <tt>|</tt> [[Aide:Kotisa elilingi moko|Kotisa elilingi moko]]
+<big>'''[[Lisalisi:Oyo ezali/Bililingi et média|Bililingi et média]]'''</big><br />
+[[Lisalisi:Komema kasa-kasa moko|Kotisa media moko]] <tt>|</tt> [[Lisalisi:Ndingisa ya kasa-kasa nini tokoki kosalela ?|Ndingisa ya kasa-kasa]] <tt>|</tt> [[Lisalisi:Kotisa elilingi moko|Kotisa elilingi moko]]
 |-
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Compte utilisateur|Gestion du compte utilisateur]]'''</big><br />
-[[Aide:Préférences utilisateur|Changez vos préférences]] <tt>|</tt> [[Aide:Signature|Changez votre signature]]
+<big>'''[[Lisalisi:Oyo ezali/Esika ya Mosaleli|Kokamba esika ya Mosaleli]]'''</big><br />
+[[Lisalisi:Maluli|Kobongola maluli na yo]] <tt>|</tt> [[Lisalisi:Linzaka|Kobogola linzaka na yo]]
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Les informations techniques|Les informations techniques]]'''</big><br />
-[[Aide:Utilitaires|Utilitaires]] <tt>|</tt> [[Aide:MediaWiki|Le logiciel MediaWiki]]
+<big>'''[[Lisalisi:Oyo ezali/Les informations techniques|Les informations techniques]]'''</big><br />
+[[Lisalisi:Utilitaires|Utilitaires]] <tt>|</tt> [[Lisalisi:MediaWiki|Le logiciel MediaWiki]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
-<big>'''[[Aide:Sommaire/Communication|Ndenge ya kosolola]]'''</big><br />
-[[Wikipédia:Le Bistro|Le Bistro]] <tt>|</tt> [[Aide:Lisolo|Nkasa ya masolo]]
+<big>'''[[Lisalisi:Oyo ezali/Communication|Ndenge ya kosolola]]'''</big><br />
+[[Wikipédia:Le Bistro|Le Bistro]] <tt>|</tt> [[Lisalisi:Lisolo|Nkasa ya masolo]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
-<big>'''[[Aide:Sommaire/Communauté|La communauté Wikipédia]]'''</big><br />
-[[Aide:Les différents rôles|Les différents rôles]] <tt>|</tt> [[Wikipédia:Accueil|Accueil]] <tt>|</tt> [[Wikipédia:Résolution de conflit|Résolution de conflit]]
+<big>'''[[Lisalisi:Oyo ezali/Lingomba|Lingomba ya Wikipédia]]'''</big><br />
+[[Lisalisi:rôles ndenge na ndenge|rôles ndenge na ndenge]] <tt>|</tt> [[Wikipédia:Yambi|Yambi]] <tt>|</tt> [[Wikipédia:Kobongisa kowelana|Kobongisa kowelana]]
 |-
 | colspan="2" align="center" style="width:100%; background:#f5faff; border-top:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- BOTTOM ROW 1 -->
-<big>'''[[Aide:Poser une question|Kotuna mituna wapi ?]]''' — '''[[Wikipédia:Kotuna to Kosenga|Tokoki kosala lisengi ya sikisiki wapi ?]]</big><br />
-'''[[Wikipédia:Guilde des Guides|Guilde des Guides]]''' - mpo na mituna ozali na yango mpo Wikipédia to MediaWiki.<br />
-'''[[Aide:Premiers pas|Premiers pas]]''' - Bosálisi mpo na baoyo bameseni nanu te.<br />
+<big>'''[[Lisalisi:Kotuna motuna moko|Kotuna mituna wapi ?]]''' — '''[[Wikipédia:Kotuna to Kosenga|Tokoki kosala lisengi ya sikisiki wapi ?]]</big><br />
+'''[[Wikipédia:Liyangani ya Bakambi|Liyangani ya Bakambi]]''' - mpo na mituna ozali na yango mpo Wikipédia to MediaWiki.<br />
+'''[[Lisalisi:Matamboli ya liboso|Matamboli ya liboso]]''' - Bosálisi mpo na baoyo bameseni nanu te.<br />
 '''[[Wikipédia:Oracle|Oracle]]''' - mpo na mituna oyo etali na encyclopédie.
 <!-- BOTTOM ROW 2 -->
 |- style="background:#f5faff;"
 | align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
-''Pour voir tous les menus sur une page, voir [[Aide:Sommaire/Plan du site|Plan du site]].''
+''Mpo na kotala bitape nyonso na lokasa moko, tala [[Lisalisi:Oyo ezali/Mwango ya esika oyo|Mwango ya esika oyo]].''
 | align="center" style="border-top:2px solid #cedff2; padding:0.5em;" |
-''Tala mpe :'' '''''[[Projet:Accueil|Annuaire des projets]]''''' ''et'' '''''[[Aide:Liens utiles]]'''''.
+''Tala mpe :'' '''''[[Mwango:Yambi|Buku ya Mwango]]''''' ''mpe'' '''''[[Lisalisi:Liens utiles]]'''''.
 |}
-[[Image:Nuvola projet aide.png|23px]] <small>[[Projet:Aide]]</small>
+[[Elilingi:Nuvola projet aide.png|23px]] <small>[[Mwango:Lisalisi]]</small>
 __NOTOC__
 __NOEDITSECTION__
 
-[[Catégorie:Espace Aide|*]]
+[[Catégorie:Esika ya Lisalisi|*]]
 
 [[ca:Viquipèdia:Ajuda]]
 [[cs:Nápověda:Obsah]]
