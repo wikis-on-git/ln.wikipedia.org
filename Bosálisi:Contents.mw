@@ -31,16 +31,16 @@ break=no
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- RIGHT COLUMN -->
 <big>'''[[Lisalisi:Oyo ezali/Ressources|Les ressources et les listes]]'''</big><br />
-[[Lisalisi:Catégorie|Les catégories]] <tt>|</tt> [[Lisalisi:Pages spéciales|Pages spéciales]] <tt>|</tt> [[Lisalisi:Ndakisa|Bandakisa]]
+[[Lisalisi:Catégorie|Les catégories]] <tt>|</tt> [[Special:Specialpages|Ndéngé isúsu]] <tt>|</tt> [[Lisalisi:Ndakisa|Bandakisa]]
 |-
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- LEFT COLUMN -->
-<big>'''[[Lisalisi:Oyo ezali/Kobongola Wikipédia|Kobongola Wikipédia]]'''</big><br />
+<big>'''[[Lisalisi:Oyo ezali/Kobongola Wikipedia|Kobongola Wikipedia]]'''</big><br />
 [[Lisalisi:Ndenge ya kokoma|Ndenge ya kokoma wiki]] <tt>|</tt> [[Wikipédia:Tokoki kosala nini na Wikipedia ?|Tokoki kosala nini na Wikipedia ?]] <tt>|</tt> [[Wikipedia:Kotámbola ya libosó|Kotámbola ya libosó]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
 <big>'''[[Lisalisi:Oyo ezali/Kolanda mbongwana|Komona mbongwana]]'''</big><br />
-[[Lisalisi:Historique|Historique ya nkasa]] <tt>|</tt> [[Lisalisi:Libakisi|Libakisi ya basaleli]] <tt>|</tt> [[Wikipédia:Libebisi|Libebisi]]
+[[Lisalisi:Historique|Historique ya nkasa]] <tt>|</tt> [[Lisalisi:Libakisi|Libakisi ya basaleli]] <tt>|</tt> [[Wikipedia:Libebisi|Libebisi]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
@@ -57,8 +57,8 @@ break=no
 [[Lisalisi:Maluli|Kobongola maluli na yo]] <tt>|</tt> [[Lisalisi:Linzaka|Kobongola linzaka na yo]]
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- RIGHT COLUMN -->
-<big>'''[[Lisalisi:Oyo ezali/Les informations techniques|Les informations techniques]]'''</big><br />
-[[Lisalisi:Bisaleli|Bisaleli]] <tt>|</tt> [[Lisalisi:MediaWiki|Le logiciel MediaWiki]]
+<big>'''[[Lisalisi:Oyo ezali/Bayébisi tɛkníki|Bayébisi tɛkníki]]'''</big><br />
+[[Lisalisi:Bisaleli|Bisaleli]] <tt>|</tt> [[Lisalisi:MediaWiki|Litámbuisi MediaWiki]]
 |-
 | align="center" style="width:50%; background:#f5faff; padding:0.5em; text-align:center;" valign="top"|
 <!-- LEFT COLUMN -->
@@ -66,12 +66,12 @@ break=no
 [[Wikipedia:Bísó na bísó|Bísó na bísó]] <tt>|</tt> [[Lisalisi:Lisolo|Nkasa ya masolo]]
 | align="center" style="width:50%; background:#f5faff; border-left:1px solid #cedff2; padding:0.5em; text-align:center;" valign="top" |
 <!-- RIGHT COLUMN -->
-<big>'''[[Lisalisi:Oyo ezali/Lingomba|Lingomba ya Wikipédia]]'''</big><br />
+<big>'''[[Lisalisi:Oyo ezali/Lingomba|Lingomba ya Wikipedia]]'''</big><br />
 [[Lisalisi:rôles ndenge na ndenge|rôles ndenge na ndenge]] <tt>|</tt> [[Wikipédia:Yambi|Yambi]] <tt>|</tt> [[Wikipédia:Kobongisa kowelana|Kobongisa kowelana]]
 |-
 | colspan="2" align="center" style="width:100%; background:#f5faff; border-top:1px solid #cee0f2; padding:0.5em; text-align:center;" valign="top" |
 <!-- BOTTOM ROW 1 -->
-<big>'''[[Wikipedia:Bosungi (FAQ)|Kotuna mituna wapi ?]]''' — '''[[Wikipédia:Kotuna to Kosenga|Tokoki kosala lisengi ya sikisiki wapi ?]]</big><br />
+<big>'''[[Wikipedia:Bosungi (FAQ)|Kotuna mituna wapi ?]]''' — '''[[Wikipedia:Kotuna to Kosenga|Tokoki kosala lisengi ya sikisiki wapi ?]]</big><br />
 '''[[Wikipédia:Liyangani ya Bakambi|Liyangani ya Bakambi]]''' - mpo na mituna ozali na yango mpo Wikipédia to MediaWiki.<br />
 '''[[Wikipedia:Kotámbola ya libosó|Kotámbola ya libosó]]''' - Bosálisi mpo na baoyo bameseni nanu te.<br />
 '''[[Wikipédia:Oracle|Oracle]]''' - mpo na mituna oyo etali na encyclopédie.
