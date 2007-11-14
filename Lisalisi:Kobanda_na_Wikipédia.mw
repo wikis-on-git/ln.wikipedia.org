@@ -1,0 +1,235 @@
+{{Na bokuse|Lokasa oyo ezali neti mokambi moko mpo na baoyo (contributeurs) bazali ya sika. Mpo na bosalisi ya mobimba ya Wikipedia, talela [[Lisalisi:Oyo ezali| oyo ezali na kati ya Bosalisi]]. Soki olingi kotala mwango oyo ya mobimba, talela l'[[Wikipédia:accueil des nouveaux arrivants|Yambi na baoyo bazali ya sika]]}}
+
+{{sommaire à droite}}
+
+== Mitinda mpe mikano ya Wikipedia ==
+
+[[Wikipédia:Principes fondateurs|Wikipedia ezali buku oyo ezali ofele, oyo ezali na kati ezali kozanga ntomo. Kosangana na yango ezali petee mpe bato nyonso bakoki kosala yango]].
+
+Pour contribuer à Wikipédia on s'engage donc à :
+* kozala na [[Wikipédia:Règles de savoir-vivre|etamboli oyo ebongi]] mpo na basusu,
+* kososola ete Wikipedia ekoki kosalema na bonsomi '''kasi''' limemya ya Ntomo ya basusu esengeli kozala (copyright, licences...),
+* Kondima ete oyo osalaki, basusu bakoki kobongola yango.
+
+Bonsomi oyo Wikipedia epesaka na yo, ezali elembeteli ete etyelaka yo motema. Yango wana osengeli kososola etamboli na lisanga na ngo mpe koyekola ndenge nini okoki kosalisa mwango oyo.
+
+== Kokoma Mosalisi ==
+
+ '''Mosalisi (Contributeur)''' azali moto moko oyo akoki kobalola nkasa. Liloba « Kobalola » elimboli [[Aide:Comment créer une page|kokela]]  [[lokasa ya sika]] mpe kobongola lokasa mosusu. Okoki kobalola '''kozanga kozala na compte moko''', kasi l'[[Aide:historique|molongo]] elobeli mpe babongoli na ye « kozanga nkombo » na [[adresi IP|ip]] na ye. Maloba(«likomeli(article) », « lokasa », « molongo(historique) »...) ezali [[Aide:lokota(Jargon)|ndimbola ya sikisiki na Wikipedia]] : ndimbola na yango ezali na oyo elandi.
+
+=== Mosalisi oyo azangi nkombo mpe oyo amikotisi Contributeur anonyme et enregistré ===
+
+Bato nyonso bakoki kosangana mpe kosalisa Wikipedia, sans s'inscrire ni [[meta:Confidentialité|fournir aucune information personnelle]]. Toutefois, il est possible de [[Special:Userlogin|s'enregistrer sur Wikipédia]], c'est-à-dire de s'inscrire de façon permanente. On parle de contributeur « anonyme » pour un contributeur non enregistré. Un utilisateur anonyme ''n'a pas moins'' de possibilités de modification des articles qu'un utilisateur enregistré, et inversement. La différence entre utilisateurs anonymes et enregistrés est avant tout technique.
+
+L'intérêt de s'enregistrer sur Wikipédia vient des options d'utilisation que cela confère : une fois enregistré, vous pourrez définir une signature personnelle, avoir une page personnelle d'utilisateur, suivre plus facilement les articles et vos contributions... Vous pourrez de plus participer aux votes et prises de décisions, ce que tout contributeur régulier peut et devrait faire. Enfin, dans les discussions, un utilisateur enregistré peut signer facilement, il est alors plus facilement identifiable par les autres contributeurs, ce qui participe à son intégration et facilite les échanges.
+
+Ce guide est destiné aux deux types d'utilisateurs, sans distinction ; vous êtes cependant encouragés à vous enregistrer, à la lumière des explications précédentes.
+
+=== Fonctionnement de l'interface ===
+
+Wikipédia essaye d'offrir une interface simple pour que la participation effective soit la plus pratique et la plus rapide possible. Les articles encyclopédiques sont reconnaissables à leur fond de couleur blanche et à une adresse du type fr.wikipedia.org/wiki/'''Titre_de_l'article'''. Chaque ''entrée'' encyclopédique est en fait composée de plusieurs Etenis. Par exemple pour l'article [[Japon]] :
+
+[[Image:DSWP actions.png|border=1]]
+
+* '''article''' : l'article encyclopédique en lui-même (page par défaut)
+* '''discussion''' : une page de [[Aide:discussion|discussion]] associée à l'article (et de fond jaune)
+* '''modifier''' : une page pour modifier l'article
+* '''historique''' : une page de suivi des interventions sur l'article
+* '''renommer''' : une page pour déplacer l'article en le renommant
+* '''suivre/ne plus suivre''' : une page pour ajouter/enlever l'article de sa liste de suivi
+
+Cette aide présentera les quatre premières pages, car les deux dernières sont réservées aux utilisateurs enregistrés. Pour en savoir plus, consultez l'[[Aide:FAQ participants|aide]] actuelle de Wikipédia.
+
+==== Eteni « article » ====
+:<small>Exemple : http://fr.wikipedia.org/wiki/Japon</small>
+
+:C'est l'article encyclopédique en lui-même, résultat visible du travail communautaire. Cette page est soumise aux différents [[#Principes et objectifs de Wikipédia|principes]] de Wikipédia : elle devrait être neutre de point de vue, la plus lisible possible, elle doit comporter quelques liens vers d'autres articles...
+
+:Cette page ne doit '''pas être signée''' !
+
+==== Eteni « lisolo » ====
+:<small>Exemple : http://fr.wikipedia.org/wiki/Discuter:Japon</small>
+
+:C'est une page spéciale, reconnaissable par son fond de couleur jaune, et le préfixe ''Discuter:'' dans l'adresse internet. Elle peut &mdash; et doit &mdash;  être utilisée pour [[Aide:Discussion|discuter entre contributeurs sur l'article encyclopédique]], que ce soit pour donner une suggestion, exprimer un désaccord ou encore poser une question...
+
+:Les interventions sur ces pages de discussions peuvent être signées (voir [[#Comment signer|comment signer]] ses interventions) ; en fait, il est apprécié par la communauté que les intervenants signent leurs interventions, pour la clarté des débats, et ce, qu'ils soient « anonymes » ou enregistrés. S'enregister comme utilisateur permet d'avoir une signature prédéfinie.
+
+:Les interventions sont séparées les unes des autres au moyen d'une indentation. Voir [[Aide:indentation]].
+
+==== Eteni « modifier » ====
+:<small>Exemple : http://fr.wikipedia.org/w/index.php?title=Japon&action=edit</small>
+
+:Cette page est aussi une page spéciale : elle permet de modifier le contenu de l'article encyclopédique. C'est la page la plus importante à connaître quand on souhaite contribuer : son fonctionnement est expliqué dans la section [[#Modifier un article ?|Modifier un article]]. À lire avant tout essai de modification !
+
+==== Eteni « molongo » ====
+:<small>Exemple : http://fr.wikipedia.org/w/index.php?title=Japon&action=history</small>
+
+:Lokasa oyo ezali ya ndenge isusu: epesi yo nzela ya kotala modifications  nyonso esalamaki na lokasa oyo, banda ebandeli, na molongo.  modification moko na moko ezali na date moko, mosalisi moko (enregistré, nkombo na ye ezali ;oyo ezangi nkombo, adresi ip na ye ezali) mpe elembo moko oyo elobi soki modification ezali ''muke'' ('''m''') to ''kozanga ntina''.
+
+:Koyeba kosalela molongo ezali na ntina moko na kokoma lokasa moko : ndenge ya kosalela lokasa ya molongo ezali l'utilisation de la page d'historique est expliquée à la section [[#Utiliser l'historique|kosalela molongo]].
+
+{| border="0" cellpadding="3" cellspacing="15" align="center" width="85%" style="text-align: center; background: none"
+|-
+| style="background: #fbf6fa; border: 1px dotted #f1dfee; padding: 0.8em;" | Kobalola to kokoma lokasa moko, elingi koloba ete osalelaka eteni '''kobalola''' mpo na kobongola eteni '''lokasa'''. Mbongwana moko na moko etikali na kati na '''molongo'''. Mpo na kosolola na mbongwana ya kosala oyo ekosalama to esalamaki,osengeli kosalela eteni '''lisolo''' ya lokasa oyo.
+|}
+
+Tala [[Lisalisi:Molongo]]
+
+==== Eteni « kolanda »/«kolanda lisusu te » ====
+
+:Kosalela Eteni oyo epesi yo nzela ya kobakisa to kolongola lokasa moko na molongo na ngo oyo elandaka. Molongo (liste) oyo ezali na likolo na loboko ya mobali epesi yo nzela ya kotalela mbongwama nyonso oyo basalisi ndenge na ndenge basalaki na lokasa oyo. 
+
+Tala [[Aide:Liste de suivi]]
+
+=== Kobalola lokasa moko ? ===
+
+Kobalola lokosa moko ezali oyo eleki ntina mpo na Mosalisi moko. Eteni '''Kokoma''' ezali petee : ezali formulaire moko na kati na ngo, liziba ya''''lokasa''' ekoki kobongolama.
+
+Liziba ya lokosa ezali '''texte formaté''' oyo ekozala lokosa oyo basusu bakokoka komona mpe kotanga. Liziba oyo ekeseni mwa muke na lokasa ya solo, mpo ezali na '''balises wiki''' ; epesi yo nzela ya kobongisa lokasa, elingi koloba :
+* kokoma moto, moto ya muke...
+* mettre des mots en évidence et en exergue (en '''gras''' et en ''italique'' sur un navigateur graphique)
+* créer des [[liens]] entre les [[Accueil|articles]]
+* kobakisa bitanda,  bililingi, des listes
+* ...
+
+Mpo musala ya mosalisi ekoma petee, Wikipédia esalelaka ndenge ya kokoma oyo ezali petee (ebengami « ndenge ya kokoma ya wiki ») mpe oyo ezali na esika ya HTML. Bongo, osengeli kozala na mayele na Web mingi te mpo na kosalisa Wikipedia.
+
+Tala : [[Aide:Syntaxe wikipédia]]
+
+==== Kobongola ====
+
+Mpo na kobalola lokasa moko, osengeli konyata na eteni '''kokoma''' na biteni na likolo. Okoki mpe kobongola ndambo muke na lokasa moko (elingi koloba eteni na katikati na mito muke mibale) : osengeli kaka konyata na'''[&nbsp;kobalola&nbsp;]''' oyo ekokani na ndambo oponi.
+
+Quels sont les différentes parties usuelles de la « wiki-source » d'un article ? Sur l'article [[Japon]], on trouve successivement :
+* des liens interwiki : <nowiki>[[af:Japan]] [[ar:يابان]] [[bs:Japan]]...</nowiki>
+*:ils permettent de créer des [[Wikipédia:Liens d'interlangue|liens]] avec les Wikipédias étrangers
+* des liens pour les catégories : <nowiki>[[Catégorie:Japon]] [[Catégorie:Pays d'Asie]] [[Catégorie:Île japonaise]]</nowiki>
+*:ils permettent de classer l'article dans des catégories thématiques
+* le '''texte formaté''' de l'article
+* okoki kobenga bandakisa ya kitoko : <nowiki>{{Lokosa oyo eleki kitoko}}, {{Japon mpe culture japonaise}}</nowiki>
+*:ils permettent d'inclure des messages pré-conçus dans l'article
+
+==== Bisaleli ====
+
+Pour le moment, seul le texte formaté nous intéresse (les liens interwiki, de catégories et les modèles seront vus dans un autre guide). On peut taper du texte directement, sans aucune balise : le résultat sera un article uniforme, d'un seul tenant, qui ne sera pas agréable à lire. Il faut donc :
+* sauter des lignes pour créer des parties, et leur donner des titres
+* utiliser la syntaxe wiki pour améliorer le rendu global de son texte
+
+Pour ce faire,on peut éventuellement mettre à profit les barres d'outils intégrées à l'interface de Wikipédia.
+
+[[Image:DSWP outilswiki.png]]
+Au-dessus du formulaire, se trouve une première barre d'outils, qui correspond à la syntaxe wiki. Il suffit  de sélectionner le ou les mots à mettre en forme, et de cliquer sur le bouton correspondant à l'action désirée.
+Pour aller plus vite, il est bon d'apprendre les rudiments de la syntaxe wiki ''par cœur''. Pour en savoir plus, consulter la section [[#Syntaxe wiki|Syntaxe wiki]].
+
+Une seconde barre se trouve en dessous du formulaire : elle permet d'insérer des caractères spéciaux (les majuscules accentuées et les guillemets français, notamment), en cliquant dessus.
+
+Une fois les modifications faites dans le formulaire, il s'agit de valider. Mais avant de valider, il faut vérifier !
+
+==== Vérifier, commenter et valider ====
+
+Cela consiste en quatre choses :
+* faire une '''prévisualisation''',
+* se '''relire''',
+* [[WP:COMMENT|remplir le champ de résumé]] en dessous de la boîte d'édition,
+* '''valider'''.
+
+La relecture, indispensable pour des modifications non mineures, est facilitée par une prévisualisation de l'article. La prévisualisation permet de voir l'article tel qu'il sera lisible après validation, sans toutefois le valider effectivement. Si votre modification est un tant soit peu importante, prenez le temps de cliquer sur '''Prévisualiser''' ! Cela vous évitera d'avoir à repasser du temps pour rectifier les quelques fautes de frappes ou de présentation qui se glissent inévitablement dans le texte tapé...
+
+La page de prévisualisation contient le résultat du texte formaté, et en dessous, le formulaire de modification. Si tout est parfait, vous pouvez valider en cliquant sur '''Sauvegarder''', en dessous du formulaire. Une sauvegarde ajoute automatiquement une nouvelle ligne dans l''''historique''' de l'article.
+
+À noter : il est recommandé de renseigner le champ '''Résumé''' avant de sauvegarder. Vous pouvez y écrire une petite description de votre intervention, par exemple : ''Orthographe'' si vous avez corrigé des fautes, ''Ajouts sur la géographie'' si vous avez complété la partie géographie d'un article... En résumant vos interventions, vous faciliterez la lecture de l'historique et le travail des autres contributeurs, ainsi que le vôtre.
+
+==== Rester actif ! ====
+
+Modifier un article, c'est bien ; suivre son évolution, c'est mieux. En tant qu'utilisateur enregistré, vous pouvez cocher la case '''Suivre cet article''' avant de le sauvegarder. Vous pouvez aussi, en lisant la page '''article''', cliquer sur l'Eteni '''Suivre''', pour le même résultat. Cela a pour effet de placer l'article dans votre '''liste de suivi''' : toute intervention sur l'article sera indiquée dans [[Special:Watchlist|une page]] spéciale personnelle &mdash; voir [[Aide:Liste de suivi]].
+
+Également, pensez à participer aux débats, ou à demander de l'aide dès que le besoin s'en fait sentir, à poser des questions sur la page de '''discussion'''... Vous aurez certainement une réponse plus ou moins rapide !
+
+=== Faire des liens entre articles ? ===
+
+Un point essentiel de Wikipédia est la mise à profit des [[hyperlien|liens hypertextes]]. Un lien permet de naviguer d'une page à une autre ; dans la Wikipédia francophone, on distingue deux sortes de liens :
+* les [[Accueil|liens]] « internes » : ils pointent vers un article de l'encyclopédie francophone
+* les liens « externes » : ils pointent vers une page [http://www.mediawiki.org extérieure] à l'encyclopédie française
+
+Les liens sont créés dans la page d'édition d'un article, avec la syntaxe wiki.
+
+==== Liens internes ====
+
+Un '''lien interne''' est entouré de double crochets : <nowiki>[[ceci est un lien]]</nowiki> donnera dans l'article : [[ceci est un lien]]. Par défaut, l'intitulé du lien correspond aussi à la cible du lien (vous pouvez le vérifier en cliquant sur [[cet autre exemple]]).
+
+Cela est parfois pratique, mais pas toujours. Un lien interne peut donc avoir un intitulé visible différent de celui de sa cible : <nowiki>[[Accueil|lien vers l'accueil]]</nowiki> donnera dans l'article : [[Accueil|lien vers l'accueil]]. Ce lien pointe vers la page Accueil sous l'intitulé « lien vers l'accueil. »
+
+Pour faire un lien vers un article de Wikipédia, il suffit d'indiquer son nom comme cible. <nowiki>[[Japon]]</nowiki> donnera : [[Japon]], qui pointe effectivement vers l'article existant sur le Japon. La '''première lettre''' peut être en minuscule ou en majuscule, cela n'a pas d'importance ; par contre, il faut faire attention aux majuscules dans le reste du lien : si les intitulés '''g'''uerre froide et '''G'''uerre froide pointent vers le même article, Guerre '''f'''roide et Guerre '''F'''roide désignent eux deux articles différents !
+
+Les liens internes sont '''très importants''' ! Ils permettent de lier l'article à d'autres pages de Wikipédia, de sorte que le lecteur peut naviguer dans l'encyclopédie comme il le ferait sur n'importe quel autre site internet. Si aucun lien interne n'est présent dans un article, on parle d'''article en impasse''. Un des objectifs des contributeurs est de réduire à zéro le nombre de telles pages. Un atout de Wikipédia est d'offrir cette expérience du « voyage dans le savoir », principalement grâce aux liens internes.
+
+Voir : [[Aide:Liens internes]]
+
+==== Liens externes ====
+
+Un '''lien externe''' est entouré de crochets simples : <nowiki>[http://fr.wikipedia.org Wikipédia FR]</nowiki> donnera dans l'article : [http://fr.wikipedia.org Wikipédia FR]. Notez, sur les navigateurs graphiques, l'icône en forme de flèche après le lien : elle indique automatiquement au lecteur qu'en cliquant sur le lien, il va sortir de Wikipédia. Les liens internes à l'encyclopédie n'ont pas cette marque distinctive.
+
+On trouve d'abord la cible du lien (ici, ''<nowiki>http://fr.wikipedia.org</nowiki>'') puis, éventuellement, un titre (ici, ''Wikipédia FR''). Le titre est facultatif : en l'absence de titre explicite, c'est un numéro qui apparaîtra comme intitulé. Si plusieurs liens externes sans intitulés coexistent dans un article, les numéros se suivront par ordre croissant (1, 2... ''n'').
+
+{| border="0" cellpadding="3" cellspacing="15" align="center" width="85%" style="text-align: center; background: none"
+|-
+| style="background: #fbf6fa; border: 1px dotted #f1dfee; padding: 0.8em;" | Lors de l''''édition''' d'un article, il faut faire attention à rendre l'article lisible, en utilisant la '''syntaxe wiki''' et en créant '''des liens''' vers d'autres articles. Une '''prévisualisation''' permet de contrôler son travail avant de le '''poursuivre''' et de le '''sauvegarder'''.
+|}
+
+Voir [[Aide:Liens externes]]
+
+== Astuces et savoir-faire ==
+
+=== Syntaxe wiki ===
+
+La '''syntaxe wiki''' sur Wikipédia est un système de balisage simple pour mettre en forme les articles, et même toute page modifiable. Même si la barre d'outil principale permet d'éviter de taper cette syntaxe, il est pratique de la connaître. D'une part, il est souvent plus rapide de taper dans le fil de son écriture les quelques sigles courants, d'autre part, la syntaxe est très large et tout n'est évidemment pas disponible dans la barre d'outil.
+
+Pour en savoir plus sur la syntaxe wiki, en particulier les balises de titres (<nowiki>== ... ==</nowiki>, <nowiki>=== ... ===</nowiki>, <nowiki>==== ... ====</nowiki>), l'insistance et la mise en exergue (<nowiki>'''...'''</nowiki> et <nowiki>''...''</nowiki>), consultez l'aide sur la [[Aide:Syntaxe wikipédia|syntaxe wiki]].
+
+=== Utiliser l'historique ===
+
+L''''historique''' est un outil qui permet de prendre connaissance des différentes versions d'un article. Toute modification est enregistrée, et une entrée dans l'historique y fait référence. La principale fonction de l'historique est de lister ces modifications ; mais on peut aussi l'utiliser pour comparer des versions ou visualiser des versions anciennes.
+
+Pour comparer deux versions d'un article, il suffit de sélectionner les deux versions voulues et de cliquer sur '''Comparer les versions sélectionnées'''. Une page temporaire s'affiche, avec un résumé des différences entre les versions de l'article. Les modifications apparaissent en rouges, dans la colonne de gauche pour les retraits et dans le colonne de droite pour les ajouts. Cela permet de prendre connaissance rapidement des modifications apportées par un contributeur.
+
+À noter, deux liens particuliers sur la gauche de chaque entrée de l'historique : (actu) et (dern). Le premier permet de comparer la version choisie avec la version actuelle ; le second permet de comparer la version choisie avec la version immédiatement antérieure.
+
+Pour simplement visualiser une version antérieure à la version actuelle, il suffit de cliquer sur la date de la version choisie.
+
+=== Liens internes ===
+
+==== Pluriel ====
+
+:Pour faire un lien vers un mot singulier écrit au pluriel, s'il s'y prête, il est possible d'utiliser l'astuce suivante : <nowiki>[[arbre]]s</nowiki> donnera [[arbre]]s, lien intitulé ''arbres'' et pointant vers l'article Arbre.
+
+==== Raccourci de création ====
+
+:En utilisant le symbole | (''pipe'' en anglais), vous pouvez éviter d'écrire deux fois la même chose pour les liens internes avec préfixes.
+:Exemple : <nowiki>[[Wikipédia:Accueil]]</nowiki> donnera normalement [[Wikipédia:Accueil]]. Si vous voulez récupérer simplement [[Wikipédia:Accueil|Accueil]] sans écrire <nowiki>[[Wikipédia:Accueil|Accueil]]</nowiki>, écrivez plus simplement : <nowiki>[[Wikipédia:Accueil|]]</nowiki>.
+
+:Voir : [[Aide:Liens internes]]
+
+=== Comment signer ===
+
+:Un utilisateur non inscrit signera s'il le souhaite en écrivant simplement son pseudonyme ou son nom. Un utilisateur enregistré peut éviter de réécrire son nom en utilisant les raccourcis de la syntaxe wikipédia : en écrivant <nowiki>~~~~</nowiki> dans une page d'édition, la signature sera intégrée avec la date et l'heure.
+
+:'''Attention''' : on ne signe pas un article — l'historique est là pour cela — mais seulement ses contributions dans les discussions.
+
+Voir aussi : [[Aide:signature]]
+
+== Participer aux pages Meta ==
+
+Que sont les '''[[Wikipédia:Pages méta|pages Meta]]''' ? Meta est un mot-clé qui désigne sur Wikipédia tout ce qui est du ressort de la meta-information sur l'encyclopédie. Cela va des pages de discussions aux pages d'aide du projet, en passant par les prises de décisions... Bref, « participer aux pages Meta » signifie être un contributeur ''et un peu plus'' : s'investir dans le fonctionnement interne de l'Encyclopédie libre. Si Wikipédia vous plaît, et que vous aimeriez en savoir plus sur le fonctionnement du projet, vous impliquer un peu plus dans la vie de l'encyclopédie, consultez les différentes sections de la partie [[Wikipédia:Accueil|Communauté]] !
+
+== Voir aussi ==
+
+* [[Aide:Aide|Aide de Wikipédia]]
+* [[Aide:Comment rédiger une page]]
+* [[Wikipédia:Règles]]
+* [[Wikipédia:Accueil|Communauté de Wikipédia]]
+
+==Lien externe==
+* [http://www.framasoft.net/article3645.html Version du ''6 mars 2005'' en PDF et LaTeX sur framasoft.net]
+
+
+[[Catégorie:Aide:Premiers pas|Débuter sur Wikipédia]]
