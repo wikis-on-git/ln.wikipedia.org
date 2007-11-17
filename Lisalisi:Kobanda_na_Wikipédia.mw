@@ -148,22 +148,22 @@ Modifier un article, c'est bien; suivre son évolution, c'est mieux. En tant qu'
 === Faire des liens entre articles? ===
 
 Un point essentiel de Wikipédia est la mise à profit des [[hyperlien|liens hypertextes]]. Un lien permet de naviguer d'une page à une autre; dans la Wikipédia francophone, on distingue deux sortes de liens:
-* les [[Accueil|liens]] « internes » : ils pointent vers un article de l'encyclopédie francophone
-* les liens « externes » : ils pointent vers une page [http://www.mediawiki.org extérieure] à l'encyclopédie française
+* les [[Accueil|liens]] «internes»: ils pointent vers un article de l'encyclopédie lingalaphone
+* les liens «externes»: ils pointent vers une page [http://www.mediawiki.org extérieure] à l'encyclopédie lingala
 
 Les liens sont créés dans la page d'édition d'un article, avec la syntaxe wiki.
 
 ==== Liens internes ====
 
-Un '''lien interne''' est entouré de double crochets : <nowiki>[[ceci est un lien]]</nowiki> donnera dans l'article : [[ceci est un lien]]. Par défaut, l'intitulé du lien correspond aussi à la cible du lien (vous pouvez le vérifier en cliquant sur [[cet autre exemple]]).
+Un '''lien interne''' est entouré de double crochets: <nowiki>[[ceci est un lien]]</nowiki> donnera dans l'article: [[ceci est un lien]]. Par défaut, l'intitulé du lien correspond aussi à la cible du lien (vous pouvez le vérifier en cliquant sur [[cet autre exemple]]).
 
-Cela est parfois pratique, mais pas toujours. Un lien interne peut donc avoir un intitulé visible différent de celui de sa cible : <nowiki>[[Accueil|lien vers l'accueil]]</nowiki> donnera dans l'article : [[Accueil|lien vers l'accueil]]. Ce lien pointe vers la page Accueil sous l'intitulé « lien vers l'accueil. »
+Cela est parfois pratique, mais pas toujours. Un lien interne peut donc avoir un intitulé visible différent de celui de sa cible: <nowiki>[[Accueil|lien vers l'accueil]]</nowiki> donnera dans l'article: [[Accueil|lien vers l'accueil]]. Ce lien pointe vers la page Accueil sous l'intitulé «lien vers l'accueil».
 
-Pour faire un lien vers un article de Wikipédia, il suffit d'indiquer son nom comme cible. <nowiki>[[Japon]]</nowiki> donnera : [[Japon]], qui pointe effectivement vers l'article existant sur le Japon. La '''première lettre''' peut être en minuscule ou en majuscule, cela n'a pas d'importance ; par contre, il faut faire attention aux majuscules dans le reste du lien : si les intitulés '''g'''uerre froide et '''G'''uerre froide pointent vers le même article, Guerre '''f'''roide et Guerre '''F'''roide désignent eux deux articles différents !
+Pour faire un lien vers un article de Wikipédia, il suffit d'indiquer son nom comme cible. <nowiki>[[Japon]]</nowiki> donnera: [[Japon]], qui pointe effectivement vers l'article existant sur le Japon. La '''première lettre''' peut être en minuscule ou en majuscule, cela n'a pas d'importance; par contre, il faut faire attention aux majuscules dans le reste du lien: si les intitulés '''g'''uerre froide et '''G'''uerre froide pointent vers le même article, Guerre '''f'''roide et Guerre '''F'''roide désignent eux deux articles différents!
 
-Les liens internes sont '''très importants''' ! Ils permettent de lier l'article à d'autres pages de Wikipédia, de sorte que le lecteur peut naviguer dans l'encyclopédie comme il le ferait sur n'importe quel autre site internet. Si aucun lien interne n'est présent dans un article, on parle d'''article en impasse''. Un des objectifs des contributeurs est de réduire à zéro le nombre de telles pages. Un atout de Wikipédia est d'offrir cette expérience du « voyage dans le savoir », principalement grâce aux liens internes.
+Les liens internes sont '''très importants''' ! Ils permettent de lier l'article à d'autres pages de Wikipédia, de sorte que le lecteur peut naviguer dans l'encyclopédie comme il le ferait sur n'importe quel autre site internet. Si aucun lien interne n'est présent dans un article, on parle d'''article en impasse''. Un des objectifs des contributeurs est de réduire à zéro le nombre de telles pages. Un atout de Wikipédia est d'offrir cette expérience du «voyage dans le savoir», principalement grâce aux liens internes.
 
-Voir : [[Aide:Liens internes]]
+Tala mpé: [[Aide:Liens internes]]
 
 ==== Liens externes ====
 
@@ -176,7 +176,7 @@ On trouve d'abord la cible du lien (ici, ''<nowiki>http://fr.wikipedia.org</nowi
 | style="background: #fbf6fa; border: 1px dotted #f1dfee; padding: 0.8em;" | Lors de l''''édition''' d'un article, il faut faire attention à rendre l'article lisible, en utilisant la '''syntaxe wiki''' et en créant '''des liens''' vers d'autres articles. Une '''prévisualisation''' permet de contrôler son travail avant de le '''poursuivre''' et de le '''sauvegarder'''.
 |}
 
-Voir [[Aide:Liens externes]]
+Tala mpé [[Aide:Liens externes]]
 
 == Astuces et savoir-faire ==
 
