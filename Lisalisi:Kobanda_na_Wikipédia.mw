@@ -188,11 +188,11 @@ Pour en savoir plus sur la syntaxe wiki, en particulier les balises de titres (<
 
 === Kosalela molongo ===
 
-L''''historique''' est un outil qui permet de prendre connaissance des différentes versions d'un article. Toute modification est enregistrée, et une entrée dans l'historique y fait référence. La principale fonction de l'historique est de lister ces modifications ; mais on peut aussi l'utiliser pour comparer des versions ou visualiser des versions anciennes.
+L''''historique''' est un outil qui permet de prendre connaissance des différentes versions d'un article. Toute modification est enregistrée, et une entrée dans l'historique y fait référence. La principale fonction de l'historique est de lister ces modifications; mais on peut aussi l'utiliser pour comparer des versions ou visualiser des versions anciennes.
 
 Pour comparer deux versions d'un article, il suffit de sélectionner les deux versions voulues et de cliquer sur '''Comparer les versions sélectionnées'''. Une page temporaire s'affiche, avec un résumé des différences entre les versions de l'article. Les modifications apparaissent en rouges, dans la colonne de gauche pour les retraits et dans le colonne de droite pour les ajouts. Cela permet de prendre connaissance rapidement des modifications apportées par un contributeur.
 
-À noter, deux liens particuliers sur la gauche de chaque entrée de l'historique : (actu) et (dern). Le premier permet de comparer la version choisie avec la version actuelle ; le second permet de comparer la version choisie avec la version immédiatement antérieure.
+À noter, deux liens particuliers sur la gauche de chaque entrée de l'historique : (actu) et (dern). Le premier permet de comparer la version choisie avec la version actuelle; le second permet de comparer la version choisie avec la version immédiatement antérieure.
 
 Pour simplement visualiser une version antérieure à la version actuelle, il suffit de cliquer sur la date de la version choisie.
 
