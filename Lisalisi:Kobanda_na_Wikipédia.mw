@@ -15,40 +15,40 @@ Bonsomi oyo Wikipedia epesaka na yo, ezali elembeteli ete etyelaka yo motema. Ya
 
 == Kokoma Mosalisi ==
 
-'''Mosalisi (Contributeur)''' azali moto moko oyo akoki kobalola nkasa. Liloba « Kobalola » elimboli [[Aide:Comment créer une page|kokela]]  [[lokasa ya sika]] mpe kobongola lokasa mosusu. Okoki kobalola '''kozanga kozala na compte moko''', kasi l'[[Aide:historique|molongo]] elobeli mpe babongoli na ye « kozanga nkombo » na [[adresi IP|ip]] na ye. Maloba(«likomeli(article) », « lokasa », « molongo(historique) »...) ezali [[Aide:lokota(Jargon)|ndimbola ya sikisiki na Wikipedia]] : ndimbola na yango ezali na oyo elandi.
+'''Mosalisi (Contributeur)''' azali moto moko oyo akoki kobalola nkasa. Liloba «Kobalola» elimboli [[Aide:Comment créer une page|kokela]]  [[lokasa ya sika]] mpe kobongola lokasa mosusu. Okoki kobalola '''kozanga kozala na compte moko''', kasi l'[[Aide:historique|molongo]] elobeli mpe babongoli na ye «kozanga nkombo» na [[adresi IP|ip]] na ye. Maloba(«likomeli(article)», «lokasa», «molongo(historique)»...) ezali [[Aide:lokota(Jargon)|ndimbola ya sikisiki na Wikipedia]]: ndimbola na yango ezali na oyo elandi.
 
 === Mosalisi oyo azangi nkombo mpe oyo amikotisi Contributeur anonyme et enregistré ===
 
-Bato nyonso bakoki kosangana mpe kosalisa Wikipedia, sans s'inscrire ni [[meta:Confidentialité|fournir aucune information personnelle]]. Toutefois, il est possible de [[Special:Userlogin|s'enregistrer sur Wikipédia]], c'est-à-dire de s'inscrire de façon permanente. On parle de contributeur « anonyme » pour un contributeur non enregistré. Un utilisateur anonyme ''n'a pas moins'' de possibilités de modification des articles qu'un utilisateur enregistré, et inversement. La différence entre utilisateurs anonymes et enregistrés est avant tout technique.
+Bato nyonso bakoki kosangana mpe kosalisa Wikipedia, sans s'inscrire ni [[meta:Confidentialité|fournir aucune information personnelle]]. Toutefois, il est possible de [[Special:Userlogin|s'enregistrer sur Wikipédia]], c'est-à-dire de s'inscrire de façon permanente. On parle de contributeur «anonyme» pour un contributeur non enregistré. Un utilisateur anonyme ''n'a pas moins'' de possibilités de modification des articles qu'un utilisateur enregistré, et inversement. La différence entre utilisateurs anonymes et enregistrés est avant tout technique.
 
-L'intérêt de s'enregistrer sur Wikipédia vient des options d'utilisation que cela confère : une fois enregistré, vous pourrez définir une signature personnelle, avoir une page personnelle d'utilisateur, suivre plus facilement les articles et vos contributions... Vous pourrez de plus participer aux votes et prises de décisions, ce que tout contributeur régulier peut et devrait faire. Enfin, dans les discussions, un utilisateur enregistré peut signer facilement, il est alors plus facilement identifiable par les autres contributeurs, ce qui participe à son intégration et facilite les échanges.
+L'intérêt de s'enregistrer sur Wikipédia vient des options d'utilisation que cela confère: une fois enregistré, vous pourrez définir une signature personnelle, avoir une page personnelle d'utilisateur, suivre plus facilement les articles et vos contributions... Vous pourrez de plus participer aux votes et prises de décisions, ce que tout contributeur régulier peut et devrait faire. Enfin, dans les discussions, un utilisateur enregistré peut signer facilement, il est alors plus facilement identifiable par les autres contributeurs, ce qui participe à son intégration et facilite les échanges.
 
-Ce guide est destiné aux deux types d'utilisateurs, sans distinction ; vous êtes cependant encouragés à vous enregistrer, à la lumière des explications précédentes.
+Ce guide est destiné aux deux types d'utilisateurs, sans distinction; vous êtes cependant encouragés à vous enregistrer, à la lumière des explications précédentes.
 
 === Fonctionnement de l'interface ===
 
-Wikipédia essaye d'offrir une interface simple pour que la participation effective soit la plus pratique et la plus rapide possible. Les articles encyclopédiques sont reconnaissables à leur fond de couleur blanche et à une adresse du type fr.wikipedia.org/wiki/'''Titre_de_l'article'''. Chaque ''entrée'' encyclopédique est en fait composée de plusieurs Etenis. Par exemple pour l'article [[Japon]] :
+Wikipédia essaye d'offrir une interface simple pour que la participation effective soit la plus pratique et la plus rapide possible. Les articles encyclopédiques sont reconnaissables à leur fond de couleur blanche et à une adresse du type fr.wikipedia.org/wiki/'''Titre_de_l'article'''. Chaque ''entrée'' encyclopédique est en fait composée de plusieurs Etenis. Par exemple pour l'article [[Japon]]:
 
 [[Image:DSWP actions.png|border=1]]
 
-* '''article''' : l'article encyclopédique en lui-même (page par défaut)
-* '''discussion''' : une page de [[Aide:discussion|discussion]] associée à l'article (et de fond jaune)
-* '''modifier''' : une page pour modifier l'article
+* '''article''': l'article encyclopédique en lui-même (page par défaut)
+* '''discussion''': une page de [[Aide:discussion|discussion]] associée à l'article (et de fond jaune)
+* '''modifier''': une page pour modifier l'article
 * '''historique''' : une page de suivi des interventions sur l'article
-* '''renommer''' : une page pour déplacer l'article en le renommant
-* '''suivre/ne plus suivre''' : une page pour ajouter/enlever l'article de sa liste de suivi
+* '''renommer''': une page pour déplacer l'article en le renommant
+* '''suivre/ne plus suivre''': une page pour ajouter/enlever l'article de sa liste de suivi
 
 Cette aide présentera les quatre premières pages, car les deux dernières sont réservées aux utilisateurs enregistrés. Pour en savoir plus, consultez l'[[Aide:FAQ participants|aide]] actuelle de Wikipédia.
 
-==== Eteni « article » ====
-:<small>Exemple : http://fr.wikipedia.org/wiki/Japon</small>
+==== Eteni «article» ====
+:<small>Exemple: http://fr.wikipedia.org/wiki/Japon</small>
 
 :C'est l'article encyclopédique en lui-même, résultat visible du travail communautaire. Cette page est soumise aux différents [[#Principes et objectifs de Wikipédia|principes]] de Wikipédia : elle devrait être neutre de point de vue, la plus lisible possible, elle doit comporter quelques liens vers d'autres articles...
 
 :Cette page ne doit '''pas être signée''' !
 
-==== Eteni « lisolo » ====
-:<small>Exemple : http://fr.wikipedia.org/wiki/Discuter:Japon</small>
+==== Eteni «lisolo» ====
+:<small>Exemple: http://fr.wikipedia.org/wiki/Discuter:Japon</small>
 
 :C'est une page spéciale, reconnaissable par son fond de couleur jaune, et le préfixe ''Discuter:'' dans l'adresse internet. Elle peut &mdash; et doit &mdash;  être utilisée pour [[Aide:Discussion|discuter entre contributeurs sur l'article encyclopédique]], que ce soit pour donner une suggestion, exprimer un désaccord ou encore poser une question...
 
@@ -56,62 +56,62 @@ Cette aide présentera les quatre premières pages, car les deux dernières sont
 
 :Les interventions sont séparées les unes des autres au moyen d'une indentation. Voir [[Aide:indentation]].
 
-==== Eteni « modifier » ====
+==== Eteni «modifier» ====
 :<small>Exemple : http://fr.wikipedia.org/w/index.php?title=Japon&action=edit</small>
 
-:Cette page est aussi une page spéciale : elle permet de modifier le contenu de l'article encyclopédique. C'est la page la plus importante à connaître quand on souhaite contribuer : son fonctionnement est expliqué dans la section [[#Modifier un article ?|Modifier un article]]. À lire avant tout essai de modification !
+:Cette page est aussi une page spéciale: elle permet de modifier le contenu de l'article encyclopédique. C'est la page la plus importante à connaître quand on souhaite contribuer: son fonctionnement est expliqué dans la section [[#Modifier un article ?|Modifier un article]]. À lire avant tout essai de modification!
 
-==== Eteni « molongo » ====
-:<small>Exemple : http://fr.wikipedia.org/w/index.php?title=Japon&action=history</small>
+==== Eteni «molongo» ====
+:<small>Exemple: http://fr.wikipedia.org/w/index.php?title=Japon&action=history</small>
 
-:Lokasa oyo ezali ya ndenge isusu: epesi yo nzela ya kotala modifications  nyonso esalamaki na lokasa oyo, banda ebandeli, na molongo.  modification moko na moko ezali na date moko, mosalisi moko (enregistré, nkombo na ye ezali ;oyo ezangi nkombo, adresi ip na ye ezali) mpe elembo moko oyo elobi soki modification ezali ''muke'' ('''m''') to ''kozanga ntina''.
+:Lokasa oyo ezali ya ndenge isusu: epesi yo nzela ya kotala modifications  nyonso esalamaki na lokasa oyo, banda ebandeli, na molongo.  modification moko na moko ezali na date moko, mosalisi moko (enregistré, nkombo na ye ezali; oyo ezangi nkombo, adresi ip na ye ezali) mpe elembo moko oyo elobi soki modification ezali ''muke'' ('''m''') to ''kozanga ntina''.
 
 :Koyeba kosalela molongo ezali na ntina moko na kokoma lokasa moko : ndenge ya kosalela lokasa ya molongo ezali l'utilisation de la page d'historique est expliquée à la section [[#Utiliser l'historique|kosalela molongo]].
 
 {| border="0" cellpadding="3" cellspacing="15" align="center" width="85%" style="text-align: center; background: none"
 |-
-| style="background: #fbf6fa; border: 1px dotted #f1dfee; padding: 0.8em;" | Kobalola to kokoma lokasa moko, elingi koloba ete osalelaka eteni '''kobalola''' mpo na kobongola eteni '''lokasa'''. Mbongwana moko na moko etikali na kati na '''molongo'''. Mpo na kosolola na mbongwana ya kosala oyo ekosalama to esalamaki,osengeli kosalela eteni '''lisolo''' ya lokasa oyo.
+| style="background: #fbf6fa; border: 1px dotted #f1dfee; padding: 0.8em;" | Kobalola to kokoma lokasa moko, elingi koloba ete osalelaka eteni '''kobalola''' mpo na kobongola eteni '''lokasa'''. Mbongwana moko na moko etikali na kati na '''molongo'''. Mpo na kosolola na mbongwana ya kosala oyo ekosalama to esalamaki, osengeli kosalela eteni '''lisolo''' ya lokasa oyo.
 |}
 
 Tala [[Lisalisi:Molongo]]
 
-==== Eteni « kolanda »/«kolanda lisusu te » ====
+==== Eteni «kolanda»/«kolanda lisusu te» ====
 
 :Kosalela Eteni oyo epesi yo nzela ya kobakisa to kolongola lokasa moko na molongo na ngo oyo elandaka. Molongo (liste) oyo ezali na likolo na loboko ya mobali epesi yo nzela ya kotalela mbongwama nyonso oyo basalisi ndenge na ndenge basalaki na lokasa oyo. 
 
 Tala [[Aide:Liste de suivi]]
 
-=== Kobalola lokasa moko ? ===
+=== Kobalola lokasa moko? ===
 
-Kobalola lokosa moko ezali oyo eleki ntina mpo na Mosalisi moko. Eteni '''Kokoma''' ezali petee : ezali formulaire moko na kati na ngo, liziba ya''''lokasa''' ekoki kobongolama.
+Kobalola lokosa moko ezali oyo eleki ntina mpo na Mosalisi moko. Eteni '''Kokoma''' ezali petee: ezali formulaire moko na kati na ngo, liziba ya ''''lokasa''' ekoki kobongolama.
 
-Liziba ya lokosa ezali '''texte formaté''' oyo ekozala lokosa oyo basusu bakokoka komona mpe kotanga. Liziba oyo ekeseni mwa muke na lokasa ya solo, mpo ezali na '''balises wiki''' ; epesi yo nzela ya kobongisa lokasa, elingi koloba :
+Liziba ya lokosa ezali '''texte formaté''' oyo ekozala lokosa oyo basusu bakokoka komona mpe kotanga. Liziba oyo ekeseni mwa muke na lokasa ya solo, mpo ezali na '''balises wiki'''; epesi yo nzela ya kobongisa lokasa, elingi koloba:
 * kokoma moto, moto ya muke...
 * mettre des mots en évidence et en exergue (en '''gras''' et en ''italique'' sur un navigateur graphique)
 * créer des [[liens]] entre les [[Accueil|articles]]
 * kobakisa bitanda,  bililingi, des listes
 * ...
 
-Mpo musala ya mosalisi ekoma petee, Wikipédia esalelaka ndenge ya kokoma oyo ezali petee (ebengami « ndenge ya kokoma ya wiki ») mpe oyo ezali na esika ya HTML. Bongo, osengeli kozala na mayele na Web mingi te mpo na kosalisa Wikipedia.
+Mpo musala ya mosalisi ekoma petee, Wikipédia esalelaka ndenge ya kokoma oyo ezali petee (ebengami «ndenge ya kokoma ya wiki») mpe oyo ezali na esika ya HTML. Bongo, osengeli kozala na mayele na Web mingi te mpo na kosalisa Wikipedia.
 
-Tala : [[Aide:Syntaxe wikipédia]]
+Tala: [[Aide:Syntaxe wikipédia]]
 
 ==== Kobongola ====
 
-Mpo na kobalola lokasa moko, osengeli konyata na eteni '''kokoma''' na biteni na likolo. Okoki mpe kobongola ndambo muke na lokasa moko (elingi koloba eteni na katikati na mito muke mibale) : osengeli kaka konyata na'''[&nbsp;kobalola&nbsp;]''' oyo ekokani na ndambo oponi.
+Mpo na kobalola lokasa moko, osengeli konyata na eteni '''kokoma''' na biteni na likolo. Okoki mpe kobongola ndambo muke na lokasa moko (elingi koloba eteni na katikati na mito muke mibale): osengeli kaka konyata na '''[&nbsp;kobalola&nbsp;]''' oyo ekokani na ndambo oponi.
 
-Quels sont les différentes parties usuelles de la « wiki-source » d'un article ? Sur l'article [[Japon]], on trouve successivement :
-* des liens interwiki : <nowiki>[[af:Japan]] [[ar:يابان]] [[bs:Japan]]...</nowiki>
+Quels sont les différentes parties usuelles de la « wiki-source » d'un article? Sur l'article [[Japon]], on trouve successivement:
+* des liens interwiki: <nowiki>[[af:Japan]] [[ar:يابان]] [[bs:Japan]]...</nowiki>
 *:ils permettent de créer des [[Wikipédia:Liens d'interlangue|liens]] avec les Wikipédias étrangers
-* des liens pour les catégories : <nowiki>[[Catégorie:Japon]] [[Catégorie:Pays d'Asie]] [[Catégorie:Île japonaise]]</nowiki>
+* des liens pour les catégories: <nowiki>[[Catégorie:Japon]] [[Catégorie:Pays d'Asie]] [[Catégorie:Île japonaise]]</nowiki>
 *:ils permettent de classer l'article dans des catégories thématiques
 * le '''texte formaté''' de l'article
-* okoki kobenga bandakisa ya kitoko : <nowiki>{{Lokosa oyo eleki kitoko}}, {{Japon mpe culture japonaise}}</nowiki>
+* okoki kobenga bandakisa ya kitoko: <nowiki>{{Lokosa oyo eleki kitoko}}, {{Japon mpe culture japonaise}}</nowiki>
 *:ils permettent d'inclure des messages pré-conçus dans l'article
 
 ==== Bisaleli ====
 
-Pour le moment, seul le texte formaté nous intéresse (les liens interwiki, de catégories et les modèles seront vus dans un autre guide). On peut taper du texte directement, sans aucune balise : le résultat sera un article uniforme, d'un seul tenant, qui ne sera pas agréable à lire. Il faut donc :
+Pour le moment, seul le texte formaté nous intéresse (les liens interwiki, de catégories et les modèles seront vus dans un autre guide). On peut taper du texte directement, sans aucune balise : le résultat sera un article uniforme, d'un seul tenant, qui ne sera pas agréable à lire. Il faut donc:
 * sauter des lignes pour créer des parties, et leur donner des titres
 * utiliser la syntaxe wiki pour améliorer le rendu global de son texte
 
@@ -123,31 +123,31 @@ Pour aller plus vite, il est bon d'apprendre les rudiments de la syntaxe wiki ''
 
 Une seconde barre se trouve en dessous du formulaire : elle permet d'insérer des caractères spéciaux (les majuscules accentuées et les guillemets français, notamment), en cliquant dessus.
 
-Une fois les modifications faites dans le formulaire, il s'agit de valider. Mais avant de valider, il faut vérifier !
+Une fois les modifications faites dans le formulaire, il s'agit de valider. Mais avant de valider, il faut vérifier!
 
 ==== Vérifier, commenter et valider ====
 
-Cela consiste en quatre choses :
+Cela consiste en quatre choses:
 * faire une '''prévisualisation''',
 * se '''relire''',
 * [[WP:COMMENT|remplir le champ de résumé]] en dessous de la boîte d'édition,
 * '''valider'''.
 
-La relecture, indispensable pour des modifications non mineures, est facilitée par une prévisualisation de l'article. La prévisualisation permet de voir l'article tel qu'il sera lisible après validation, sans toutefois le valider effectivement. Si votre modification est un tant soit peu importante, prenez le temps de cliquer sur '''Prévisualiser''' ! Cela vous évitera d'avoir à repasser du temps pour rectifier les quelques fautes de frappes ou de présentation qui se glissent inévitablement dans le texte tapé...
+La relecture, indispensable pour des modifications non mineures, est facilitée par une prévisualisation de l'article. La prévisualisation permet de voir l'article tel qu'il sera lisible après validation, sans toutefois le valider effectivement. Si votre modification est un tant soit peu importante, prenez le temps de cliquer sur '''Prévisualiser'''! Cela vous évitera d'avoir à repasser du temps pour rectifier les quelques fautes de frappes ou de présentation qui se glissent inévitablement dans le texte tapé...
 
 La page de prévisualisation contient le résultat du texte formaté, et en dessous, le formulaire de modification. Si tout est parfait, vous pouvez valider en cliquant sur '''Sauvegarder''', en dessous du formulaire. Une sauvegarde ajoute automatiquement une nouvelle ligne dans l''''historique''' de l'article.
 
-À noter : il est recommandé de renseigner le champ '''Résumé''' avant de sauvegarder. Vous pouvez y écrire une petite description de votre intervention, par exemple : ''Orthographe'' si vous avez corrigé des fautes, ''Ajouts sur la géographie'' si vous avez complété la partie géographie d'un article... En résumant vos interventions, vous faciliterez la lecture de l'historique et le travail des autres contributeurs, ainsi que le vôtre.
+À noter: il est recommandé de renseigner le champ '''Résumé''' avant de sauvegarder. Vous pouvez y écrire une petite description de votre intervention, par exemple: ''Orthographe'' si vous avez corrigé des fautes, ''Ajouts sur la géographie'' si vous avez complété la partie géographie d'un article... En résumant vos interventions, vous faciliterez la lecture de l'historique et le travail des autres contributeurs, ainsi que le vôtre.
 
-==== Rester actif ! ====
+==== Rester actif! ====
 
-Modifier un article, c'est bien ; suivre son évolution, c'est mieux. En tant qu'utilisateur enregistré, vous pouvez cocher la case '''Suivre cet article''' avant de le sauvegarder. Vous pouvez aussi, en lisant la page '''article''', cliquer sur l'Eteni '''Suivre''', pour le même résultat. Cela a pour effet de placer l'article dans votre '''liste de suivi''' : toute intervention sur l'article sera indiquée dans [[Special:Watchlist|une page]] spéciale personnelle &mdash; voir [[Aide:Liste de suivi]].
+Modifier un article, c'est bien; suivre son évolution, c'est mieux. En tant qu'utilisateur enregistré, vous pouvez cocher la case '''Suivre cet article''' avant de le sauvegarder. Vous pouvez aussi, en lisant la page '''article''', cliquer sur l'Eteni '''Suivre''', pour le même résultat. Cela a pour effet de placer l'article dans votre '''liste de suivi''' : toute intervention sur l'article sera indiquée dans [[Special:Watchlist|une page]] spéciale personnelle &mdash; voir [[Aide:Liste de suivi]].
 
-Également, pensez à participer aux débats, ou à demander de l'aide dès que le besoin s'en fait sentir, à poser des questions sur la page de '''discussion'''... Vous aurez certainement une réponse plus ou moins rapide !
+Également, pensez à participer aux débats, ou à demander de l'aide dès que le besoin s'en fait sentir, à poser des questions sur la page de '''discussion'''... Vous aurez certainement une réponse plus ou moins rapide!
 
-=== Faire des liens entre articles ? ===
+=== Faire des liens entre articles? ===
 
-Un point essentiel de Wikipédia est la mise à profit des [[hyperlien|liens hypertextes]]. Un lien permet de naviguer d'une page à une autre ; dans la Wikipédia francophone, on distingue deux sortes de liens :
+Un point essentiel de Wikipédia est la mise à profit des [[hyperlien|liens hypertextes]]. Un lien permet de naviguer d'une page à une autre; dans la Wikipédia francophone, on distingue deux sortes de liens:
 * les [[Accueil|liens]] « internes » : ils pointent vers un article de l'encyclopédie francophone
 * les liens « externes » : ils pointent vers une page [http://www.mediawiki.org extérieure] à l'encyclopédie française
 
