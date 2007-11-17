@@ -205,9 +205,9 @@ Pour simplement visualiser une version antérieure à la version actuelle, il su
 ==== Raccourci de création ====
 
 :En utilisant le symbole | (''pipe'' en anglais), vous pouvez éviter d'écrire deux fois la même chose pour les liens internes avec préfixes.
-:Exemple : <nowiki>[[Wikipédia:Accueil]]</nowiki> donnera normalement [[Wikipédia:Accueil]]. Si vous voulez récupérer simplement [[Wikipédia:Accueil|Accueil]] sans écrire <nowiki>[[Wikipédia:Accueil|Accueil]]</nowiki>, écrivez plus simplement : <nowiki>[[Wikipédia:Accueil|]]</nowiki>.
+:Exemple: <nowiki>[[Wikipédia:Accueil]]</nowiki> donnera normalement [[Wikipédia:Accueil]]. Si vous voulez récupérer simplement [[Wikipédia:Accueil|Accueil]] sans écrire <nowiki>[[Wikipédia:Accueil|Accueil]]</nowiki>, écrivez plus simplement: <nowiki>[[Wikipédia:Accueil|]]</nowiki>.
 
-:Voir : [[Aide:Liens internes]]
+:Tala mpé: [[Aide:Liens internes]]
 
 === Comment signer ===
 
