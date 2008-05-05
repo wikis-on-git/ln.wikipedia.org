@@ -37,6 +37,18 @@ Thank you! [[:lt:User:Hugo.arg]]18 febwáli 2008 à 10:21 (UTC)
 
 ==== Tɛ́ (non, no) ====
 
+=== [[User:SpBot|SpBot]] ===
+*'''Operator:''' [[:de:User:Euku]]
+*'''Function:''' interwiki links
+*'''Operation:''' manually and automatic
+*'''Software:''' pywikipediabot framework
+*'''Already has bot flag on:''' ''bn'', ''da'', ''nap'', ''oc'' and ''de'' (since 2006, with [http://tools.wikimedia.de/~interiot/cgi-bin/count_edits?user=SpBot&dbname=dewiki_p >59.000 edits]), look at [[:de:Benutzer:SpBot/in other projects|details]]
+
+==== Ɛ́ɛ́ (oui/yes) ====
+*
+==== Tɛ́ (non, no) ====
+*
+
 ==Bot policy==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Project:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
