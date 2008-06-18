@@ -1,0 +1,44 @@
+<noinclude>{{XML-Hinweis}}
+</noinclude><includeonly><div style="border:none;background:none;text-align:left"><span style="background:{{{1|none}}}; font-size:1em; color:{{{1}}}">██</span>&nbsp;{{{2|}}}</div></includeonly><noinclude>
+Zeigt eine Legende mit farbigen Flächen an.
+
+==Benutzung==
+ <nowiki>{{</nowiki>Farblegende|''Farbe''|''Bezeichnung''<nowiki>}}</nowiki>
+''Farbe'' wird an die [[Cascading Style Sheets|css]] "background"-Eigenschaft weitergereicht, man kann also auch Bilder einbinden.
+
+==Beispiel==
+ <nowiki>{{Farblegende|black|Afrika}}</nowiki>
+ <nowiki>{{Farblegende|green|Europa}}</nowiki>
+ <nowiki>{{Farblegende|blue|Ozeanien}}</nowiki>
+ <nowiki>{{Farblegende|#ff0|Asien}}</nowiki>
+ <nowiki>{{Farblegende|#ff2800|Amerika}}</nowiki>
+{{Farblegende|black|Afrika}}
+{{Farblegende|green|Europa}}
+{{Farblegende|blue|Ozeanien}}
+{{Farblegende|#ff0|Asien}}
+{{Farblegende|#ff2800|Amerika}}
+
+==Siehe auch==
+*[[Vorlage:Linienlegende]]
+*[[Vorlage:Farbindex]]
+
+[[Kategorie:Vorlage:Formatierungshilfe|Farblegende]]
+[[Kategorie:Vorlage:Farbwert|Farblegende]]
+
+[[ca:Template:Llegenda]]
+[[cy:Nodyn:Legend]]
+[[en:Template:Legend]]
+[[es:Plantilla:Legend]]
+[[fr:Modèle:Légende]]
+[[hu:Sablon:Jelmagyarázat]]
+[[ka:თარგი:ლეგენდა]]
+[[ko:Template:범례]]
+[[pl:Szablon:Legenda]]
+[[rmy:Format:Xalyaripen]]
+[[ru:Шаблон:Легенда]]
+[[sl:Predloga:Legenda]]
+[[sr:Шаблон:Легенда]]
+[[vi:Tiêu bản:Legend]]
+[[zh:Template:Legend]]
+
+</noinclude>
