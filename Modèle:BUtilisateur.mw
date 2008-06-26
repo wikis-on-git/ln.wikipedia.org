@@ -1,0 +1,124 @@
+<div class="ModeleBoiteUtilisateur" align="right" style="clear:both;float:right;margin:1px;margin-left:2px;margin-right:0;width:242px;border:solid 1px #99B3FF;background-color:#FFFFFF;padding:1px;text-align:left;">
+<div class="ModeleBoiteUtilisateurLangues">
+{{#if:{{{1|}}}|{{Utilisateur {{{1}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{2|}}}|{{Utilisateur {{{2}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{3|}}}|{{Utilisateur {{{3}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{4|}}}|{{Utilisateur {{{4}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{5|}}}|{{Utilisateur {{{5}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{6|}}}|{{Utilisateur {{{6}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{7|}}}|{{Utilisateur {{{7}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{8|}}}|{{Utilisateur {{{8}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{9|}}}|{{Utilisateur {{{9}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{10|}}}|{{Utilisateur {{{10}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{11|}}}|{{Utilisateur {{{11}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{12|}}}|{{Utilisateur {{{12}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{13|}}}|{{Utilisateur {{{13}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{14|}}}|{{Utilisateur {{{14}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{15|}}}|{{Utilisateur {{{15}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{16|}}}|{{Utilisateur {{{16}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{17|}}}|{{Utilisateur {{{17}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{18|}}}|{{Utilisateur {{{18}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{19|}}}|{{Utilisateur {{{19}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{20|}}}|{{Utilisateur {{{20}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{21|}}}|{{Utilisateur {{{21}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{22|}}}|{{Utilisateur {{{22}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{23|}}}|{{Utilisateur {{{23}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{24|}}}|{{Utilisateur {{{24}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{25|}}}|{{Utilisateur {{{25}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{26|}}}|{{Utilisateur {{{26}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{27|}}}|{{Utilisateur {{{27}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{28|}}}|{{Utilisateur {{{28}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{29|}}}|{{Utilisateur {{{29}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{30|}}}|{{Utilisateur {{{30}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{31|}}}|{{Utilisateur {{{31}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{32|}}}|{{Utilisateur {{{32}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{33|}}}|{{Utilisateur {{{33}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{34|}}}|{{Utilisateur {{{34}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{35|}}}|{{Utilisateur {{{35}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{36|}}}|{{Utilisateur {{{36}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{37|}}}|{{Utilisateur {{{37}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{38|}}}|{{Utilisateur {{{38}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{39|}}}|{{Utilisateur {{{39}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{40|}}}|{{Utilisateur {{{40}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{41|}}}|{{Utilisateur {{{41}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{42|}}}|{{Utilisateur {{{42}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{43|}}}|{{Utilisateur {{{43}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{44|}}}|{{Utilisateur {{{44}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{45|}}}|{{Utilisateur {{{45}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{46|}}}|{{Utilisateur {{{46}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{47|}}}|{{Utilisateur {{{47}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{48|}}}|{{Utilisateur {{{48}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{49|}}}|{{Utilisateur {{{49}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{50|}}}|{{Utilisateur {{{50}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{51|}}}|{{Utilisateur {{{51}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{52|}}}|{{Utilisateur {{{52}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{53|}}}|{{Utilisateur {{{53}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{54|}}}|{{Utilisateur {{{54}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{55|}}}|{{Utilisateur {{{55}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{56|}}}|{{Utilisateur {{{56}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{57|}}}|{{Utilisateur {{{57}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{58|}}}|{{Utilisateur {{{58}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{59|}}}|{{Utilisateur {{{59}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{60|}}}|{{Utilisateur {{{60}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{61|}}}|{{Utilisateur {{{61}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{62|}}}|{{Utilisateur {{{62}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{63|}}}|{{Utilisateur {{{63}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{64|}}}|{{Utilisateur {{{64}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{65|}}}|{{Utilisateur {{{65}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{66|}}}|{{Utilisateur {{{66}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{67|}}}|{{Utilisateur {{{67}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{68|}}}|{{Utilisateur {{{68}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{69|}}}|{{Utilisateur {{{69}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{70|}}}|{{Utilisateur {{{70}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{71|}}}|{{Utilisateur {{{71}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{72|}}}|{{Utilisateur {{{72}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{73|}}}|{{Utilisateur {{{73}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{74|}}}|{{Utilisateur {{{74}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{75|}}}|{{Utilisateur {{{75}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{76|}}}|{{Utilisateur {{{76}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{77|}}}|{{Utilisateur {{{77}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{78|}}}|{{Utilisateur {{{78}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{79|}}}|{{Utilisateur {{{79}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{80|}}}|{{Utilisateur {{{80}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{81|}}}|{{Utilisateur {{{81}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{82|}}}|{{Utilisateur {{{82}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{83|}}}|{{Utilisateur {{{83}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{84|}}}|{{Utilisateur {{{84}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{85|}}}|{{Utilisateur {{{85}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{86|}}}|{{Utilisateur {{{86}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{87|}}}|{{Utilisateur {{{87}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{88|}}}|{{Utilisateur {{{88}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{89|}}}|{{Utilisateur {{{89}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{90|}}}|{{Utilisateur {{{90}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{91|}}}|{{Utilisateur {{{91}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{92|}}}|{{Utilisateur {{{92}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{93|}}}|{{Utilisateur {{{93}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{94|}}}|{{Utilisateur {{{94}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{95|}}}|{{Utilisateur {{{95}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{96|}}}|{{Utilisateur {{{96}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{97|}}}|{{Utilisateur {{{97}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{98|}}}|{{Utilisateur {{{98}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{99|}}}|{{Utilisateur {{{99}}}|nocat={{{nocat|}}}}}
+}}{{#if:{{{100|}}}|{{Utilisateur {{{100}}}|nocat={{{nocat|}}}}}
+}}</div>
+<div class="ModeleBoiteUtilisateurInfo" align="right"><small>[[Wikipédia:Modèles/Espace Utilisateur/Boîte Utilisateur|Boîte Utilisateur]]</small></div>
+</div><noinclude>
+{{Article principal|Wikipédia:Modèles/Espace Utilisateur/Boîte Utilisateur}}
+{{loupe|Modèle:Boîte Babel}}
+
+{{Documentation modèle}}
+
+;Utilisation
+
+modèle oyo, na mpé [[:Modèle:Boîte Babel]], ejali kosalisa ko nzinga nkama [[Wikipédia:Modèles/Espace Utilisateur/Boîte Utilisateur|boîtes utilisateurs]] et mpé ko tiya yango na loboko ya mobali ya page. 
+
+;Syntaxe
+<nowiki>
+{{Boîte Utilisateur|<--nom de la boîte 1-->|<--nom de la boîte 2-->|<--nom de la boîte 3-->| ... }}
+</nowiki>
+
+Il faut remplir les caractères <--nom de la boîte--> comme indiqué dans les [[Wikipédia:Modèles/Espace Utilisateur/Boîte Utilisateur|instructions d'utilisation des boîtes]] (à ne pas confondre avec le titre entier du modèle d'une boîte)
+
+[[Catégorie:Modèle de l'espace "Utilisateur"|Boite Utilisateur]]
+[[Catégorie:Boîte utilisateur|*]]
+</noinclude>
