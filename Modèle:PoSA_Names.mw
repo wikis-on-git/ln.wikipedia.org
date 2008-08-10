@@ -1,0 +1,15 @@
+{{ #switch: {{{1|}}}
+ | EC  = {{SIL|Eastern Cape}}<br>Eastern Cape
+ | FS  = {{SIL|Free State}}<br>Free State
+ | GP  = {{SIL|Gauteng}}
+ | GT  = {{SIL|Gauteng}}
+ | KN  = {{SIL|KwaZulu-Natal}}<br>KwaZulu-Natal
+ | KZ  = {{SIL|KwaZulu-Natal}}<br>KwaZulu-Natal
+ | KZN = {{SIL|KwaZulu-Natal}}<br>KwaZulu-Natal
+ | LP  = {{SIL|Limpopo}}
+ | MP  = {{SIL|Mpumalanga}}
+ | NC  = {{SIL|Northern Cape}}<br>Northern Cape
+ | NW  = {{SIL|North West}}<br>North West
+ | WC  = {{SIL|Western Cape}}<br>Western Cape
+ | {{{1}}}
+}}
