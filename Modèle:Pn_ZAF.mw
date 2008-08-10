@@ -1,0 +1,34 @@
+{{ #switch: {{{1|}}}
+ | South Africa = {{pn|South Africa}}
+ | Provinces of South Africa = {{pn|Provinces of South Africa}}
+ | North West = {{pn|North West}} ({{pn|South Africa}})
+ | Free State = {{pn|Free State}}
+ | Gauteng = {{pn|Gauteng}}
+ | Northern Cape = {{pn|Northern Cape}}
+ | Western Cape = {{pn|Western Cape}}
+ | KwaZulu-Natal = {{pn|KwaZulu-Natal}}
+ | Eastern Cape = {{pn|Eastern Cape}}
+ | Limpopo = {{pn|Limpopo}}
+ | Mpumalanga = {{pn|Mpumalanga}}
+ | Capital = {{pn|Capital}}
+ | List of Premiers of South African provinces = {{pn|List of Premiers of South African provinces}}
+ | Area = {{pn|Area}}
+ | List of South African provinces by area = {{pn|List of South African provinces by area}}
+ | Population = {{pn|Population}}
+ | Population density = {{pn|Population density}}
+ | List of South African provinces by population = {{pn|List of South African provinces by population}}
+ | Languages of South Africa = {{pn|Languages of South Africa}}
+ | Bhisho = {{pn|Bhisho}}
+ | Bloemfontein = {{pn|Bloemfontein}}
+ | Cape Town = {{pn|Cape Town}}
+ | Durban = {{pn|Durban}}
+ | Johannesburg = {{pn|Johannesburg}}
+ | Kimberley = {{pn|Kimberley}}
+ | Mafikeng = {{pn|Mafikeng}}
+ | Nelspruit = {{pn|Nelspruit}}
+ | Pietermaritzburg = {{pn|Pietermaritzburg}}
+ | Polokwane = {{pn|Polokwane}}
+ | Port Elizabeth = {{pn|Port Elizabeth}}
+ | Rustenburg = {{pn|Rustenburg}}
+ | {{pn|{{{1}}}}}
+}}
