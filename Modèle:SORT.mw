@@ -1,0 +1,13 @@
+{{ #switch: {{{1|}}}
+ | South Africa = {{SIL|South Africa}}
+ | Free State = {{SIL|Free State}}
+ | Gauteng = {{SIL|Gauteng}}
+ | Northern Cape = {{SIL|Northern Cape}}
+ | Western Cape = {{SIL|Western Cape}}
+ | KwaZulu-Natal = ZuluKwa, Natal
+ | Eastern Cape = {{SIL|Eastern Cape}}
+ | Limpopo = {{SIL|Limpopo}}
+ | Mpumalanga = {{SIL|Mpumalanga}}
+ | North West = {{SIL|North West}}
+ | {{{1}}}
+}}
