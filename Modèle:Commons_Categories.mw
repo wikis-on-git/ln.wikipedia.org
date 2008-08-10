@@ -1,0 +1,12 @@
+{{ #switch: {{{1|}}}
+ | Eastern Cape  = Eastern Cape
+ | Free State    = Free State
+ | Gauteng       = Gauteng
+ | KwaZulu-Natal = KwaZulu-Natal
+ | Limpopo       = Limpopo
+ | Mpumalanga    = Mpumalanga
+ | North West    = {{#ifeq:{{{2}}}|ZAF|North West (South African province)|{{#ifeq:{{{2}}}|BWA|North West (Botswanan province)|{{{1}}}}}}}
+ | Northern Cape = Northern Cape
+ | Western Cape  = Western Cape
+ | {{{1}}}
+}}
