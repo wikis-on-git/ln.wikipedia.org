@@ -1,0 +1,16 @@
+{{ #switch: {{{1|}}}
+ | Stub = Ndámbo
+ | Commons = Commons
+ | Parliamentary republic = {{SIL|Parliamentary republic}}
+ | South African Rand = {{SIL|South African Rand}}
+ | Motto = {{SIL|Motto}}
+ | Capital = {{SIL|Capital}}
+ | List of Premiers of South African provinces = {{SIL|List of Premiers of South African provinces}}
+ | Area = {{SIL|Area}}
+ | List of South African provinces by area = {{SIL|List of South African provinces by area}}
+ | Population = {{SIL|Population}}
+ | Population density = {{SIL|Population density}}
+ | List of South African provinces by population = {{SIL|List of South African provinces by population}}
+ | Languages of South Africa = {{SIL|Languages of South Africa}}
+ | {{SIL|{{{1}}}}}
+}}
