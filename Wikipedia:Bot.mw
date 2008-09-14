@@ -58,6 +58,12 @@ Please read the text at [[m:Bot policy]] before commenting. If you object, pleas
 
 : '''Done.''' <small>—[[m:user:Pathoschild/s|Pathoschild]] 23:27, 20 sɛtɛ́mbɛ 2007 (UTC)</small>
 
+==Global bots==
+Hello. The [[m:Bot policy|standard bot policy]] was updated to allow global bots, which are now technically possible. These are trusted bots that will be given bot access on every wiki that allows global bots (the local policy or request page must explicitly allow them, or they won't get access on this wiki). The [[m:Bot policy#Global_bots|current requirements]] for global bots are:
+* a global bot must only maintain interlanguage links or fix double-redirects;
+* a global bot must have already been active on several wikis, with long-term contributions demonstrating its trustworthiness.
+
+Does anyone object to allowing global bots on this wiki? I'll update the local policy in a week if there are no objections. Thanks. [[Utilisateur:Malafaya|Malafaya]] 14 sɛtɛ́mbɛ 2008 à 16:16 (UTC)
 
 [[Category:Wikipedia Bot]]
 
