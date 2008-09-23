@@ -1,7 +1,6 @@
 * '''ln:''' Kosɛ́nga esáliseli (bot)
-* '''fr:''' Demande de status de bot: voir en bas. La [[m:Bot policy|politique standard pour robots]] est employé sur ce wiki, à la discrétion des stewards.
-* '''en:''' Requests for the [[m:bot|bot]] flag should be made at the bottom of this page. Since this wiki does not have a [[m:Bureaucrat|bureaucrat]], granting of access has to be [[m:Requests for bot status|performed by a steward]] if there are no objections on this page. The [[m:Bot policy|standard bot policy]] is used on this wiki, with steward discretion allowed.
-
+* '''fr:''' Demande de status de bot: voir en bas. La [[m:Bot policy|politique standard pour robots]] est employé sur ce wiki, avec les [[m:bot policy#Global_bots|robots globaux]] et [[m:bot policy#Automatic_approval|l'approbation automatique de certain types de robots]] permises.
+* '''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.
 
 * '''fr:''' Il existe une '''catégorie''' pour les Bots: ''Category: Wikipedia Bot'' merci de l'ajouter à la page utilisateur de votre bot.
 * '''en:''' There is a '''category''' for all bots: ''Category: Wikipedia Bot'' Thank you to add this category at the user page of your bot.
@@ -67,11 +66,13 @@ Does anyone object to allowing global bots on this wiki? I'll update the local p
 
 {{fr}} Si nous l'acceptons, des bots de confiance (qui ont déjà attribué beaucoup dans des vérsions dans d'autres langues), peuvent avoir un statut "global". Dans ce cas ils ne doivent plus nous demander la pérmission de demander à un bureaucrat pour obtenir le drapeau (flag). Ceci est limité à des robots qui entretiennent les interwiki (les liens du menu de gauche vers les autres langues) et les double-redirections à condition qu'ils aient déjà contribué à plusieurs autres wiki et y aient montré que l'on peut leur faire confiance. --[[Utilisateur:Eruedin|Etienne (Bombo)]] 17 sɛtɛ́mbɛ 2008 à 08:13 (UTC)
 
-== Ɛ́ɛ́ (oui/yes) ==
+: Done. —<small>[[m:User:Pathoschild|Pathoschild]] 13:56:14, 23 sɛtɛ́mbɛ 2008 (UTC)</small>
+
+===Ɛ́ɛ́ (oui/yes)===
 * --[[Utilisateur:Eruedin|Etienne (Bombo)]] 17 sɛtɛ́mbɛ 2008 à 08:13 (UTC)
 *
 
-== Tɛ́ (non, no) ==
+===Tɛ́ (non, no)===
 *
 *
 
