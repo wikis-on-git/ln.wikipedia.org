@@ -1,9 +1,6 @@
 * '''ln:''' Kosɛ́nga esáliseli (bot)
-* '''fr:''' Demande de status de bot: voir en bas. La [[m:Bot policy|politique standard pour robots]] est employé sur ce wiki, avec les [[m:bot policy#Global_bots|robots globaux]] et [[m:bot policy#Automatic_approval|l'approbation automatique de certain types de robots]] permises.
-* '''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.
-
-* '''fr:''' Il existe une '''catégorie''' pour les Bots: ''Category: Wikipedia Bot'' merci de l'ajouter à la page utilisateur de votre bot.
-* '''en:''' There is a '''category''' for all bots: ''Category: Wikipedia Bot'' Thank you to add this category at the user page of your bot.
+* <p>'''fr:''' Demande de status de bot: voir en bas. La [[m:Bot policy|politique standard pour robots]] est employé sur ce wiki, avec les [[m:bot policy#Global_bots|robots globaux]] et [[m:bot policy#Automatic_approval|l'approbation automatique de certain types de robots]] permises.</p><p>Il existe une '''catégorie''' pour les bots locaux: ''Category: Wikipedia Bot''. Merci de l'ajouter à la page utilisateur de votre bot.</p>
+* <p>'''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.</p><p>There is a '''category''' for local bots: ''Category: Wikipedia Bot''. Thank you to add this category at the user page of your bot.</p>
 
 == Biyóngá / Demandes / Requests==
 Tálá mpé : [[Wikipedia:Bot/Libómbí]]
