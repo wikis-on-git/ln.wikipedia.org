@@ -1,0 +1,15 @@
+<includeonly><!--
+-->{{#if:{{{nodiv|}}}|<!--
+  -->&nbsp;<span class="noprint plainlinksneverexpand" style="white-space:nowrap; font-size:xx-small; {{{style|}}}">|<!--
+  --><div class="noprint plainlinksneverexpand" style="background-color:transparent; padding:0; font-size:xx-small; color:#000000; white-space:nowrap; {{{style|}}}"><!--
+-->}}<!--
+-->{{#ifeq:{{{mini|}}}{{{plain|}}}|1||Cette boîte&nbsp;:&nbsp;}}<!--
+-->[[{{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|<span title="Voir ce modèle.">{{#if:{{{mini|}}}|v|voir}}</span>]]&nbsp;{{#if:{{{mini|}}}|·|•}} <!--
+-->[[Discussion {{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|<span {{#ifexist: Modèle discussion:{{{1}}}|<!--ne fait rien-->|style="color:#002bb8;"}} title="Discussion sur ce modèle.">{{#if:{{{mini|}}}|d|disc.}}</span>]]&nbsp;{{#if:{{{mini|}}}|·|•}} <!--
+-->[{{fullurl:{{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|action=edit}} <span title="Modifier ce modèle. Merci de prévisualiser avant de sauvegarder.">{{#if:{{{mini|}}}|m|mod.}}</span>]<!--
+-->{{#if:{{{nodiv|}}}|<!--
+  --></span>&nbsp;|<!--
+  --></div><!--
+-->}}</includeonly><noinclude>{{Tnavbar/Documentation}} 
+<!--NB: Les liens Interwiki devront être ajouter au [[Modèle:Tnavbar/Documentation]]-->
+</noinclude>
