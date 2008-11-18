@@ -1,0 +1,128 @@
+<!--
+
+Chers contributeurs, ce Méta-Modèle est la source de plusieurs autres modèles qui l'inclut. À moins d'être bien sûr de ce que vous faites, vous ne devriez pas avoir à modifier ce Méta. En cas de doute, veuillez demander à l'administration de vous aiguiller.
+
+--><includeonly><table class="navbox collapsible noprint {{#if:{{{étatboîte|}}}|{{{étatboîte}}}|autocollapse}}" style="margin:auto; {{#if:{{{style|}}}|{{{style|}}};}} {{{stylecorps|}}}">
+<tr><!--
+
+---------------------------------------- Barre Titre -----------------------------------------
+--><th colspan="{{#if:{{{image|}}}|3|2}}" style="text-align:center;{{#if:{{{styletitre|}}}|{{{styletitre|}}};}}"><div style="float:left; width:6em; text-align:left">{{Tnavbar|{{{modèle<noinclude>|Méta palette de navigation</noinclude>}}}|mini=1}}</div><span style="font-size:110%">{{{titre}}}</span>{{#if:{{{sous-titre|}}}|{{Clr}}<small>{{{sous-titre}}}</small>}}</th>
+</tr> <!--
+
+----------------------- Dessus (groupes optionnels du dessus) -----------------------
+-->{{#if:{{{dessus|}}} |<tr>
+<td style="{{{styledessus|}}}" colspan="{{#if:{{{image|}}}|3|2}}">{{{dessus|}}}</td>
+</tr>}} <!--
+
+----------------------------------------- Groupes ----------------------------------------
+-->{{#if:{{{liste1|}}}  |<tr>
+{{#if:{{{groupe1|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe1}}}</td>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe1|}}}|1|2}}">{{{liste1}}}</td>
+{{#if:{{{image|}}}|<td rowspan="{{#expr: {{#if:{{{liste1|}}}|1|0}} +{{#if:{{{liste2|}}}|1|0}} +{{#if:{{{liste3|}}}|1|0}} +{{#if:{{{liste4|}}}|1|0}} +{{#if:{{{liste5|}}}|1|0}} +{{#if:{{{liste6|}}}|1|0}} +{{#if:{{{liste7|}}}|1|0}} +{{#if:{{{liste8|}}}|1|0}} +{{#if:{{{liste9|}}}|1|0}} +{{#if:{{{liste10|}}}|1|0}} +{{#if:{{{liste11|}}}|1|0}} +{{#if:{{{liste12|}}}|1|0}} +{{#if:{{{liste13|}}}|1|0}} +{{#if:{{{liste14|}}}|1|0}} +{{#if:{{{liste15|}}}|1|0}} +{{#if:{{{liste16|}}}|1|0}} +{{#if:{{{liste17|}}}|1|0}} +{{#if:{{{liste18|}}}|1|0}} +{{#if:{{{liste19|}}}|1|0}} +{{#if:{{{liste20|}}}|1|0}}}}" style="{{#if:{{{styleimage|}}} |{{{styleimage|}}} |vertical-align:middle;padding-left:7px}}">{{{image}}}</td>}}
+</tr>}} <!--
+
+-->{{#if:{{{liste2|}}}  |<tr>
+{{#if:{{{groupe2|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe2}}}</td>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe2|}}}|1|2}}">{{{liste2}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste3|}}}  |<tr>
+{{#if:{{{groupe3|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe3}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe3|}}}|1|2}}">{{{liste3}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste4|}}}  |<tr>
+{{#if:{{{groupe4|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe4}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe4|}}}|1|2}}">{{{liste4}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste5|}}}  |<tr>
+{{#if:{{{groupe5|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe5}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe5|}}}|1|2}}">{{{liste5}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste6|}}}  |<tr>
+{{#if:{{{groupe6|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe6}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe6|}}}|1|2}}">{{{liste6}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste7|}}}  |<tr>
+{{#if:{{{groupe7|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe7}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe7|}}}|1|2}}">{{{liste7}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste8|}}}  |<tr>
+{{#if:{{{groupe8|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe8}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe8|}}}|1|2}}">{{{liste8}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste9|}}}  |<tr>
+{{#if:{{{groupe9|}}}    |<td class="group" style="{{{stylegroupe|}}}">{{{groupe9}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe9|}}}|1|2}}">{{{liste9}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste10|}}} |<tr>
+{{#if:{{{groupe10|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe10}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe10|}}}|1|2}}">{{{liste10}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste11|}}} |<tr>
+{{#if:{{{groupe11|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe11}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe11|}}}|1|2}}">{{{liste11}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste12|}}} |<tr>
+{{#if:{{{groupe12|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe12}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe12|}}}|1|2}}">{{{liste12}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste13|}}} |<tr>
+{{#if:{{{groupe13|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe13}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe13|}}}|1|2}}">{{{liste13}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste14|}}} |<tr>
+{{#if:{{{groupe14|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe14}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe14|}}}|1|2}}">{{{liste14}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste15|}}} |<tr>
+{{#if:{{{groupe15|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe15}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe15|}}}|1|2}}">{{{liste15}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste16|}}} |<tr>
+{{#if:{{{groupe16|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe16}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe16|}}}|1|2}}">{{{liste16}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste17|}}} |<tr>
+{{#if:{{{groupe17|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe17}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe17|}}}|1|2}}">{{{liste17}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste18|}}} |<tr>
+{{#if:{{{groupe18|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe18}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe18|}}}|1|2}}">{{{liste18}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste19|}}} |<tr>
+{{#if:{{{groupe19|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe19}}}</th>}}
+<td class="list" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{styleimpair|}}}" colspan="{{#if:{{{groupe19|}}}|1|2}}">{{{liste19}}}</td>
+</tr>}} <!--
+
+-->{{#if:{{{liste20|}}} |<tr>
+{{#if:{{{groupe20|}}}   |<td class="group" style="{{{stylegroupe|}}}">{{{groupe20}}}</th>}}
+<td class="list even" style="{{#if:{{{styleliste|}}}|{{{styleliste|}}};}} {{{stylepair|}}}" colspan="{{#if:{{{groupe20|}}}|1|2}}">{{{liste20}}}</td>
+</tr>}} <!--
+
+----------------------- Dessous (groupes optionnels du dessous)-----------------------
+-->{{#if:{{{dessous|}}} |<tr>
+<td class="below" style="{{{styledessous|}}}" colspan="{{#if:{{{image|}}}|3|2}}">{{{dessous|}}}</td>
+</tr>}}
+
+</table></includeonly><noinclude>{{doc modèle}}
+
+<!-- SVP ajoutez les catégories et les interwikis dans la sous-page /documentation, pas ici -->
+
+</noinclude>
