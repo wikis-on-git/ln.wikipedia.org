@@ -1,0 +1,45 @@
+{{side box
+|position  = {{{pos|}}}
+|style     = {{#ifeq:{{{plain|}}}|yes|border:none; background:transparent; float:none; {{{style|}}}|{{{style|}}} }}
+|textstyle = line-height:1.1em;
+|image     = {{#ifeq:{{{plain|}}}|yes||{{#if:{{{image|}}}|{{{image}}}|[[Image:{{#switch:{{lc:{{{type|}}}}}
+  | sound    = Exquisite-kmixdocked mute.png
+  | music
+  | #default = Gnome-speakernotes.svg
+ }}|65x50px|center]]}}}}
+|text      = <table style="width:100%; background:transparent; border-collapse:collapse; padding:0; margin:0;">
+{{#if:{{{header|}}}|<tr>
+<th colspan="2" style="background:transparent; text-align:left; padding:2px;">{{{header}}}</th>
+</tr>}}
+{{listen/core
+ |filename    = {{{filename|}}}
+ |title       = {{{title|}}}
+ |description = {{{description|}}}
+ |play        = {{{play|}}}
+}}  {{#if:{{{filename2|}}}|
+{{listen/core
+ |filename    = {{{filename2|}}}
+ |title       = {{{title2|}}}
+ |description = {{{description2|}}}
+ |play        = {{{play2|}}}
+}}}}{{#if:{{{filename3|}}}|
+{{listen/core
+ |filename    = {{{filename3|}}}
+ |title       = {{{title3|}}}
+ |description = {{{description3|}}}
+ |play        = {{{play3|}}}
+}}}}{{#if:{{{filename4|}}}|
+{{listen/core
+ |filename    = {{{filename4|}}}
+ |title       = {{{title4|}}}
+ |description = {{{description4|}}}
+ |play        = {{{play4|}}}
+}}}}{{#if:{{{filename5|}}}|
+{{listen/core
+ |filename    = {{{filename5|}}}
+ |title       = {{{title5|}}}
+ |description = {{{description5|}}}
+ |play        = {{{play5|}}}
+}}}}</table>
+|below = {{#ifeq:{{{plain|}}}|yes||{{#ifeq:{{{help|}}}|no||<span style="font-size:smaller;">''Problems listening to {{#if:{{{filename2|}}}{{{filename3|}}}{{{filename4|}}}{{{filename5|}}}|these files|this file}}? See [[Wikipedia:Media help|media help]].''</span>}}}}
+}}<noinclude>{{documentation}}</noinclude>
