@@ -1,0 +1,140 @@
+{|   style="border: 1px solid #aaaaaa; background-color: #f9f9f9; color: black; margin-bottom: 0.5em; margin-left: 1em; padding: 0.2em; float: right; clear: right; width: 25em; text-align: left; font-size: 90%;" cellspacing="2" cellpadding="3" align="right" width="265px"
+! align="center"  colspan="2" width="100%" | <span style="font-size: larger;">'''''&nbsp;{{{nom}}}'''''</span>
+|- class="hiddenStructure{{{nomorigine|}}}"
+! align="center" colspan="2" style="font-size: larger" | {{{nomorigine}}}
+|-
+{{#if: {{{image|<noinclude>-</noinclude>}}} |
+{{!}} colspan="2" align="center" {{!}} {{{image}}}
+{{!}}-
+}}
+|-
+! colspan="2"  | <hr />
+|-
+!colspan="1" valign="top" align="left" valign="top"  | Pays
+|colspan="1"  valign="top" align="left"|{{{pays}}}
+|-
+!colspan="1" align="left" valign="top"  | Langue(s)
+|colspan="1"  valign="top" align="left"|{{{langue}}}
+|-
+!colspan="1" align="left" valign="top"  | Périodicité
+|colspan="1"  valign="top" align="left"|{{{périodicité}}}
+|-
+{{#if: {{{format|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Format
+{{!}}colspan="1"  valign="top"{{!}}{{{format}}}
+{{!}}-
+}}
+!colspan="1" align="left" valign="top"  | Genre
+|colspan="1"  valign="top" align="left"| {{{genre}}}
+|-
+|-
+{{#if: {{{prix au numéro|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Prix au numéro
+{{!}}colspan="1"  valign="top"{{!}}{{{prix au numéro}}}
+{{!}}-
+}}
+{{#if: {{{diffusion|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}'''Diffusion '''
+{{!}}colspan="1"  valign="top" align="left"{{!}}{{{diffusion}}} ex. ({{{diffusion (date)}}})
+{{!}}-
+}}
+{{#if: {{{fondateur|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Fondateur
+{{!}}colspan="1"  valign="top"{{!}}{{{fondateur}}}
+{{!}}-
+}}
+!colspan="1" align="left" valign="top"  |Date de fondation
+|colspan="1"  valign="top"|{{{date de fondation}}}
+|-
+{{#if: {{{date de fin|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Date du dernier numéro
+{{!}}colspan="1"  valign="top"{{!}}{{{date de fin}}}
+{{!}}-
+}}
+!colspan="1" align="left" valign="top"  |Ville d’édition
+|colspan="1"  valign="top"|{{{ville}}}
+|-
+{{#if: {{{éditeur|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Éditeur
+{{!}}colspan="1"  valign="top"{{!}}{{{éditeur}}}
+{{!}}-
+}}
+! colspan="2"  | <hr />
+|-
+{{#if: {{{directeur de publication|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Directeur de publication
+{{!}}colspan="1"  valign="top"{{!}}{{{directeur de publication}}}
+{{!}}-
+}}
+{{#if: {{{directeur de rédaction|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Directeur de la rédaction
+{{!}}colspan="1"  valign="top"{{!}}{{{directeur de rédaction}}}
+{{!}}-
+}}
+{{#if: {{{rédacteur en chef|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Rédacteur en chef
+{{!}}colspan="1"  valign="top"{{!}}{{{rédacteur en chef}}}
+{{!}}-
+}}
+{{#if: {{{comité éditorial|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Comité éditorial
+{{!}}colspan="1"  valign="top"{{!}}{{{comité éditorial}}}
+{{!}}-
+}}
+{{#if: {{{propriétaire|<noinclude>-</noinclude>}}} |
+!colspan="1" align="left" valign="top"  {{!}}Propriétaire
+{{!}}colspan="1"  valign="top"{{!}}{{{propriétaire}}}
+{{!}}-
+}}
+!colspan="1" align="left" valign="top"  |[[ISSN]]
+|colspan="1"  valign="top"|{{#if:{{{ISSN|}}}|{{#ifeq:{{{rechercher ISSN|}}}|non|{{{ISSN|}}}|{{Recherche ISSN|{{{ISSN|}}}}}}}|-}}
+|-
+! colspan="2"  | <hr />
+|-
+{{#if: {{{site|<noinclude>-</noinclude>}}} |
+!colspan="2" align="center" valign="top"  {{!}}{{{site}}}
+{{!}}-
+}}
+|}<noinclude>{{-}}
+
+==Utilisation==
+<table align="right" width="30%" style="margin-left: 2em">
+<tr><td>
+Voici le code à copier-coller :
+ <nowiki>{{</nowiki>Infobox Presse écrite|
+ | nom                      = 
+ | nomorigine               = 
+ | image                    = 
+ | pays                     = 
+ | langue                   = 
+ | périodicité              = 
+ | format                   = 
+ | genre                    = 
+ | prix au numéro           = 
+ | diffusion                = 
+ | diffusion (date)         = 
+ | fondateur                = 
+ | date de fondation        = 
+ | date de fin              = 
+ | ville                    =
+ | éditeur                  =
+ | directeur de publication = 
+ | directeur de rédaction   = 
+ | rédacteur en chef        = 
+ | comité éditorial         = 
+ | propriétaire             = 
+ | site                     = 
+ | ISSN                     = 
+ <nowiki>}}</nowiki>
+</td></tr>
+</table>
+Les champs ''nomorigine'', ''image'', ''format'', ''prix au numéro'', ''fondateur'', ''date de fin'', ''directeur de publication'', ''directeur de rédaction'', ''rédacteur en chef'', ''comité éditorial'', ''propriétaire'' et ''site'' sont facultatifs.
+
+Le champ ''nomorigine'' peut être utilisé dans le cas d’une publication dont le titre est en caractères non latins, et peut recourir de surcroît au modèle {{m|lang}}.
+
+Exemple : [[Maariv]], quotidien en hébreu, via la syntaxe <span style="background: #fff8dc; border: 1px solid #ccc; padding: 2px">'''<nowiki>{{lang|he|dir=rtl|texte=מעריב}}</nowiki>'''</span>.
+
+=== Note ===
+Le nombre d’exemplaires (paramètre ''diffusion'') doit idéalement être écrit via la syntaxe <span style="background: #fff8dc; border: 1px solid #ccc; padding: 2px">'''<nowiki>{{formatnum:1234567}}</nowiki>'''</span>.
+
+</noinclude>
