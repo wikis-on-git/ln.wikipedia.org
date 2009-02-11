@@ -1,10 +1,1 @@
-{{Babel field 3|
-letter code size=1.5em|
-letter code=[[Latein|la]]|
-text size=0.83em|
-text=Huic usori '''[[:Category:User la-3|praeclara scientia]]''' '''[[:Category:User la|linguae latinae]]''' est.}}
-<includeonly>
-{{#ifeq: {{NAMESPACE}} | {{ns:2}} |
-[[Category:User la-3|{{PAGENAME}}]]
-}}
-</includeonly>
+
