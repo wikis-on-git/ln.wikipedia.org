@@ -1,0 +1,8 @@
+{{Babel field M
+|letter code size=1.5em
+|letter code=[[Deutsche Sprache|de]]
+|text size=0.83em
+|text={{#switch: {{{mw|}}} | 1 = Ich spreche | w = Diese Benutzerin spricht | m = Dieser Benutzer spricht | Diese Person spricht }} '''[[:Category:User de|Deutsch]]''' als '''[[:Category:User de-M|Muttersprache]]'''.
+}}<includeonly>{{#ifeq: {{NAMESPACE}} | {{ns:2}} |
+[[Category:User de-M|{{PAGENAME}}]]
+}}</includeonly>
