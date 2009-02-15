@@ -114,3 +114,9 @@ Hoi, the most often used MediaWiki messages (less than 25% of all MediaWiki mess
 == Safari is the best browser for your language ==
 
 I have been doing some research on how best to support the Lingala language. It turns out that currently [http://www.apple.com/safari/ Safari] provides the best support. Safari is free for download. The worst support is provided by Internet Explorer. Thanks, [[Utilisateur:GerardM|GerardM]] 19 dɛsɛ́mbɛ 2008 à 02:18 (UTC)
+
+==Translatewiki.net update==
+* [http://translatewiki.net Translatewiki.net] formerly known as Betawiki is where the Internationalisation and Localisation of MediaWiki is concentrated. Over 300 languages are supported, issues with MediaWiki programs are dealt with. We need all the help we can get to ensure that we can maintain this service in the face of an increasing workload. 
+
+*Currently 12.93% of the MediaWiki messages and 0.14% of the messages of the extensions used by the Wikimedia Foundation projects have been localised. Please help us help your language by localising and proof reading at [[betawiki:Special:LanguageStats/{{CONTENTLANGUAGE}}|translatewiki.net]]. This is the [http://translatewiki.net/w/i.php?title=Special:RecentChanges&translations=only&trailer=/{{CONTENTLANGUAGE}} recent localisation activity] for your language. Thanks, [[Utilisateur:GerardM|GerardM]] 15 febwáli 2009 à 09:25 (UTC)
+*PS Please help us complete [http://translatewiki.net/w/i.php?title=Special%3ATranslate&task=untranslated&group=core-mostused&language={{CONTENTLANGUAGE}}&limit=100 the most wanted messages]..
