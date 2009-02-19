@@ -3,7 +3,7 @@
 * <p>'''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.</p><p>There is a '''category''' for local bots: ''Category: Wikipedia Bot''. Thank you to add this category at the user page of your bot.</p>
 
 == Biyóngá / Demandes / Requests==
-Tálá mpé : [[Wikipedia:Bot/Libómbí]]
+Tálá mpé : [[Wikipedia:Bot/Libómbí]] (Archive)
 
 
 === [[User:SoxBot|SoxBot]] ===
@@ -59,8 +59,6 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 
 ==== Tɛ́ (non, no) ====
 *
-
-
 
 ==Bot policy==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Project:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
