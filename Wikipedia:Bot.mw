@@ -46,6 +46,22 @@ Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm
 ==== Tɛ́ (non/no) ====
 *
 
+=== [[User:Darkicebot|Darkicebot]] ===
+*'''Operator''': [[:simple:User:Razorflame]]
+*'''Function''': interwiki
+*'''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
+*'''Software:''' standard [[:meta:pywikipedia|pywikipediabot]] updated daily.
+*'''Has bot flags on:'''simple, it, es, fr, az, en, de, pt, bs, vec, ca, sv, vo, uk, ru, az, ar, ku, he, nl, hu, fi, eo, sk, ja, gl, vi, zh, pl, oc, id, an, jv, sr, cy, lb, mt, am
+This bot will be making anywheres between 4 and 12 edits per minute.  If you require any test edits or if you grant or deny the flag, please contact me on my talk page over on Simple English Wikipedia: [[:simple:User talk:Razorflame]].  Thank you! [[Utilisateur:Darkicebot|Darkicebot]] 18 febwáli 2009 à 01:57 (UTC)
+
+==== Ɛ́ɛ́ (oui/yes) ====
+* 
+
+==== Tɛ́ (non, no) ====
+*
+
+
+
 ==Bot policy==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Project:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
@@ -73,19 +89,7 @@ Does anyone object to allowing global bots on this wiki? I'll update the local p
 *
 *
 
-=== [[User:Darkicebot|Darkicebot]] ===
-*'''Operator''': [[:simple:User:Razorflame]]
-*'''Function''': interwiki
-*'''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
-*'''Software:''' standard [[:meta:pywikipedia|pywikipediabot]] updated daily.
-*'''Has bot flags on:'''simple, it, es, fr, az, en, de, pt, bs, vec, ca, sv, vo, uk, ru, az, ar, ku, he, nl, hu, fi, eo, sk, ja, gl, vi, zh, pl, oc, id, an, jv, sr, cy, lb, mt, am
-This bot will be making anywheres between 4 and 12 edits per minute.  If you require any test edits or if you grant or deny the flag, please contact me on my talk page over on Simple English Wikipedia: [[:simple:User talk:Razorflame]].  Thank you! [[Utilisateur:Darkicebot|Darkicebot]] 18 febwáli 2009 à 01:57 (UTC)
 
-==== Ɛ́ɛ́ (oui/yes) ====
-* 
-
-==== Tɛ́ (non, no) ====
-*
 
 [[Category:Wikipedia Bot]]
 
