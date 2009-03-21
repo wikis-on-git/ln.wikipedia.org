@@ -69,7 +69,21 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 * '''Botstatus on other wiki''' : ar, fr, en, pl, ru...
 [[Utilisateur:NobelBot|NobelBot]] 15 mársi 2009 à 15:13 (UTC)
 
+===[[User:GhalyBot|GhalyBot]] ===
+I would like to ask for a Bot flag for GhalyBot
+*'''Operator''': [[:en:User:Ghaly|Ghaly]]
+*'''Function''': interwiki
+*'''Operation''': automatic 
+*'''Software:''' [[:meta:pywikipedia|pywikipediabot]]
+*'''Has bot flags on:global and on '''[http://toolserver.org/~vvv/sulutil.php?user=GhalyBot (ar, arz, ceb, cs, cy, da, de, en, es, et, fi, fr, gl, he, hu, id, it, ja, ka, mk, ml, ms, nl, nn, pl, pt, ro , ru, simple, sk, sl, sr, sv, th, tr, vo ,wuu, zh)]
 
+Thank you ! ------[[Utilisateur:Ghaly|Ghaly]] 21 mársi 2009 à 19:05 (UTC)
+==== Ɛ́ɛ́ (oui/yes) ====
+* 
+*
+
+==== Tɛ́ (non, no) ====
+*
 
 ==Bot policy==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Project:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
