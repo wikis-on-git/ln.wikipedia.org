@@ -1,7 +1,7 @@
 {| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
 ! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Kaboni''
 |-
-| align=center colspan=2 | [[Image:C%2C6.jpg|250px]]
+| align=center colspan=2 | [[Fichier:C%2C6.jpg|250px]]
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki bayike
 |-
@@ -11,7 +11,7 @@
 | rowspan=2 | -<br />↑<br />O<br />↓<br />[[Siliki|Si]]
 | align=center | [[Bolo|B]] ← C → [[Azoti|N]]
 |- align=center valign=top
-| [[Image:C-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
+| [[Fichier:C-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
 ! align=left bgcolor=#E0E0E0 | [[Nkásá ya bankombo|Nkombo]]
@@ -41,7 +41,7 @@
 | 12,0107 [[lyoko ya masi ya atome|u]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
-| 70 (67)  [[picométele|pm]]
+| 70 (67) [[picométele|pm]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
 | 77 pm
@@ -61,7 +61,7 @@
 ! align=left bgcolor=#E0E0E0 | [[Structure cristalline|Structure<br />cristalline]]
 | {{{liens_structures|[[Exagonal]]}}}
 |-
-! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya  Fízíkí 
+! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya Fízíkí 
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[boyangeli ya bilɔkɔ|Boyangeli nayango]]
 | [[Bokási]] [[diamaniétik]]
@@ -82,7 +82,7 @@
 ! align=left bgcolor=#E0E0E0 | [[Mbinga ya mole]]
 | 5,29×10<sup>-6</sup> [[Métele cube na mole|m³/mol]]
 |- valign="top"
-! align=left bgcolor=#E0E0E0 | [[Enyete de vapeur]]<br>(pression)
+! align=left bgcolor=#E0E0E0 | [[Enyete de vapeur]]<br />(pression)
 | 
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Mbángo ya son]]
@@ -134,7 +134,7 @@
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | Isotope instable 
 |isotope<sup>14</sup>C 
-| an=[[trace radioisotope |''trace'']] 
+| an=[[trace radioisotope|''trace'']] 
 | pr=5730 [[Mbula|Bambula]] 
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | md=[[désintégration β|β<sup>-</sup>]] 
@@ -142,14 +142,11 @@
 | pd=<sup>14</sup>[[azoti|N]]
 |}
 
-'''Kaboni''' ezali na elembo '''C''' mpe masi ya atome 12,0107. <br> Okoki ko kutana nayango bipayi binso lokola: bato, ba niama, ba nzete, sukali mpe bisusu.<br> Soki otumbi lokasa, eloko oyo ya moíndo etikalaka ezali kaboni.
+'''Kaboni''' ezali na elembo '''C''' mpe masi ya atome 12,0107. <br /> Okoki ko kutana nayango bipayi binso lokola: bato, ba niama, ba nzete, sukali mpe bisusu.<br /> Soki otumbi lokasa, eloko oyo ya moíndo etikalaka ezali kaboni.
 
 == Nkombo ewuta wapi? ==
 
-
-
-
-[[Category:Kémi]]
+[[Catégorie:Kémi]]
 
 [[af:Koolstof]]
 [[als:Kohlenstoff]]
@@ -250,6 +247,7 @@
 [[th:คาร์บอน]]
 [[tl:Karbon]]
 [[tr:Karbon]]
+[[ug:كاربون]]
 [[uk:Вуглець]]
 [[uz:Uglerod]]
 [[vi:Cacbon]]
