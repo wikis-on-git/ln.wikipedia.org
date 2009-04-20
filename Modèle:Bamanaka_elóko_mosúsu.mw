@@ -1,4 +1,4 @@
-{| class="prettytable float-right" style="width:360px"
+{| class="prettytable float:right" style="padding: 0.3em; float:right; margin: 0px 0px 1em 1em; border:1px solid #999; border-bottom:2px solid; border-right-width: 2px; background:#BBCCCC; text-align:left;"
 ! colspan="2" class="hintergrundfarbe10" bgcolor=#ececec| {{#ifeq:{{{1}}}|BC|{{PAGENAME}}|{{{year|<noinclude>{{CURRENTYEAR}}</noinclude><includeonly>{{PAGENAME}}</includeonly>}}}}} na ba[[manaka]] elóko mosúsu 
 |-
 | [[Manaka ya Gregorio]]
