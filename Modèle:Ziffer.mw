@@ -1,0 +1,36 @@
+{{#switch:{{{2}}}
+|  0 ={{#expr:  {{{1}}}     mod 10 }}
+|  1 ={{#expr: ({{{1}}}/ 10) mod 10 }}
+|  2 ={{#expr: ({{{1}}}/ 100) mod 10 }}
+|  3 ={{#expr: ({{{1}}}/ 1000) mod 10 }}
+|  4 ={{#expr: ({{{1}}}/ 10000) mod 10 }}
+|  5 ={{#expr: ({{{1}}}/ 100000) mod 10 }}
+|  6 ={{#expr: ({{{1}}}/ 1000000) mod 10 }}
+|  7 ={{#expr: ({{{1}}}/ 10000000) mod 10 }}
+|  8 ={{#expr: ({{{1}}}/ 100000000) mod 10 }}
+|  9 ={{#expr: ({{{1}}}/ 1000000000) mod 10 }}
+| 10 ={{#expr: ({{{1}}}/ 10000000000) mod 10 }}
+| 11 ={{#expr: ({{{1}}}/ 100000000000) mod 10 }}
+| 12 ={{#expr: ({{{1}}}/ 1000000000000) mod 10 }}
+| #default= 0
+}}<noinclude>
+
+Diese Vorlage extrahiert eine Ziffer aus einer Ganzzahl.
+
+'''Verwendung:'''
+
+<code><nowiki>{{Ziffer|{{{1}}}|{{{2}}}}}</nowiki></code>
+
+Dabei wird als erstes die Zahl und als zweites die Stelle (Einer = 0, Zehner = 1 u.s.w. bis 12) angegeben.
+
+Bei einem Wert oberhalb der Stellenzahl wird eine Null zurückgegeben.
+
+'''Hinweis:'''
+
+Diese Vorlage wird in math. Ausdrücken benutzt und hat daher nur scheinbar wenige oder keine Einbindungen.
+
+[[Catégorie:Modèle]]
+</noinclude>
+
+
+[[de:Vorlage:Ziffer]]
