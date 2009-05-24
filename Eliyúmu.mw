@@ -1,7 +1,7 @@
 {| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
 ! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Eliyúmu''
 |-
-| align=center colspan=2 | [[Image:He%2C2.jpg|250px]]
+| align=center colspan=2 | [[Fichier:He%2C2.jpg|250px]]
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki bayike
 |-
@@ -11,7 +11,7 @@
 | rowspan=2 | -<br />↑<br />He<br />↓<br />Ne
 | align=center | H ← He → -
 |- align=center valign=top
-| [[Image:He-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
+| [[Fichier:He-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
 ! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
@@ -41,7 +41,7 @@
 | 4,002602 [[lyoko ya masi ya atome|u]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
-| ? (31)  [[picomètre|pm]]
+| ? (31) [[picomètre|pm]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
 | 32 pm
@@ -116,13 +116,12 @@
 |isotope instable | isotope=<sub>6</sub>He | an=[[radioisotope synthétique|''syn.'']] | pr=0,806 7 s 
 |- valign=top
 | md=[[désintégration β|β<sup>-</sup>]] | ed=3,5 | pd=<sub>6</sub>[[lithium|Li]]
-
-[[Category:Kémi]]
-
 {{Lien AdQ|de}}
 {{Lien AdQ|en}}
 {{Lien AdQ|eu}}
 {{Lien AdQ|lmo}}
+
+[[Catégorie:Kémi]]
 
 [[af:Helium]]
 [[an:Elio]]
@@ -201,6 +200,7 @@
 [[oc:Èli]]
 [[pa:ਹੀਲਿਆਮ]]
 [[pl:Hel (pierwiastek)]]
+[[pnt:Ήλιον]]
 [[pt:Hélio]]
 [[qu:Ilyu]]
 [[ro:Heliu]]
