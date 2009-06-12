@@ -1,0 +1,20 @@
+<noinclude><!--
+  N'insérer AUCUN blanc ou saut de ligne avant < noinclude > ou après < /noinclude >.
+-->
+Ce modèle permet de faire un lien entre chaque symbole de l'[[Alphabet phonétique international|API]] composant un mot dans sa version phonétique, et l'article correspondant de Wikipédia (au maximum 20 caractères).<br />
+Exemple : <nowiki>{{MSAPI|m|ɛ|ʀ|s|i}}</nowiki> donnera {{MSAPI|m|ɛ|ʀ|s|i}}, c'est-à-dire un lien pour chaque symbole, respectivement vers
+* [[Consonne occlusive nasale bilabiale voisée]] ({{APIb|m}})
+* [[Voyelle moyenne inférieure antérieure non arrondie]] ({{APIb|ɛ}})
+* [[Consonne roulée uvulaire voisée]] ({{APIb|ʀ}})
+* [[Consonne fricative alvéolaire sourde]] ({{APIb|s}})
+* [[Voyelle haute antérieure non arrondie]] ({{APIb|i}})
+''Ce modèle est à utiliser avec discernement, car il peut dégrader la taille et le temps de chargement de la page si on en fait un usage excessif.''
+
+Pour ne pas avoir de crochets, voir {{m|MAPI}}.
+
+[[Category:Lokótá]]
+
+</noinclude><includeonly><span title="API" class="API" style="font-family:{{Polices API}};"><nowiki>[</nowiki>{{RAPI|{{{1|}}}}}{{RAPI|{{{2|}}}}}{{RAPI|{{{3|}}}}}{{RAPI|{{{4|}}}}}{{RAPI|{{{5|}}}}}{{RAPI|{{{6|}}}}}{{RAPI|{{{7|}}}}}{{RAPI|{{{8|}}}}}{{RAPI|{{{9|}}}}}{{RAPI|{{{10|}}}}}{{RAPI|{{{11|}}}}}{{RAPI|{{{12|}}}}}{{RAPI|{{{13|}}}}}{{RAPI|{{{14|}}}}}{{RAPI|{{{15|}}}}}{{RAPI|{{{16|}}}}}{{RAPI|{{{17|}}}}}{{RAPI|{{{18|}}}}}{{RAPI|{{{19|}}}}}{{RAPI|{{{20|}}}}}<nowiki>]</nowiki></span></includeonly>
+
+{{ #if: {{{1|}}} |<span title="API" class="API" style="font-family:{{Polices API}};"><nowiki>[</nowiki>{{RAPI|{{{1|}}}}}{{RAPI|{{{2|}}}}}{{RAPI|{{{3|}}}}}{{RAPI|{{{4|}}}}}{{RAPI|{{{5|}}}}}{{RAPI|{{{6|}}}}}{{RAPI|{{{7|}}}}}{{RAPI|{{{8|}}}}}{{RAPI|{{{9|}}}}}{{RAPI|{{{10|}}}}}{{RAPI|{{{11|}}}}}{{RAPI|{{{12|}}}}}{{RAPI|{{{13|}}}}}{{RAPI|{{{14|}}}}}{{RAPI|{{{15|}}}}}{{RAPI|{{{16|}}}}}{{RAPI|{{{17|}}}}}{{RAPI|{{{18|}}}}}{{RAPI|{{{19|}}}}}{{RAPI|{{{20|}}}}}<nowiki>]</nowiki></span>| <code><nowiki>{{MSAPI|a|l|f|a|b|ɛ}}}}</nowiki></code>}}<noinclude>
+{{doc modèle}}</noinclude>
