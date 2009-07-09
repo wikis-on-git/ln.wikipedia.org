@@ -10,7 +10,7 @@
 {| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
 ! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Ebendé''
 |-
-| align=center colspan=2 | [[Image:Ebendé.jpg|250px]]
+| align=center colspan=2 | [[Fichier:Ebendé.jpg|250px]]
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki bayike
 |-
@@ -20,7 +20,7 @@
 | rowspan=2 | -<br />↑<br />Fe<br />↓<br />Ru
 | align=center | Mn ← Fe → Co
 |- align=center valign=top
-| [[Image:Fe-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
+| [[Fichier:Fe-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
 ! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
@@ -67,7 +67,7 @@
 ! align=left bgcolor=#E0E0E0 | [[Boyangeli ya oxydation|Boyangeli(état) ya oxydation]]<br />([[oxyde]])
 | 2, '''3''', 4, 6
 |- valign=top
-! align=left bgcolor=#E0E0E0 | [[Structure cristalline|Structure cristalline]]
+! align=left bgcolor=#E0E0E0 | [[Structure cristalline]]
 | {{{liens_structures|[[*Cubique face centrée]]}}}
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki ya  Fízíkí 
@@ -79,7 +79,7 @@
 | 1808 [[kelvin|K]] (1535 [[Celsius|°C]]) 
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[température de vaporisation|Température<br />de vaporisation]]
-| 3023 K (2750 °C)
+| 3023 K (2750&nbsp;°C)
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Énergie de fusion]]
 | 13,8 [[kilojoule par mole|kJ/mol]]
@@ -94,7 +94,7 @@
 | 7,05 Pa
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
-| 4910 [[mètre par seconde|m/s]] à 20°C
+| 4910 [[mètre par seconde|m/s]] à 20&nbsp;°C
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Misusu
 |- valign=top
@@ -127,12 +127,9 @@
 |- valign=top
 | md=[[désintégration β|β<sup>-</sup>]] | ed=3,5 | pd=<sub>6</sub>[[lithium|Li]]
 --->}}
-
-
-
-[[Category:Kémi]]
-
 {{Lien AdQ|af}}
+
+[[Catégorie:Kémi]]
 
 [[af:Yster]]
 [[als:Eisen]]
@@ -245,6 +242,7 @@
 [[vls:Yzer (element)]]
 [[war:Puthaw]]
 [[yi:אייזן]]
+[[za:Diet]]
 [[zh:铁]]
 [[zh-min-nan:Fe (goân-sò͘)]]
 [[zh-yue:鐵]]
