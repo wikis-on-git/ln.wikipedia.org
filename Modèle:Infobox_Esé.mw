@@ -43,8 +43,8 @@ loléngé_lɛ́ta 	= [[Republiki]] |
 | [[Image:{{{image_flag}}}|125px|Bɛndɛ́lɛ ya {{{nkómbó}}}]]
 | [[Image:{{{image_coat}}}|110px|Bilembo-nkita ya {{{nkómbó}}}]]
 |- align=center
-| <small>([[Bɛndɛ́lɛ ya {{{nkómbó}}}|Bɛndɛ́lɛ]])</small>
-| <small>([[Bilembo-nkita ya {{{nkómbó}}}|Bilembo-nkita]])</small>
+| <small>{{#ifexist:Bɛndɛ́lɛ ya {{{nkómbó}}}|([[Bɛndɛ́lɛ ya {{{nkómbó}}}|Bɛndɛ́lɛ]])}}</small>
+| <small>{{#ifexist:Bilembo-nkita ya {{{nkómbó}}}|([[Bilembo-nkita ya {{{nkómbó}}}|Bilembo-nkita]])}}</small>
 |}
 |- align=center style="vertical-align: top;" class="hiddenStructure{{{liloba-lokúmu|}}}"
 | style="font-size:95%" colspan="2" | [[Mikáno mya Bikólo|Mokáno mwa ekólo]] : <br/>{{{liloba-lokúmu|eyébání tɛ́}}}
