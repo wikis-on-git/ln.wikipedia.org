@@ -1,7 +1,7 @@
 {| align="right" width="225px" cellpadding=4 cellspacing=0  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 2px; border-bottom-width: 2px; "
 ! align=center bgcolor=#909090 colspan=2 | <font size=4 color=white> ''Koloki''
 |-
-| align=center colspan=2 | [[Image:.jpg|250px]]
+| align=center colspan=2 | [[Fichier:.jpg|250px]]
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Makoki bayike
 |-
@@ -11,7 +11,7 @@
 | rowspan=2 | [[folina|F]]<br />↑<br />Cl<br />↓<br />[[bomo|Br]]
 | align=center | [[sufa|S]] ← Cl → [[alago|Ar]]
 |- align=center valign=top
-| [[Image:Cl-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
+| [[Fichier:Cl-TableImage.png|250px]]<br /><small>[[Etánda ya bileko|Etánda mobimba]]</small>
 |}
 |-
 ! align=left bgcolor=#E0E0E0 | [[Liste des éléments par nom|Nkombo]]
@@ -41,7 +41,7 @@
 | 35,435 [[lyoko ya masi ya atome|u]]
 |-
 ! align=left bgcolor=#E0E0E0 | [[Nsasa]](reyo) ya atome<br />(calc.)
-| 100 (79)  [[picomètre|pm]]
+| 100 (79) [[picomètre|pm]]
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Nsasa ya covalence|Reyo ya<br />covalence]] 
 | 99 pm
@@ -86,7 +86,7 @@
 | 1300 Pa à ?? K
 |- valign=top
 ! align=left bgcolor=#E0E0E0 | [[Vitesse du son]]
-| 206 [[mètre par seconde|m/s]] à 20 °C
+| 206 [[mètre par seconde|m/s]] à 20&nbsp;°C
 |-
 ! align=center bgcolor=#C0C0C0 colspan=2 | Misusu
 |- valign=top
@@ -148,7 +148,7 @@
 | colspan="4" | Cl est [[Isotope stable|stable]] avec 18 [[neutron]]s
 |-----
 | <sup>36</sup>Cl || [[radioisotope synthétique|{syn.}]]
-| 301 000 [[année|an]]s
+| 301 000 [[année|ans]]
 | [[désintégration bêta|Bêta<sup>-</sup>]]<br />[[Capture électronique|ε]]
 | 0,709 <br />1,142
 | [[argon|<sup>36</sup>Ar]]<br />[[soufre|<sup>36</sup>S]]
@@ -159,7 +159,7 @@
 |-----
 ! colspan="2" bgcolor="#ffff99" | <font size="-1">Mayoko ya [[Système international|SI]] & [[conditions normales de température et de pression|CNTP]], sauf indication contraire.</font>
 |}
-[[Category:Kémi]]
+[[Catégorie:Kémi]]
 
 {{Lien AdQ|sk}}
 
@@ -234,7 +234,7 @@
 [[sh:Hlor]]
 [[simple:Chlorine]]
 [[sk:Chlór]]
-[[sl:Projekt:Klor]]
+[[sl:Klor]]
 [[sq:Klori]]
 [[sr:Хлор]]
 [[stq:Chlor]]
