@@ -1,0 +1,47 @@
+{| class="wikitable float-right" 
+!colspan="2" align="center" bgcolor="#e3e3e3" | <big>{{{Name}}}</big>
+|-
+|colspan="2" align="center" | [[Datei:{{{Wappen}}}|120px|zentriert|Wappen {{{Name}}}]]{{{Wappen_Name}}}
+|-
+!colspan="2" align="center" bgcolor="#e3e3e3" | Basisdaten
+|-
+|[[Mbóka-mokonzi]]: || {{{Hauptort}}}
+|-
+|[[Etando]]: || {{{Fläche}}} [[Quadratkilometer|km²]]
+|-
+|Mito: || {{{Einwohner}}} <small>({{{Einwohner_Jahr}}})</small> 
+|-
+|Bato na etando: || {{{Dichte}}} /km²
+|-
+|Kanton ya<br />Swisi bandá: || {{{Beitrittsjahr}}}
+|-
+|Abkürzung: || {{{Abkürzung}}}  ([[ISO 3166-2|ISO]]:CH-{{{Abkürzung}}})
+|-
+|[[Nkótá ya lɛ́ta]]: || {{{Sprache}}}
+|-
+|Site wɛbɛ: || <span style="text-transform: lowercase;">[http://www.{{{Abkürzung}}}.ch www.{{{Abkürzung}}}.ch]</span>
+|-
+!colspan="2" align="center" bgcolor="#e3e3e3" | Karte
+|-
+|colspan="2" align="center" | [[Datei:{{{Karte}}}|300px|zentriert|Karte {{{Name}}}]]
+|-
+!colspan="2" align="center" bgcolor="#e3e3e3" | Lage des Kantons
+|-
+|colspan="2" align="center" | [[Datei:{{{Lage}}}|300px|zentriert|Lage {{{Name}}}]]
+|}
+<noinclude>
+[[Kategorie:Vorlage:Infobox Verwaltungsgliederung|Kanton]]
+
+[[als:Vorlage:Infobox Kanton]]
+[[bg:Шаблон:Кантон на Швейцария инфо]]
+[[cs:Šablona:Infobox švýcarský kanton]]
+[[en:Template:Infobox Canton]]
+[[eo:Ŝablono:Informkesto kantono de Svislando]]
+[[fr:Modèle:Infobox Canton de Suisse]]
+[[id:Templat:Infobox Kanton]]
+[[it:Template:Cantone svizzero]]
+[[pt:Predefinição:Info/Cantão da Suíça]]
+[[rm:Template:Infobox Chantun svizzer]]
+[[ro:Format:Cutie canton]]
+[[sv:Mall:Faktaruta kanton Schweiz]]
+</noinclude>
