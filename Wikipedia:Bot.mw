@@ -2,12 +2,12 @@
 * <p>'''fr:''' Demande de status de bot: voir en bas. La [[m:Bot policy|politique standard pour robots]] est employé sur ce wiki, avec les [[m:bot policy#Global_bots|robots globaux]] et [[m:bot policy#Automatic_approval|l'approbation automatique de certain types de robots]] permises.</p><p>Il existe une '''catégorie''' pour les bots locaux: ''Category: Wikipedia Bot''. Merci de l'ajouter à la page utilisateur de votre bot.</p>
 * <p>'''en:''' Requests for the [[m:bot|bot]] flag should be made on this page. This wiki uses the [[m:bot policy|standard bot policy]], and allows [[m:bot policy#Global_bots|global bots]] and [[m:bot policy#Automatic_approval|automatic approval of certain types of bots]]. Other bots should apply below, and then [[m:Steward requests/Bot status|request access]] from a steward if there is no objection.</p><p>There is a '''category''' for local bots: ''Category: Wikipedia Bot''. Thank you to add this category at the user page of your bot.</p>
 
-== Biyóngá / Demandes / Requests==
+== Biyóngá / Demandes / Requests ==
 Tálá mpé : [[Wikipedia:Bot/Libómbí]] (Archive)
 
 
-=== [[User:SoxBot|SoxBot]] ===
-Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm asking to give [[User:SoxBot|my bot]] a bot flag, then I'll update interwiki links, I'll scan English Wikipedia always. If it done or if there are any questions about it, please [{{fullurl:en:User talk:Soxred93|action=edit&section=new}} notice me] in my English talk page. Thank you!--[[Special:Contributions/90.148.255.188|90.148.255.188]] 17 febwáli 2008 à 17:33 (UTC)
+=== [[Utilisateur:SoxBot|SoxBot]] ===
+Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm asking to give [[Utilisateur:SoxBot|my bot]] a bot flag, then I'll update interwiki links, I'll scan English Wikipedia always. If it done or if there are any questions about it, please [{{fullurl:en:User talk:Soxred93|action=edit&section=new}} notice me] in my English talk page. Thank you!--[[Spécial:Contributions/90.148.255.188|90.148.255.188]] 17 febwáli 2008 à 17:33 (UTC)
 
 *'''Operator:''' [[:en:User:Soxred93|Soxred93]]
 *'''Function:''' interwiki link maintenance
@@ -21,7 +21,7 @@ Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm
 ==== Tɛ́ (non, no) ====
 
 
-===[[User:Alexbot|Alexbot]] ===
+=== [[Utilisateur:Alexbot|Alexbot]] ===
 :'''Operator''':[[:zh:User:Alexsh]]
 :'''Programming Language''':Pywikipedia SVN
 :'''Functions''':Interwiki(+autonomous), double redirect fix.
@@ -33,7 +33,7 @@ Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm
 
 ==== Tɛ́ (non/no) ====
 *
-===[[User:HerculeBot|HerculeBot]] ===
+=== [[Utilisateur:HerculeBot|HerculeBot]] ===
 :'''Operator''':[[:fr:User:Hercule]]
 :'''Programming Language''': Java
 :'''Functions''':Interwiki, update interwikis after page renaming.
@@ -46,7 +46,7 @@ Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm
 ==== Tɛ́ (non/no) ====
 *
 
-=== [[User:Darkicebot|Darkicebot]] ===
+=== [[Utilisateur:Darkicebot|Darkicebot]] ===
 *'''Operator''': [[:simple:User:Razorflame]]
 *'''Function''': interwiki
 *'''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
@@ -61,7 +61,7 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 ==== Tɛ́ (non, no) ====
 *
 
-=== [[User:NobelBot]] ===
+=== [[Utilisateur:NobelBot]] ===
 * '''Bot name''' : [[:ar:User:NobelBot]]
 * '''Operator''' : [[:ar:User:جمال بركات|جمال بركات]]
 * '''Programming Language''' : Python (Pywikipedia)
@@ -69,7 +69,7 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 * '''Botstatus on other wiki''' : ar, fr, en, pl, ru...
 [[Utilisateur:NobelBot|NobelBot]] 15 mársi 2009 à 15:13 (UTC)
 
-===[[User:GhalyBot|GhalyBot]] ===
+=== [[Utilisateur:GhalyBot|GhalyBot]] ===
 I would like to ask for a Bot flag for GhalyBot
 *'''Operator''': [[:en:User:Ghaly|Ghaly]]
 *'''Function''': interwiki
@@ -85,15 +85,15 @@ Thank you ! ------[[Utilisateur:Ghaly|Ghaly]] 21 mársi 2009 à 19:05 (UTC)
 ==== Tɛ́ (non, no) ====
 *
 
-==Bot policy==
-Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Project:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
+== Bot policy ==
+Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
 Please read the text at [[m:Bot policy]] before commenting. If you object, please say so; it will be implemented in one week if there is no objection, since it is particularly written to streamline bot requests on wikis with little or no community interested in bot access requests. <small>—[[m:user:Pathoschild/s|Pathoschild]] 19:15, 12 sɛtɛ́mbɛ 2007 (UTC)</small>
-:*nazalí kondima (=OK) --[[User:Eruedin|Etienne (Bombo)]] 21:18, 12 sɛtɛ́mbɛ 2007 (UTC)
+:*nazalí kondima (=OK) --[[Utilisateur:Eruedin|Etienne (Bombo)]] 21:18, 12 sɛtɛ́mbɛ 2007 (UTC)
 
 : '''Done.''' <small>—[[m:user:Pathoschild/s|Pathoschild]] 23:27, 20 sɛtɛ́mbɛ 2007 (UTC)</small>
 
-==Global bots==
+== Global bots ==
 {{en}} Hello. The [[m:Bot policy|standard bot policy]] was updated to allow global bots, which are now technically possible. These are trusted bots that will be given bot access on every wiki that allows global bots (the local policy or request page must explicitly allow them, or they won't get access on this wiki). The [[m:Bot policy#Global_bots|current requirements]] for global bots are:
 * a global bot must only maintain interlanguage links or fix double-redirects;
 * a global bot must have already been active on several wikis, with long-term contributions demonstrating its trustworthiness.
@@ -104,17 +104,17 @@ Does anyone object to allowing global bots on this wiki? I'll update the local p
 
 : Done. —<small>[[m:User:Pathoschild|Pathoschild]] 13:56:14, 23 sɛtɛ́mbɛ 2008 (UTC)</small>
 
-===Ɛ́ɛ́ (oui/yes)===
+=== Ɛ́ɛ́ (oui/yes) ===
 * --[[Utilisateur:Eruedin|Etienne (Bombo)]] 17 sɛtɛ́mbɛ 2008 à 08:13 (UTC)
 *
 
-===Tɛ́ (non, no)===
+=== Tɛ́ (non, no) ===
 *
 *
 
 
 
-[[Category:Wikipedia Bot]]
+[[Catégorie:Wikipedia Bot]]
 
 [[af:Wikipedia:Robot]]
 [[als:Wikipedia:Bötli]]
@@ -147,7 +147,7 @@ Does anyone object to allowing global bots on this wiki? I'll update the local p
 [[gd:Wikipedia:Bot policy]]
 [[gl:Wikipedia:Bots]]
 [[hak:Wikipedia:Kî-hi-ngìn]]
-[[haw:Wikipedia:Nā lopako]]
+[[haw:Wikipedia:Lopako]]
 [[he:ויקיפדיה:בוט]]
 [[hi:विकिपीडिया:Bot policy]]
 [[hr:Wikipedija:Botovi]]
