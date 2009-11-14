@@ -1,0 +1,51 @@
+{{#switch:{{{1|}}}
+	|1=<span class="error"> '''Gradzahl-Fehler:''' {{#iferror:{{{2|}}}|''[[Vorlage:Coordinate#NS_und_EW|NS]]'': {{{2}}}|}} {{#iferror:{{{3|}}}|''[[Vorlage:Coordinate#NS_und_EW|EW]]'': {{{3}}}|}} </span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|1{{PAGENAME}}]]
+	}}
+	|2=<span class="error"> nicht&nbsp;in&nbsp;[[Vorlage:Coordinate to CH1903#Wertebereich|Bereich]]&nbsp;von&nbsp;CH1903 </span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|2{{PAGENAME}}]]
+	}}
+	|3=<span class="error"> {{#if:{{{2|}}}|falscher Wert ›{{{2}}}‹|kein Wert}} in ''[[Vorlage:Coordinate#type|type]]''-Parameter </span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|3{{PAGENAME}}]]
+	}}
+<!--	|4= -->
+	|5=<span class="error"> unbenannte Parameter '''1''':{{{2}}}{{#if:{{{3|}}}|, '''2''':{{{3|}}}}}{{#if:{{{4|}}}|, '''3''':{{{4|}}}}}{{#if:{{{5|}}}|, '''4''':{{{5|}}}}} {{#if:{{{6|}}}|usw.}} </span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|5{{PAGENAME}}]]
+	}}
+	|6={{#if:{{{2|}}}|<!--Poskarten – Massenproblem – noch nicht sinnvoll-->|<span class="error">{{#if:{{{2|}}}|{{{2}}}:}} ''[[Vorlage:Coordinate#region|region]]''-Parameter fehlt<span style="display:none">[[Vorlage:Coordinate/Wartung/region|6]]</span> {{#if:{{{2|}}}|in Positionskarte.}} </span>}}{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|6{{PAGENAME}}]]<!--region fehlt-->
+	}}
+	|7={{#if:{{{2|}}}
+		|<span class="error"><!--Höhe Zahlenformat--></span>{{#if:{{NAMESPACE}}
+			|<!--void-->
+			|[[Kategorie:Parameterfehler|7{{PAGENAME}}]]
+		 }}
+		|{{#if:{{NAMESPACE}}
+			|<!--void-->
+			|<span style="display:none">[[Vorlage:Coordinate/Wartung/elevation|7]]</span><!--elevation fehlt-->
+		 }}
+	}}
+	|8=<span class="error">kein ''[[Vorlage:Coordinate#name|name]]''-Parameter in Fließtextkoordinate</span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|8{{PAGENAME}}]]<!--name fehlt-->
+	}}
+	|9={{#if:{{{2|}}}
+		|<span class="error"> Einwohner Zahlenformat </span>{{#if:{{NAMESPACE}}
+			|<!--void-->
+			|[[Kategorie:Parameterfehler|9{{PAGENAME}}]]
+		 }}
+		|{{#if:{{NAMESPACE}}
+			|<!--void-->
+			|<span style="display:none">[[Vorlage:Coordinate/Wartung/pop|9]]</span><!--elevation fehlt-->
+		 }}
+	}}
+	|#default=<span class="error"> coordinates error </span>{{#if:{{NAMESPACE}}
+		|<!--void-->
+		|[[Kategorie:Parameterfehler|!{{PAGENAME}}]]
+	}}
+}}<noinclude>{{Dokumentation}}</noinclude>
