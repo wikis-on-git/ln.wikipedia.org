@@ -1,0 +1,174 @@
+<onlyinclude>{{Coordinate{{#if:{{#switch:{{{NS|}}}||/|//|///|///N|///S=1}}{{#switch:{{{EW|}}}||/|//|///|///E|///W=1}}|NO{{#if:{{NAMESPACE}}|x}}|MAIN}}
+|NS={{CoordinateLAT|{{{NS|}}}}}
+|EW={{CoordinateLONG|{{{EW|}}}}}
+<!-- Wertebereichstest type, pop und elevation auch in Vorlage:Positionskarte~ -->
+|type={{#switch: {{{type|{{#ifeq:{{NAMESPACE}}|{{ns:6}}|landmark}}}}}
+	|country|state|adm1st|adm2nd|city|isle|airport|mountain|waterbody|forest|landmark={{{type}}}
+	|example={{#if:{{NAMESPACE}}
+		|{{{type}}}
+		|{{CoordinateMSG|3|{{{type}}}}}
+		}}
+	|#default={{CoordinateMSG|3|{{{type|}}}}}
+}}
+|pop={{{pop|}}}
+|elevation={{{elevation|}}}
+|dim={{{dim|}}}
+|region={{{region|}}}
+|text={{{text|}}}
+|article={{#if:{{{article|}}}|{{{article|}}}|{{#if:{{{text|}}}{{{map|}}}||/}}}}
+|name={{#ifeq:{{{name|}}}|coordinates||{{{name|}}}}}
+|sortkey={{#if:{{{text|}}}|{{{sortkey|}}}}}
+|globe={{{globe|}}}
+}}{{#if:{{{1|}}}
+|{{CoordinateMSG|5|{{{1|}}}|{{{2|}}}|{{{3|}}}|{{{4|}}}|{{{5|}}}}}
+}}{{#if:{{{map|}}}|{{Positionskarte+
+|{{#switch:
+ {{#if:{{ParmPart|1|{{{region|}}}}}
+ |{{#ifexpr:{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}>
+   {{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}
+  }}
+ |-2
+ }}
+ |-2=Erde
+ |-1={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+ |1={{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+    |2={{#ifeq:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}
+              |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}
+       |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+       |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}}}
+    |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+    }}
+ |2={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+ |#default={{#ifeq:
+   {{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|continent}}
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  }}
+}}
+
+|caption    = {{#switch:
+ {{#if:{{ParmPart|1|{{{region|}}}}}
+ |{{#ifexpr:{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}>
+   {{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}
+  }}
+ |-1
+ }}
+ |-2=Erde
+ |-1={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+ |1={{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+    |2={{#ifeq:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}
+              |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}
+       |[[{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|lemma}}|{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|name}}]]
+       |[[{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|lemma}}|{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|name}}]]}}
+    |#default=[[{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|lemma}}|{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|name}}]]
+    }}
+ |2=[[{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|lemma}}|{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|name}}]]
+ |#default={{#ifeq:
+   {{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|continent}}
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  |[[{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|lemma}}|{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|name}}]]
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  }}
+}}
+|float ={{{map}}}
+|width ={{{mapsize|}}}
+|label ={{#if:{{{name|}}}|{{#if:{{{text|}}}|{{#ifexist:{{{name}}}|[[{{{name}}}]]|{{{name}}}}}|{{{name}}}}}|{{PAGENAME}}}}
+|places={{Positionskarte~
+ |{{#switch:
+ {{#if:{{ParmPart|1|{{{region|}}}}}
+ |{{#ifexpr:{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}>
+   {{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+   |Erde=-2
+   |Afrika|Amerika|Antarktis|Asien|Australien|Eurasien|Europa|Nordamerika|Südamerika
+   |Nordpolarmeer|Atlantik|Indik|Pazifik|Südpolarmeer=-1
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}=0
+   |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}=1
+   |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+   }}
+  |{{#switch:{{{maplevel|}}}|global=-2|continental=-1|national=0|adm1st=1|adm2nd=2|#default=0}}
+  }}
+ |-2
+ }}
+ |-2=Erde
+ |-1={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+ |1={{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|level}}
+    |2={{#ifeq:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}
+              |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}
+       |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+       |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|upper}}|map}}}}
+    |#default={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+    }}
+ |2={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|map}}
+ |#default={{#ifeq:
+   {{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|continent}}
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  |{{Info ISO-3166-2|code={{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|map}}
+  |{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|continent}}
+  }}
+}}
+
+ |label={{#if:{{{name|}}}|{{#if:{{{text|}}}|{{#ifexist:{{{name}}}|[[{{{name}}}]]|{{{name}}}}}|{{{name}}}}}|{{PAGENAME}}}}
+ <!--
+ |label_size = 
+ |mark       = 
+ |marksize   = 
+ |marktarget = 
+ |position   = 
+ |wrap       = 
+ |background = 
+ -->
+ <!--Coordinates Koordinaten --> 
+ |lat        = {{{NS|}}}
+ |long       = {{{EW|}}}
+<!-- Wertebereichstest type, pop, elevation in Vorlage:Positionskarte~ für alle Positionskarten! -->
+ |type       = {{{type|}}}
+ |pop        = {{{pop|}}}
+ |elevation  = {{{elevation|}}}
+ |dim        = {{{dim|}}}
+ |region     = {{{region|}}}
+ |name       = {{#ifeq:{{{name|}}}|coordinates||{{{name|}}}}}
+}}}}
+}}</onlyinclude>
+
+{{Dokumentation}}
