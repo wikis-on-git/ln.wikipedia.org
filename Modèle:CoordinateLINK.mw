@@ -1,0 +1,42 @@
+<onlyinclude>[http://stable.toolserver.org/geohack/geohack.php?pagename={{FULLPAGENAMEE}}&language=de&params={{
+#expr:abs({{{NS|0}}})}}_{{#ifexpr:{{{NS|0}}}<0|S|N}}_{{#expr:abs({{{EW|0}}})}}_{{#ifexpr:{{{EW|0}}}<0|W|E}}{{
+#if:{{{dim|}}}|_dim:{{{dim}}}_scale:{{{dim}}}0}}{{#switch: {{{globe|}}}
+	||earth={{#if: {{{region|}}}|_region:{{{region}}}}}{{#switch:{{#iferror:{{{type|}}}|}}
+		|=
+		|country|state
+		|adm1st|adm2nd
+		|city|isle=_type:{{{type}}}{{#if:{{#iferror:{{{pop|}}}|}}|({{{pop|}}})}}
+		|mountain=_type:{{{type}}}{{#if:{{#iferror:{{{elevation|}}}|}}|({{{elevation|}}})}}
+		|#default=_type:{{{type}}}
+		}}
+	|#default=_globe:{{{globe}}}
+}}{{#if:{{{label|}}}|_&title={{{label|}}}}} {{#if:{{{name|}}}|<span title="{{{name|}}}">}}{{#if:{{{0|}}}|{{{0|}}}
+|{{#if:{{{1|}}}|{{Coordinate to {{{1|}}}{{#ifeq:{{uc:{{{1|}}}}}|DM|S}}
+ |NS={{{NS|0}}}
+ |EW={{{EW|0}}}
+ |sortkey={{{sortkey|}}}
+ |dim= {{#ifeq:{{uc:{{{1|}}}}}|DM
+	|10001
+	|{{#switch:{{{type|}}}
+		|country|state|adm1st={{#if:{{{dim|}}}|{{{dim}}}|500001}}<!--D-->
+		|adm2nd|city|mountain|isle={{#if:{{{dim|}}}|{{{dim}}}|10001}}<!--DM-->
+		|landmark={{#if:{{{dim|}}}|{{min|250|{{{dim|}}}}}}}
+		|#default={{#if:{{{dim|}}}|{{{dim}}}|500}}<!--DMS-->
+	 }}
+	}}
+}}}}{{#switch: {{{2|}}}
+ ||{{{1|}}}|{{{1|}}}S=<!--leer-->
+ |#default=&#59; {{#ifeq:{{{2|}}}|CH1903|| (}}{{#if:{{{2|}}}|{{Coordinate to {{{2|}}}
+  |label={{#ifeq:{{{name|}}}|coordinates|1}}
+  |NS={{{NS|0}}}
+  |EW={{{EW|0}}}
+  |sortkey={{{sortkey|}}}
+  |dim= {{#switch:{{{type|}}}
+	|country|state|adm1st={{#if:{{{dim|}}}|{{{dim}}}|500001}}<!--D-->
+	|adm2nd|city|mountain|isle={{#if:{{{dim|}}}|{{{dim}}}|10001}}<!--DM-->
+	|landmark={{#if:{{{dim|}}}|{{min|250|{{{dim|}}}}}}}
+	|#default={{#if:{{{dim|}}}|{{{dim}}}|500}}<!--DMS-->
+	}}
+}}}}{{#ifeq:{{{2|}}}|CH1903||) }}
+}}
+}}{{#if:{{{name|}}}|</span>}}]</onlyinclude>{{Dokumentation}}
