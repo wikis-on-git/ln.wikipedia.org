@@ -1,0 +1,71 @@
+<onlyinclude>{{#iferror:{{{NS|}}}{{{EW|}}}
+|{{CoordinateMSG|1|{{{NS|}}}|{{{EW|}}}}}
+|<!--
+
+text output
+
+-->{{#if:{{{text|}}}|{{#if:{{{sortkey|}}}|{{CoordinateSORT|{{{NS|0}}}|{{{EW|0}}}|key={{{sortkey|}}}}}}}<span id="{{#if:{{{name|}}}|{{anchorencode:{{{name}}}}}|text coordinates}}" class="coordinates">{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white">''Beispiel'' </span>}}
+}}{{#if:{{{article|}}}{{{name|}}}||{{CoordinateMSG|8}}}}{{CoordinateLINK
+|NS	={{{NS|0}}}
+|EW	={{{EW|0}}}
+|globe	={{{globe|}}}
+|type	={{{type|}}}
+|pop={{#if:{{IstZahl|0{{{pop|}}}|N}}|{{{pop|}}}}}
+|elevation={{#if:{{IstZahl|0{{{elevation|}}}|R|2}}|{{{elevation|}}}}}
+|dim	={{{dim|}}}
+|region	={{{region|}}}
+|label  ={{urlencode:{{{name|}}}}}
+|name	={{#if:{{{name|}}}|{{{name|}}}|{{FULLPAGENAME}}}}
+|sortkey={{{sortkey|}}}
+|0	={{#switch: {{uc:{{ParmPart|1|{{{text|}}}}}}}
+	 |<!--leer--> |OSGB36|UTM<!--nicht implementiert--> |DMS|DM|DEC|CH1903= <!--leer-->
+	 |ICON0=⊙
+	 |ICON =⦁
+	 |ICON1=<sup>▼</sup>
+	 |#default= {{{text|}}}
+	 }}
+|1	={{#switch: {{uc:{{ParmPart|1|{{{text|}}}}}}}
+	 |<!--leer-->={{#titleparts:{{CoordinateRR DEFAULT|{{{region|}}}}}|1|1}}
+	 |OSGB36|UTM<!--nicht implementiert--> |DMS= DMS
+	 |DM= DM
+	 |DEC= DEC
+	 |CH1903= CH1903
+	 }}
+|2	={{#switch: {{uc:{{ParmPart|2|{{{text|}}}}}}}
+	 |<!--leer-->= {{#if:{{#titleparts:{{{text|}}}|1|1}}||{{#titleparts:{{CoordinateRR DEFAULT|{{{region|}}}}}|1|2}} }}
+	 |DMS= DMS
+	 |DEC= DEC
+	 |CH1903= CH1903
+	 <!-- |UTM|OSGB3 = nicht implementiert-->
+	 }}
+}}</span>}}{{ImDruckVerbergen|1=<{{#if:{{{text|}}}|span|div}} class="geo microformat"><span class="latitude">{{{NS|0}}}</span><span class="longitude">{{#ifexpr:(0{{{NS|0}}})<90 and (0{{{NS|0}}})>-90|{{{EW|0}}}|0}}</span><span class="elevation">{{{elevation|}}}</span></{{#if:{{{text|}}}|span|div}}>
+}}{{#if:{{{region|}}}||{{#switch:{{{globe|}}}|<!--void-->|earth={{CoordinateMSG|6}}}}
+}}{{#if:{{IstZahl|0{{{pop|}}}|N}}|<!--void-->|{{CoordinateMSG|9|{{{pop|}}}}}
+}}{{#if:{{IstZahl|0{{{elevation|}}}|R|2}}|<!--void-->|{{CoordinateMSG|7|{{{elevation|}}}}}
+}}<!--
+
+article output
+
+-->{{#if:{{{article|}}}
+ |{{#if:{{{text|}}}|<span id="coordinates_3_ObenRechts"><span|<div}} id="coordinates" class="coordinates"><span title="Koordinatensystem WGS84">Koordinaten: </span>{{#iferror:{{{type|}}}|{{{type}}}|{{#ifeq:{{{type|}}}|example|<span style="background: white"> ''Beispiel'' </span>}}}}{{CoordinateLINK
+|NS	={{{NS|0}}}
+|EW	={{{EW|0}}}
+|globe	={{{globe|}}}
+|type	={{{type|}}}
+|pop={{#if:{{IstZahl|0{{{pop|}}}|N}}|{{{pop|}}}}}
+|elevation={{#if:{{IstZahl|0{{{elevation|}}}|R|2}}|{{{elevation|}}}}}
+|dim	={{{dim|}}}
+|region	={{{region|}}}
+|label  ={{urlencode:{{{name|}}}}}
+|name	=coordinates
+|sortkey={{{sortkey|}}}
+|1	=DMS
+|2	={{#switch: {{uc:{{{article|}}}}}
+	 |DMS|DM= <!--leer-->
+	 |CH1903|CH1903/DMS|DMS/CH1903= CH1903
+	 |OSGB36|OSGB36/DMS|DMS/OSGB36= <!--OSGB36-->
+	 |UTM|UTM/DMS|DMS/UTM= <!--UTM-->
+	 |#default= {{#titleparts:{{CoordinateRR DEFAULT|{{{region|}}}}}|1|2}}
+	 }}
+}}</{{#if:{{{text|}}}|span></span|div}}>}}
+}}</onlyinclude>{{Dokumentation}}
