@@ -1,0 +1,4 @@
+{{#if:{{{text|}}}   |<span id="{{#if:{{{name|}}}|{{{name}}}|text coordinates}}" class="coordinates" style="background:#FFC" >Koordinaten fehlen! [[Wikipedia:WikiProjekt Georeferenzierung|Hilf mit.]]</span>
+}}
+{{#if:{{{article<includeonly>|</includeonly>}}}|{{#if:{{{text|}}}|<span id="coordinates_3_ObenRechts">}}<span id="coordinates" class="coordinates" style="background:#FFC;">Koordinaten fehlen! [[Wikipedia:WikiProjekt Georeferenzierung|Hilf mit.]]</span>{{#if:{{{text|}}}|</span>}}
+}}<noinclude>{{Dokumentation}}</noinclude>
