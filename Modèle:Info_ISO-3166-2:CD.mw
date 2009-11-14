@@ -1,0 +1,17 @@
+{{#switch: {{lc:{{{1|}}} }}
+ |continent = Afrika
+<!--Administration-->
+ |level   = 0
+ |maxlevel= 1
+ |acronym = CD
+ |top     = CD
+ |upper   = 
+ |lemma   = Republiki Demokratiki ya Kongó
+ |admname = Republiki Demokratiki ya Kongó
+ |admtype = Republiki
+ |0       = Republiki Demokratiki ya Kongó
+ |1       = 
+ |2       = 
+ |map     = Demokratische Republik Kongo
+ |flag    = Flag of the Democratic Republic of the Congo.svg
+}}<noinclude>{{Info ISO-3166-2/Info}}</noinclude>
