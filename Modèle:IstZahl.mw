@@ -1,0 +1,10 @@
+<onlyinclude>{{#ifeq:{{#iferror:{{#expr:{{#switch:{{{2|}}}<!--
+| R 
+|#default= -->
+| R+ =  abs
+| R- = -abs
+| Z  = trunc
+| Z+ 
+| N  =  abs trunc
+| Z- = -abs trunc}}({{{1}}}) = ({{{1}}}) {{#if:{{{3|}}} | round ({{{3}}}) }} }} | }} | 1 | 1 | }}</onlyinclude>
+{{Dokumentation}}
