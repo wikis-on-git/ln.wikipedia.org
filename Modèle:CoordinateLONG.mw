@@ -1,0 +1,45 @@
+{{#if:{{ParmPart|4|{{{1|}}}}}{{ParmPart|3|{{{1|}}}}}{{ParmPart|2|{{{1|}}}}}
+|{{#switch:{{ParmPart|4|{{{1|}}}}}
+ ||O|E|W={{#ifeq: {{IstZahl|0{{ParmPart|3|{{{1|}}}}}|R+}}<!-- 
+                 -->{{IstZahl|0{{ParmPart|2|{{{1|}}}}}|{{#if:{{ParmPart|3|{{{1|}}}}}|N|R+}}}}<!--
+                 -->{{IstZahl|0{{ParmPart|1|{{{1|}}}}}|N}}|111
+  |{{#ifexpr: (0{{ParmPart|3|{{{1|}}}}})>=60
+   |<span class="error"> Längensekunden >= 60 </span>
+   |{{#ifexpr: (0{{ParmPart|2|{{{1|}}}}})>=60
+    |<span class="error"> Längenminuten >= 60 </span>
+    |{{#expr:
+(({{#ifeq:{{uc:{{ParmPart|4|{{{1|}}}}}}}|W|-}}
+  ((0{{ParmPart|3|{{{1|}}}}})/3600
+  +(0{{ParmPart|2|{{{1|}}}}})/60
+  +(0{{ParmPart|1|{{{1|}}}}})
+  )
+ -180
+ )
+-((({{#ifeq:{{uc:{{ParmPart|4|{{{1|}}}}}}}|W|-}}
+    ((0{{ParmPart|3|{{{1|}}}}})/3600
+    +(0{{ParmPart|2|{{{1|}}}}})/60
+    +(0{{ParmPart|1|{{{1|}}}}})
+    )
+   -180
+   )/360
+  -.5
+  )round 0
+ )*360
+-180
+)}}
+    }}
+   }}
+  |<span class="error"> Längengrad: DMS-Formatfehler </span>
+  }}
+ |#default= <span class="error"> Längengrad: unbekannte Himmelsrichtung ›{{ParmPart|4|{{{1|}}}}}‹ </span>
+ }}
+|{{#if:{{ParmPart|1|{{{1|}}}}}
+ |{{#expr:
+(((0{{ParmPart|1|{{{1|}}}}}) -180)
+-((((0{{ParmPart|1|{{{1|}}}}}) -180)/360
+  -.5
+  )round 0
+ )*360
+-180
+)}}
+}}}}<noinclude>{{Dokumentation}}</noinclude>
