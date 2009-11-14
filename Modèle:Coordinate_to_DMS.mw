@@ -1,0 +1,48 @@
+<onlyinclude><!--{{#if:{{{label|}}}|DMS:&nbsp;}}
+--><span title="Breitengrad">{{#if:{{{sortkey|}}}|{{#ifexpr:abs {{{NS|0}}}<10|0}}}}{{#ifexpr:(0{{{dim|}}})>500000
+|{{#expr:abs({{{NS|0}}} round 0) mod 180}}°&nbsp;
+|{{#ifexpr:(0{{{dim|}}})> 10000
+|{{#expr:abs(60*{{{NS|0}}} round 0)/60 mod 180}}°&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(60*{{{NS|0}}} round 0) mod 60|0}}}}{{#expr:abs(60*{{{NS|0}}} round 0) mod 60}}′&nbsp;
+|{{#expr:abs(3600*{{{NS|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/3600 mod 180}}°&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(3600*{{{NS|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/60 mod 60|0}}}}<!--
+-->{{#expr:abs(3600*{{{NS|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/60 mod 60}}′&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(360000*{{{NS|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 6000 div 100|0}}}}<!--
+-->{{formatnum:{{#expr:abs(360000*{{{NS|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 6000 div 100}}}}{{#if:{{{sortkey|}}}{{#switch:{{#expr:( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))}}
+|0|-0={{#ifexpr:0=abs(360000*{{{NS|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 100|,0}}{{#ifexpr:0=abs(360000*{{{NS|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 10|0}}
+|-1={{#ifexpr:0=abs(360000*{{{NS|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 100|,0}}
+}}}}″&nbsp;
+}}
+}}{{#ifexpr:({{{NS|0}}})<0|S<!--span title=Süd>S</span-->|N<!--span title=Nord>N</span-->}}</span><!--
+-->{{#ifexpr:abs({{{NS|0}}})<90|, <span title="Längengrad"><!--
+-->{{#if:{{{sortkey|}}}|{{#switch:{{#expr:floor (ln abs {{{EW|0}}} / ln 10)}}|2=|1=0|#default=00}}}}{{#ifexpr:(0{{{dim|}}})>500000
+|{{#expr:abs({{{EW|0}}} round 0) mod 360}}°&nbsp;
+|{{#ifexpr:(0{{{dim|}}})> 10000
+|{{#expr:abs(60*{{{EW|0}}} round 0)/60 mod 360}}°&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(60*{{{EW|0}}} round 0) mod 60|0}}}}{{#expr:abs(60*{{{EW|0}}} round 0) mod 60}}′&nbsp;
+|{{#expr:abs(3600*{{{EW|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/3600 mod 360}}°&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(3600*{{{EW|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/60 mod 60|0}}}}<!--
+-->{{#expr:abs(3600*{{{EW|0}}} round
+ (2-2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25)))/60 mod 60}}′&nbsp;{{#if:{{{sortkey|}}}
+|{{#ifexpr:10 > abs(360000*{{{EW|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 6000 div 100|0}}}}<!--
+-->{{formatnum:{{#expr:abs(360000*{{{EW|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 6000 div 100}}}}{{#if:{{{sortkey|}}}{{#switch:{{#expr:( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))}}
+|0|-0={{#ifexpr:0=abs(360000*{{{EW|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 100|,0}}{{#ifexpr:0=abs(360000*{{{EW|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 10|0}}
+|-1={{#ifexpr:0=abs(360000*{{{EW|0}}} round
+ ( -2*((1{{{dim|}}})=1)-((0{{{dim|}}})>250)-((0{{{dim|}}})>25))) mod 100|,0}}
+}}}}″&nbsp;
+}}
+}}{{#ifexpr:{{{EW|0}}}<0|W<!--span title=West>W</span-->|O<!--span title=Ost>O</span-->}}</span>}}</onlyinclude>{{Dokumentation}}
