@@ -1,0 +1,29 @@
+{{#if:{{{text|}}}   |<span id="{{#if:{{{name|}}}|{{{name}}}|text coordinates}}" class="coordinates" style="background:#FFC" >Koordinaten fehlen! [[Wikipedia:WikiProjekt Georeferenzierung|Hilf mit.]]</span>
+}}
+{{#if:{{{article<includeonly>|</includeonly>}}}|{{#if:{{{text|}}}|<span id="coordinates_3_ObenRechts">}}<span id="coordinates" class="coordinates"  style="background:#FFC">Koordinaten fehlen! [[Wikipedia:WikiProjekt Georeferenzierung|Hilf mit.]]</span>{{#if:{{{text|}}}|</span>}}
+}}{{#if:{{NAMESPACE}}|<!--void-->
+|{{#if:{{ParmPart|1|{{{region|}}}}}{{ParmPart|2|{{{region|}}}}}{{ParmPart|3|{{{region|}}}}}{{ParmPart|4|{{{region|}}}}}
+ |{{#if:{{ParmPart|1|{{{region|}}}}}
+  |{{#ifexist:Kategorie:Geographische Lage gewünscht ({{ParmPart|1|{{{region|}}}}})
+   |[[Kategorie:Geographische Lage gewünscht ({{ParmPart|1|{{{region|}}}}})]]
+   |[[Kategorie:Geographische Lage gewünscht {{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}}|??=|({{Info ISO-3166-2|code={{ParmPart|1|{{{region|}}}}}|top}})}}]]
+   }}
+  }}{{#if:{{ParmPart|2|{{{region|}}}}}
+  |{{#ifexist:Kategorie:Geographische Lage gewünscht ({{ParmPart|2|{{{region|}}}}})
+   |[[Kategorie:Geographische Lage gewünscht ({{ParmPart|2|{{{region|}}}}})]]
+   |[[Kategorie:Geographische Lage gewünscht {{#switch:{{Info ISO-3166-2|code={{ParmPart|2|{{{region|}}}}}|top}}|??=|({{Info ISO-3166-2|code={{ParmPart|2|{{{region|}}}}}|top}})}}]]
+   }}
+  }}{{#if:{{ParmPart|3|{{{region|}}}}}
+  |{{#ifexist:Kategorie:Geographische Lage gewünscht ({{ParmPart|3|{{{region|}}}}})
+   |[[Kategorie:Geographische Lage gewünscht ({{ParmPart|3|{{{region|}}}}})]]
+   |[[Kategorie:Geographische Lage gewünscht {{#switch:{{Info ISO-3166-2|code={{ParmPart|3|{{{region|}}}}}|top}}|??=|({{Info ISO-3166-2|code={{ParmPart|3|{{{region|}}}}}|top}})}}]]
+   }}
+  }}{{#if:{{ParmPart|4|{{{region|}}}}}
+  |{{#ifexist:Kategorie:Geographische Lage gewünscht ({{ParmPart|4|{{{region|}}}}})
+   |[[Kategorie:Geographische Lage gewünscht ({{ParmPart|4|{{{region|}}}}})]]
+   |[[Kategorie:Geographische Lage gewünscht {{#switch:{{Info ISO-3166-2|code={{ParmPart|4|{{{region|}}}}}|top}}|??=|({{Info ISO-3166-2|code={{ParmPart|4|{{{region|}}}}}|top}})}}]]
+   }}
+  }}
+ |[[Kategorie:Geographische Lage gewünscht]]
+ }}[[Kategorie:Geographische Lage gewünscht ({{#switch:{{{type|}}} |state|adm1st|adm2nd|city|isle|airport|mountain|waterbody|forest|landmark={{{type}}}|#default=-}})]]
+}}<noinclude>{{Dokumentation}}</noinclude>
