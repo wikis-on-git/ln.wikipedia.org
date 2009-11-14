@@ -22,7 +22,7 @@
 }}}}″&nbsp;
 }}
 }}{{#ifexpr:({{{NS|0}}})<0|S<!--span title=Süd>S</span-->|N<!--span title=Nord>N</span-->}}</span><!--
--->{{#ifexpr:abs({{{NS|0}}})<90|, <span title="Längengrad"><!--
+-->{{#ifexpr:abs({{{NS|0}}})<90|, <span title="Longitude"><!--
 -->{{#if:{{{sortkey|}}}|{{#switch:{{#expr:floor (ln abs {{{EW|0}}} / ln 10)}}|2=|1=0|#default=00}}}}{{#ifexpr:(0{{{dim|}}})>500000
 |{{#expr:abs({{{EW|0}}} round 0) mod 360}}°&nbsp;
 |{{#ifexpr:(0{{{dim|}}})> 10000
