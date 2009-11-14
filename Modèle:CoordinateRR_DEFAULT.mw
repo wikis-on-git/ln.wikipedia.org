@@ -1,0 +1,18 @@
+{{#switch:{{Info ISO-3166-2|code={{ParmPart|1|{{{1|}}}}}|top}}
+||LI|CH|GB={{#switch:{{Info ISO-3166-2|code={{ParmPart|2|{{{1|}}}}}|top}}
+ ||LI|CH|GB={{#switch:{{Info ISO-3166-2|code={{ParmPart|3|{{{1|}}}}}|top}}
+  |||LI|CH|GB={{#switch:{{Info ISO-3166-2|code={{ParmPart|4|{{{1|}}}}}|top}}||LI|CH|GB=|#default=DMS/}}
+  |#default=DMS/}}
+ |#default=DMS/}}
+|#default=DMS/}}{{#switch:CH
+ |{{Info ISO-3166-2|code={{ParmPart|1|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|2|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|3|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|4|{{{1|}}}}}|top}}=CH1903/CH1903
+ |#default={{#switch:LI
+ |{{Info ISO-3166-2|code={{ParmPart|1|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|2|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|3|{{{1|}}}}}|top}}
+ |{{Info ISO-3166-2|code={{ParmPart|4|{{{1|}}}}}|top}}=CH1903/CH1903
+ |#default=DMS/DMS
+}}}}<noinclude>{{Dokumentation}}</noinclude>
