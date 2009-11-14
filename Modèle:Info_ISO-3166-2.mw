@@ -1,0 +1,14 @@
+{{#if:{{{code|}}}|{{#switch:{{Info ISO-3166-2:{{{code}}}|level}}
+|0|1|2={{Info ISO-3166-2:{{{code}}}|{{#switch:{{{1|}}}
+  |name={{Info ISO-3166-2:{{{code}}}|level}}
+  |adm2nd=2
+  |adm1st=1
+  |state|country=0
+  |#default={{{1|}}}
+  }}
+ }}
+|#default={{Info ISO-3166-2:??|{{{1|}}}}}
+}}}}<noinclude>
+{{Tausendfach verwendet}}
+{{Dokumentation}}
+</noinclude>
