@@ -4,7 +4,7 @@ Diese Seite bindet sich selber ein. Da die Seite noch nicht existiert, kommt es 
 }}}}}}</includeonly>__NOEDITSECTION__<!-- führt sonst zu einem Absatz
 -->== Beschreibung ==
 
-Diese [[Hilfe:Vorlagen|Vorlage]] enthält Daten auf der Basis der <includeonly>{{#ifexpr:0{{{{PAGENAME}}|maxlevel}}>0|[[{{#switch:{{{{PAGENAME}}|top}}|XA|XI|XN|XO|XP|XS=WP:}}ISO 3166-2:{{{{PAGENAME}}|top}}]]-Liste|{{#switch:{{{{PAGENAME}}|top}}|XA|XI|XN|XO|XP|XS=[[Vorlage:Coordinate#Ozeane|Einteilung der Ozeane]]|#default=[[ISO-3166-1-Kodierliste]]}}}}</includeonly> unter Verwendung von [[Vorlage:Info ISO-3166-2]].
+Diese [[Hilfe:Vorlagen|Vorlage]] enthält Daten auf der Basis der <includeonly>{{#ifexpr:0{{{{PAGENAME}}|maxlevel}}>0|[[{{#switch:{{{{PAGENAME}}|top}}|XA|XI|XN|XO|XP|XS=WP:}}ISO 3166-2:{{{{PAGENAME}}|top}}]]-Liste|{{#switch:{{{{PAGENAME}}|top}}|XA|XI|XN|XO|XP|XS=[[Modèle:Coordinate#Ozeane|Einteilung der Ozeane]]|#default=[[ISO-3166-1-Kodierliste]]}}}}</includeonly> unter Verwendung von [[Modèle:Info ISO-3166-2]].
 
 {| class="wikitable"
 |+ Infos zu ISO-Code <includeonly>{{{{PAGENAME}}|top}}{{#ifexpr:0{{{{PAGENAME}}|level}}>0|-{{{{PAGENAME}}|acronym}}}}</includeonly>
@@ -46,7 +46,7 @@ Diese [[Hilfe:Vorlagen|Vorlage]] enthält Daten auf der Basis der <includeonly>{
 </includeonly>
 |}
 
-== Siehe auch ==
+== Tálá mpé ==
 *[[ISO 3166-2]]
 <includeonly><!-- Wartungslinks -->
 {{#if:{{{{PAGENAME}}|map}}|{{#ifexist:Vorlage:Positionskarte {{{{PAGENAME}}|map}}|<!--null-->|<span style="display:none;">[[Vorlage:Info ISO-3166-2/Info/map missing]]</span>}}|<span style="display:none;">[[Vorlage:Info ISO-3166-2/Info/no map]]</span>
