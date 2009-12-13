@@ -9,11 +9,11 @@ Tálá mpé : [[Wikipedia:Bot/Libómbí]] (Archive)
 === [[Utilisateur:SoxBot|SoxBot]] ===
 Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm asking to give [[Utilisateur:SoxBot|my bot]] a bot flag, then I'll update interwiki links, I'll scan English Wikipedia always. If it done or if there are any questions about it, please [{{fullurl:en:User talk:Soxred93|action=edit&section=new}} notice me] in my English talk page. Thank you!--[[Spécial:Contributions/90.148.255.188|90.148.255.188]] 17 febwáli 2008 à 17:33 (UTC)
 
-*'''Operator:''' [[:en:User:Soxred93|Soxred93]]
-*'''Function:''' interwiki link maintenance
-*'''Operation:''' automatique
-*'''Software:''' Python
-*'''Already has bot flag on:''' [[:User:SoxBot|en]]
+* '''Operator:''' [[:en:User:Soxred93|Soxred93]]
+* '''Function:''' interwiki link maintenance
+* '''Operation:''' automatique
+* '''Software:''' Python
+* '''Already has bot flag on:''' [[:User:SoxBot|en]]
 
 ==== Ɛ́ɛ́ (oui/yes) ====
 * --[[Utilisateur:Eruedin|Etienne (Bombo)]] 17 febwáli 2008 à 18:57 (UTC)
@@ -47,11 +47,11 @@ Hello! I'm [[:en:User:Soxred93|Soxred93]] from English edition of Wikipedia. I'm
 *
 
 === [[Utilisateur:Darkicebot|Darkicebot]] ===
-*'''Operator''': [[:simple:User:Razorflame]]
-*'''Function''': interwiki
-*'''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
-*'''Software:''' standard [[:meta:pywikipedia|pywikipediabot]] updated daily.
-*'''Has bot flags on:'''simple, it, es, fr, az, en, de, pt, bs, vec, ca, sv, vo, uk, ru, az, ar, ku, he, nl, hu, fi, eo, sk, ja, gl, vi, zh, pl, oc, id, an, jv, sr, cy, lb, mt, am
+* '''Operator''': [[:simple:User:Razorflame]]
+* '''Function''': interwiki
+* '''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
+* '''Software:''' standard [[:meta:pywikipedia|pywikipediabot]] updated daily.
+* '''Has bot flags on:'''simple, it, es, fr, az, en, de, pt, bs, vec, ca, sv, vo, uk, ru, az, ar, ku, he, nl, hu, fi, eo, sk, ja, gl, vi, zh, pl, oc, id, an, jv, sr, cy, lb, mt, am
 This bot will be making anywheres between 4 and 12 edits per minute.  If you require any test edits or if you grant or deny the flag, please contact me on my talk page over on Simple English Wikipedia: [[:simple:User talk:Razorflame]].  Thank you! [[Utilisateur:Darkicebot|Darkicebot]] 18 febwáli 2009 à 01:57 (UTC)
 
 ==== Ɛ́ɛ́ (oui/yes) ====
@@ -78,11 +78,11 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 
 === [[Utilisateur:GhalyBot|GhalyBot]] ===
 I would like to ask for a Bot flag for GhalyBot
-*'''Operator''': [[:en:User:Ghaly|Ghaly]]
-*'''Function''': interwiki
-*'''Operation''': automatic 
-*'''Software:''' [[:meta:pywikipedia|pywikipediabot]]
-*'''Has bot flags on:global and on '''[http://toolserver.org/~vvv/sulutil.php?user=GhalyBot (ar, arz, ceb, cs, cy, da, de, en, es, et, fi, fr, gl, he, hu, id, it, ja, ka, mk, ml, ms, nl, nn, pl, pt, ro , ru, simple, sk, sl, sr, sv, th, tr, vo ,wuu, zh)]
+* '''Operator''': [[:en:User:Ghaly|Ghaly]]
+* '''Function''': interwiki
+* '''Operation''': automatic 
+* '''Software:''' [[:meta:pywikipedia|pywikipediabot]]
+* '''Has bot flags on:global and on '''[http://toolserver.org/~vvv/sulutil.php?user=GhalyBot (ar, arz, ceb, cs, cy, da, de, en, es, et, fi, fr, gl, he, hu, id, it, ja, ka, mk, ml, ms, nl, nn, pl, pt, ro , ru, simple, sk, sl, sr, sv, th, tr, vo ,wuu, zh)]
 
 Thank you ! ------[[Utilisateur:Ghaly|Ghaly]] 21 mársi 2009 à 19:05 (UTC)
 ==== Ɛ́ɛ́ (oui/yes) ====
@@ -92,13 +92,13 @@ Thank you ! ------[[Utilisateur:Ghaly|Ghaly]] 21 mársi 2009 à 19:05 (UTC)
 ==== Tɛ́ (non, no) ====
 *
 
-=== [[User:TjBot|TjBot]] ===
+=== [[Utilisateur:TjBot|TjBot]] ===
 
 Hello, I'd like to request for a bot flag.
-*'''Operator:''' [[:id:User:Tjmoel]]
-*'''Purpose:''' Adding/modifying interwiki links
-*'''Software:''' Pywikipediabot
-*'''Already has bot flag on:''' id.wikipedia. [http://toolserver.org/~vvv/sulutil.php?user=TjBot Other flag]
+* '''Operator:''' [[:id:User:Tjmoel]]
+* '''Purpose:''' Adding/modifying interwiki links
+* '''Software:''' Pywikipediabot
+* '''Already has bot flag on:''' id.wikipedia. [http://toolserver.org/~vvv/sulutil.php?user=TjBot Other flag]
 :I do hope that I will be granted for bot flag, if possible. Thanks. Regards, [[Utilisateur:Tjmoel|Tjmoel]] 19 novɛ́mbɛ 2009 à 07:35 (UTC)
 
 ==== Ɛ́ɛ́ (oui/yes) ====
@@ -112,7 +112,7 @@ Hello, I'd like to request for a bot flag.
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
 Please read the text at [[m:Bot policy]] before commenting. If you object, please say so; it will be implemented in one week if there is no objection, since it is particularly written to streamline bot requests on wikis with little or no community interested in bot access requests. <small>—[[m:user:Pathoschild/s|Pathoschild]] 19:15, 12 sɛtɛ́mbɛ 2007 (UTC)</small>
-:*nazalí kondima (=OK) --[[Utilisateur:Eruedin|Etienne (Bombo)]] 21:18, 12 sɛtɛ́mbɛ 2007 (UTC)
+:* nazalí kondima (=OK) --[[Utilisateur:Eruedin|Etienne (Bombo)]] 21:18, 12 sɛtɛ́mbɛ 2007 (UTC)
 
 : '''Done.''' <small>—[[m:user:Pathoschild/s|Pathoschild]] 23:27, 20 sɛtɛ́mbɛ 2007 (UTC)</small>
 
@@ -196,7 +196,6 @@ Does anyone object to allowing global bots on this wiki? I'll update the local p
 [[lt:Vikipedija:Botai]]
 [[map-bms:Wikipedia:Bot]]
 [[mdf:Википедиесь:Робот програпне]]
-[[mhr:Wikipedia:Бот-влак]]
 [[mi:Wikipedia:Karetao]]
 [[ml:വിക്കിപീഡിയ:യന്ത്രം]]
 [[ms:Wikipedia:Bot]]
