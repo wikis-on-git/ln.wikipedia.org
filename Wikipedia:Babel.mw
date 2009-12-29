@@ -102,16 +102,16 @@ Remarquer que, dans l'illustration ci-contre, les catégories ne sont volontaire
 Si vous avez besoin de créer des modèles pour une langue :
 :'''1.''' Créer la catégorie « mère » <nowiki>[[Category:User ??]]</nowiki> (liée à la catégorie supérieure [[:Category:Wikipediens par langue]]),
 :'''2.''' Créer les quatre catégories « filles » :
-::*<nowiki>[[Category:User ??-M]]</nowiki> (langue maternelle)
-::*<nowiki>[[Category:User ??-3]]</nowiki> (niveau avancé)
-::*<nowiki>[[Category:User ??-2]]</nowiki> (niveau intermédiaire)
-::*<nowiki>[[Category:User ??-1]]</nowiki> (niveau de base)
+::* <nowiki>[[Category:User ??-M]]</nowiki> (langue maternelle)
+::* <nowiki>[[Category:User ??-3]]</nowiki> (niveau avancé)
+::* <nowiki>[[Category:User ??-2]]</nowiki> (niveau intermédiaire)
+::* <nowiki>[[Category:User ??-1]]</nowiki> (niveau de base)
 ::chacune liée à la catégorie « mère » <nowiki>[[Category:User ??]]</nowiki>
 :'''3.''' Créer les quatre modèles :
-::*<nowiki>{{Modèle:User ??}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-M]]</nowiki>
-::*<nowiki>{{Modèle:User ??-3}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-3]]</nowiki>
-::*<nowiki>{{Modèle:User ??-2}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-2]]</nowiki>
-::*<nowiki>{{Modèle:User ??-1}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-1]]</nowiki>
+::* <nowiki>{{Modèle:User ??}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-M]]</nowiki>
+::* <nowiki>{{Modèle:User ??-3}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-3]]</nowiki>
+::* <nowiki>{{Modèle:User ??-2}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-2]]</nowiki>
+::* <nowiki>{{Modèle:User ??-1}}</nowiki>, lié à la <nowiki>[[Category:User ??]]</nowiki> et à la <nowiki>[[Category:User ??-1]]</nowiki>
 :'''4.''' Créer l'« éventail » des modèles d'une langue dans une sous-page <nowiki>[[Wikipédia:Babel/??]]</nowiki> en saisissant simplement, dans la sous-page, <nowiki>{{éventail langue|??}}</nowiki> ?? = préfixe de la langue
 :'''5.''' Créer ci-dessous, si elle n'est pas préexistante, la section consacrée à une langue, en utilisant simplement, dans la section « Langues » ci-dessous, le modèle {{m|sommaire langue}}, avec la syntaxe :
 ::'''<nowiki>{{sommaire langue | préfixe | nom de la langue (dans la langue) | nom de la langue (en français)}}</nowiki>'''
@@ -213,11 +213,10 @@ Classées, comme sur la plupart des wikis, par ordre alphabétique du préfixe d
 {{sommaire langue|yi|ייִדיש [Yidish]|yiddish}}
 {{sommaire langue|zh|中文 [zhōngwén]|langue chinoise}}
 {{sommaire langue|zh-min-nan|Bân-lâm-gú|minnan}}
-
-[[Catégorie:Wikipédia|Babel]]
-
 <!-- Liens interlangues : les interwikis ne sont pas classés, sur le Wikipédia francophone, d'après les préfixes de langue, mais d'après le nom de la langue. S'il vous plaît, ne touchez pas à l'ordre existant. -->
 <!-- Interlanguage links: interwikis are not ordered, on French Wikipedia, by language codes, but by language names. Please leave the order as it is. -->
+
+[[Catégorie:Wikipédia|Babel]]
 
 [[af:Wikipedia:Babel]]
 [[als:Wikipedia:Babel]]
@@ -288,13 +287,13 @@ Classées, comme sur la plupart des wikis, par ordre alphabétique du préfixe d
 [[ms:Wikipedia:Babel]]
 [[mt:Wikipedija:Babel]]
 [[na:Wikipedia:Babel]]
-[[nah:Huiquipedia:Babel]]
 [[nds:Wikipedia:Babel]]
 [[nds-nl:Wikipedie:Babel]]
 [[nl:Wikipedia:Babel]]
 [[nn:Wikipedia:Babel]]
 [[no:Wikipedia:Babel]]
 [[os:Википеди:Вавилон]]
+[[pcd:Wikipédia:Babel]]
 [[pdc:Wikipedia:Babel]]
 [[pl:Wikipedia:Wieża Babel]]
 [[pt:Wikipedia:Babel]]
@@ -327,6 +326,7 @@ Classées, comme sur la plupart des wikis, par ordre alphabétique du préfixe d
 [[war:Wikipedia:Babel]]
 [[wuu:Wikipedia:巴别]]
 [[yi:װיקיפּעדיע:באבעל]]
+[[yo:Wikipedia:Babel]]
 [[zh:Wikipedia:巴別]]
 [[zh-classical:維基大典:Babel]]
 [[zh-min-nan:Wikipedia:Babel]]
