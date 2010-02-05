@@ -1,0 +1,38 @@
+<noinclude>
+Ce modèle permet de présenter une '''palette de navigation pour les articles sur l’histoire du Congo-Kinshasa.<br />
+Vous pouvez l'utiliser, généralement à la fin d'un article, en indiquant : {{m|HistoireRDC}}
+
+== Rendu dans les articles ==
+</noinclude><br style="clear:both;line-height:0.5em;"/>
+<div style="width: 80%; margin: auto; background-color:#f7f8ff; padding:5px; border:1px solid #8888aa; border-right-width: 2px; border-bottom-width: 2px; line-height: 1.5em">
+{| style="background:#ccccff" align="center" width="100%" padding="5px" |
+| [[Image:DRC History Logo.png|50px]] || style="text-align: center; width:100%" | '''[[Lisapo lya Kongó-Kinsásá]]''' || [[Image:DRC History Logo.png|50px]]
+|}
+<div style="width:95%; margin: auto; text-align: center; line-height: 120%">
+[[Ntángo ya banɔ́kɔ́ (Kongó-Kinsásá)|Ntángo ya banɔ́kɔ́]] ·
+[[Congo précolonial]] <small>(avant 1867)</small> ·
+[[Colonisation du Congo]] <small>(1867-1885)</small> ·
+[[Lɛ́ta ya nsɔ́mi ya Kongó]] <small>(1885-1908)</small> ·
+[[Kongó ya Bɛ́lɛjika]] <small>(1908-1960)</small> ·
+[[Crise congolaise|1ère République]] <small>Indépendance (1960-1965)</small> ·
+[[Zaïre|2e République]] <small>Zaïre (1965-1996)</small> ·
+[[Troisième République (République démocratique du Congo)|3e République]] <small>(2006-)</small>
+<p>
+[[Liste des gouvernements de la République démocratique du Congo#Gouvernement de Salut public|Gouvernement de Salut public]] <small>(1997-2003)</small> ·
+[[Gouvernement de transition de la République démocratique du Congo|Gouvernement de transition]] <small>(2003-2006)</small>
+<p>
+[[*Atrocités ya Kongó]] <small>(1888–1908)</small> ·
+[[Crise congolaise]] <small>(1960-1965)</small> ·
+[[Ɛtumba ya Katanga mpé Kasai]] <small>(1960–1961)</small> ·
+[[Ɛtumba ya bai mboka mpé *Révolte ya Simba]] <small>(1961–1964)</small> ·
+[[Ɛtumba ya Shaba]] (1977–1978)</small> ·
+[[Ɛtumba ya Kongó ya libosó]] <small>(1996-1998)</small> ·
+[[Ɛtumba ya Kongó ya míbalé]] <small>(1998-2003)</small> ·
+[[Ɛtumba ya Kivu]] <small>(2003- )</small>
+
+</div>
+</div>
+<noinclude>
+[[Catégorie:Modèle RDC|Histoire]]
+[[en:Template:History of the DRC]]
+</noinclude>
