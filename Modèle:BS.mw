@@ -1,0 +1,30 @@
+<onlyinclude><includeonly>|-
+{{#if:{{{To|}}}{{{T|}}}|{{!}} style="text-align:center; padding:0; border:none; white-space:nowrap;" {{!}} <div style="position:relative; height:0;"><div style="position:absolute; left:0; right:0; top:0; width:100%; z-index:1; background-color:#F9F9F9;">[[Datei:BSicon {{#if:{{{To|}}}|{{{To}}}|{{{T}}}}}.svg|100x{{{PX|20px}}}]]</div></div>
+{{!}} style="padding:0; border:none;" {{!}}
+{{!}} style="padding:0; border:none;" {{!}}
+{{!}} style="padding:0; border:none;" {{!}}}}
+|-
+| style="text-align:center; padding:0; border:none; white-space:nowrap;" | <div style="position:relative; z-index:2; background-color:#F9F9F9;">[[Datei:BSicon {{{1|leer}}}.svg|100x{{{PX|20px}}}|{{BS/Texte|{{{1|leer}}}}}]]</div>
+| style="text-align:right; vertical-align:middle; padding:0 .5em; font-size:80%; white-space:nowrap; border:none;" {{{HI|}}}| {{#if: {{{km|}}}|{{{km}}}|{{{2|}}}}}
+| style="padding:0; border:none;" {{#if: {{{5|}}}||colspan="2"}} | {{{3|}}} <span style="font-size:80%;">{{{4|}}}</span>
+{{#if: {{{5|}}}|{{!}} style="text-align:right; padding:0 0 0 .5em; font-size:80%; white-space:nowrap; border:none;" {{!}} {{{5}}}|}}
+|-
+{{#if:{{{Tu|}}}{{{T|}}}|{{!}} style="text-align:center; padding:0; border:none; white-space:nowrap;" {{!}} <div style="position:relative; height:0;"><div style="position:absolute; left:0; right:0; bottom:0; width:100%; z-index:1; background-color:#F9F9F9;">[[Datei:BSicon {{#if:{{{Tu|}}}|{{{Tu}}}|{{{T}}}}}.svg|100x{{{PX|20px}}}]]</div></div>
+{{!}} style="padding:0; border:none;" {{!}}
+{{!}} style="padding:0; border:none;" {{!}}
+{{!}} style="padding:0; border:none;" {{!}}}}</includeonly></onlyinclude>
+
+{{Dokumentation}}
+[[Kategorie:Vom Druck ausschließen|{{PAGENAME}}]]
+[[en:Template:BS]]
+[[eo:Ŝablono:SP]]
+[[es:Plantilla:BS]]
+[[fr:Modèle:BS1bis]]
+[[hu:Sablon:BS]]
+[[ja:Template:BS]]
+[[ln:Modèle:BS]]
+[[nl:Sjabloon:SP]]
+[[no:Mal:JBS]]
+[[pt:Predefinição:BS]]
+[[sv:Mall:BS]]
+[[zh:Template:BS]]
