@@ -1,0 +1,133 @@
+<div style="margin:1em; padding:1em; border:solid 1px #ff0040; background-color:#ffffff;">
+{{Überschriftensimulation 2|Funktion}}
+
+Diese Vorlage gibt den Text der korrespondierenden [[Wikipedia:Formatvorlage Bahnstrecke#Bilderkatalog|ID]] zurück. Sie ist zur Verwendung in der [[Vorlage:BS]] gedacht und wird nicht direkt eingesetzt.
+
+</div>
+(Unvollständige) Liste verfügbarer Parameter:
+<pre>
+<onlyinclude>{{#switch: {{{1|}}}
+| BHF     = Bahnhof, Station
+| BHFq    = Bahnhof, Station – quer
+| KBHFa   = Kopfbahnhof – Streckenanfang
+| KBHFe   = Kopfbahnhof – Streckenende
+| KBFl    = Spitzkehrbahnhof – links
+| KBFr    = Spitzkehrbahnhof – rechts
+| SBHF    = S-Bahnhof
+| KSBHFa  = S-Kopfbahnhof – Streckenanfang
+| KSBHFe  = S-Kopfbahnhof – Streckenende
+| DST     = Bahnhof ohne Personenverkehr<!-– Dienststation, Betriebs- oder Güterbahnhof-->
+| KDSTa   = Dienst-/Güterbahnhof – Streckenanfang
+| KDSTe   = Dienst-/Güterbahnhof – Streckenende
+| HST     = Haltepunkt, Haltestelle
+| KHSTa   = Halt… – Streckenanfang
+| KHSTe   = Halt… – Streckenende
+| SHST    = S-Bahnhalt…
+| BST     = Blockstelle, Awanst, Anst, etc.
+| TBHFo   = Turmbahnhof – oben
+| TBHFu   = Turmbahnhof – unten
+| TBHFxo  = Turmbahnhof – oben
+| TBHFxu  = Turmbahnhof – unten
+| TSBHFo  = Turm-S-Bahnhof – oben
+| TSBHFu  = Turm-S-Bahnhof – unten
+| TSBHFxo = Turm-S-Bahnhof – oben
+| TSBHFxu = Turm-S-Bahnhof – unten
+| THSTo   = Turmhalt… – oben
+| THSTu   = Turmhalt… – unten
+| THSTxo  = Turmhalt… – oben
+| THSTxu  = Turmhalt… – unten
+| TSHSTo  = Turm-S-Bahnhalt… – oben
+| TSHSTu  = Turm-S-Bahnhalt… – unten
+| TSHSTxo = Turm-S-Bahnhalt… – oben
+| TSHSTxu = Turm-S-Bahnhalt… – unten
+| ABZlf = Abzweig – in Fahrtrichtung: nach links
+| ABZrf = Abzweig – in Fahrtrichtung: nach rechts
+| ABZlg = Abzweig – in Gegenrichtung: nach links
+| ABZrg = Abzweig – in Gegenrichtung: nach rechts
+| ABZdf = Abzweig – in Fahrtrichtung: nach links und rechts
+| ABZdg = Abzweig – in Gegenrichtung: nach links und rechts
+| ABZdrf = Abzweig – in Fahrtrichtung: geradeaus und nach rechts
+| ABZdlf = Abzweig – in Fahrtrichtung: geradeaus und nach links
+| ABZdrg = Abzweig – in Gegenrichtung: geradeaus und nach rechts
+| ABZdlg = Abzweig – in Gegenrichtung: geradeaus und nach links
+| ABZdl = Abzweig – von links in alle Fahrtrichtungen
+| ABZdr = Abzweig – von rechts in alle Fahrtrichtungen
+| ABZgl+l = Gleisdreieck – geradeaus, nach links, von links
+| ABZgl+xl = Gleisdreieck – geradeaus, nach links, ex von links
+| ABZgxl+l = Gleisdreieck – geradeaus, ex nach links, von links
+| ABZgr+r = Gleisdreieck – geradeaus, nach rechts, von rechts
+| ABZgr+xr = Gleisdreieck – geradeaus, nach rechts, ex von rechts
+| ABZgxr+r = Gleisdreieck – geradeaus, ex nach rechts, von rechts
+| ABZqlr = Gleisdreieck – quer, nach links, nach rechts
+| ABZqlxr = Gleisdreieck – quer, nach links, ex nach rechts
+| ABZqrxl = Gleisdreieck – quer, nach rechts, ex nach links
+| ABZq+lr = Gleisdreieck – quer; von links, von rechts
+| ABZq+lxr = Gleisdreieck – quer; von links, ex von rechts
+| ABZq+rxl = Gleisdreieck – quer; von rechts, ex von links
+| KRZ   = Kreuzung
+| KRZt  = Kreuzung mit Tunnelstrecke
+| KRZh  = Kreuzung mit Hochstrecke
+| KRZo  = Planfreie Kreuzung – oben
+| KRZu  = Planfreie Kreuzung – unten
+| STR   = Strecke – geradeaus
+| STRq  = Strecke – quer
+| STRlf = Strecke – in Fahrtrichtung: nach links
+| STRrf = Strecke – in Fahrtrichtung: nach rechts
+| STRlg = Strecke – in Gegenrichtung: nach links
+| STRrg = Strecke – in Gegenrichtung: nach rechts
+| STRr+l = Strecken – nach rechts & von links
+| STRl+r = Strecken – nach links & von rechts
+| ENDEa = Streckenende auf freier Strecke – Anfang
+| ENDEe = Streckenende auf freier Strecke – Ende
+| KMW   = Kilometer-Wechsel
+| ÜST   = A/D: Überleitstelle, CH: Spurwechsel
+| BS2l = Verschwenkung nach links
+| BS2r = Verschwenkung nach rechts
+| BS2+l = Verschwenkung von links
+| BS2+r = Verschwenkung von rechts
+| BS2lc = Verschwenkung nach links + Ecke
+| BS2rc = Verschwenkung nach rechts + Ecke
+| BS2+lc = Verschwenkung von links + Ecke
+| BS2+rc = Verschwenkung von rechts + Ecke
+| BS2c1 = Ecke (1. Quadrant)
+| BS2c2 = Ecke (2. Quadrant)
+| BS2c3 = Ecke (3. Quadrant)
+| BS2c4 = Ecke (4. Quadrant)
+| BRÜCKE = Brücke (groß)
+| BRÜCKE1 = Brücke (mittel)
+| BRÜCKE2 = Brücke (klein)
+| SBRÜCKE = Straßenbrücke
+| WBRÜCKE = Brücke über Wasserlauf (groß)
+| WBRÜCKE1 = Brücke über Wasserlauf (mittel)
+| WBRÜCKE2 = Brücke über Wasserlauf (klein)
+| WTUNNEL = Tunnel bzw. Unterführung unter Wasserlauf
+| TUNNEL1 = Tunnel
+| TUNNEL2 = Tunnel – bei mehreren Tunneln in Folge
+| TUNNELa = Tunnel – Anfang
+| TUNNELe = Tunnel – Ende
+| BUE   = Bahnübergang
+| GRENZE = Grenze
+| tGRENZE = Grenze im Tunnel
+| GRENZE+BRÜCKE = Grenze auf Brücke
+| GRENZE+WBRÜCKE = Grenze auf Brücke mit Wasserlauf
+| TRAJEKT = Fährverbindung
+| ÜWol  = Strecke nach links – oben
+| ÜWor  = Strecke nach rechts – oben
+| ÜWo+l = Strecke von links – oben
+| ÜWo+r = Strecke von rechts – oben
+| ÜWul  = Strecke nach links – unten
+| ÜWur  = Strecke nach rechts – unten
+| ÜWu+l = Strecke von links – unten
+| ÜWu+r = Strecke von rechts – unten
+| ÜWtl  = Strecke nach links – mit Tunnel
+| ÜWtr  = Strecke nach rechts – mit Tunnel
+| ÜWt+l = Strecke von links – mit Tunnel
+| ÜWt+r = Strecke von rechts – mit Tunnel
+| UKRZo = Planfreie Kreuzung – oben
+| UKRZu = Planfreie Kreuzung – unten
+| TurmHST = Turmhaltestelle<!-- alte ID -->
+| #default = 
+}}</onlyinclude>
+</pre>
+[[Kategorie:Vorlage:für Vorlagen|{{PAGENAME}}]]
+[[Kategorie:Vorlage:Infobox Bahnstrecke|{{PAGENAME}}]]
