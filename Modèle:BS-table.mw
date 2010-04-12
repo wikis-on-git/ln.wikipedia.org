@@ -1,0 +1,20 @@
+<includeonly>|-
+|colspan="2"|
+{| class="collapsible {{#ifeq:{{{affichage|enroulé}}}|enroulé|collapsed}}" cellpadding="0" cellspacing="0" style="margin:12px; background-color:transparent;{{{1|}}};"
+!colspan="4"|{{#if:{{{titre|}}}|{{{titre}}}|Schéma de la ligne}}
+|-
+|colspan="4"|<div style="text-align: right; border-top: 1px solid #AAA;">{{#ifeq:{{{légende}}}|non||<small>[[Wikipédia:Modèles/BS/Légende|Légende]]</small>}}</div>
+|-</includeonly><noinclude>
+{{Message élément BS}}
+
+[[Catégorie:Modèle ligne de chemin de fer|BS-table]]
+
+[[ar:قالب:بش-جدول]]
+[[en:Template:BS-table]]
+[[es:Plantilla:BS-table]]
+[[fa:الگو:BS-table]]
+[[id:Templat:BS-table]]
+[[ja:Template:BS-table]]
+[[ka:თარგი:BS-ცხრილი]]
+[[pt:Predefinição:BS-table]]
+</noinclude>
