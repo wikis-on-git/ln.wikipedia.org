@@ -1,0 +1,21 @@
+{|align="right" rules="all" cellpadding="3" cellspacing="0" style="margin: 0 0 1em 1em; border: 1px solid #999; background-color:{{{1|#F8F8F8}}};"
+! colspan="2" style="background:{{{2|#999999}}}; padding:5px;" align="center" |<font color="white" size="4"><span style="position:relative; float:right;"><imagemap>Image:Information-silk.svg|Comment lire une taxobox
+rect 0 0 50 50 [[Wikipédia:Lecture d'une taxobox]]
+desc none</imagemap></span>'''{{{4}}}'''</font>
+|-
+| colspan="2" align="center" style="padding:0px;background:{{{3|#CCCCCC}}};" | [[Image:{{#if:{{{5|}}}|{{{5}}}|Defaut.svg}}|250px]]
+|-
+! colspan="2" align="center" | <small>{{{6}}}</small>
+|-----
+! colspan="2" style="background:{{{3|#CCCCCC}}};" | [[{{{7}}}|Classification classique]]
+|-
+{{#ifeq:{{{9|}}}|phylo|<td colspan="2" align="center" style="padding:0px;"><table style="background:{{{1|#F8F8F8}}};"><tr><td valign="middle" style="padding-right:5px;">[[Image:danger.png{{!}}25px]]</td><td><small>Taxon inexistant en classification classique<br />Voir le texte pour plus d'information.</small></td></tr></table></td></tr>}}
+{{#ifeq:{{{9|}}}|phylo|<tr><td colspan="2" align="center" style="background:{{{3|#CCCCCC}}};">'''[[Classification phylogénétique]]'''</td></tr>}}
+{{#if:{{{10|}}}|<tr><td colspan="2" style="padding:0px; text-align:center;">[[Image:{{{10}}}|250px]]</td></tr>}}
+|-
+| [[Règne (biologie)|Règne]]
+| {{{8|non&nbsp;défini}}}
+|-
+<noinclude>
+{{Taxobox fin}}
+</noinclude>
