@@ -1,0 +1,19 @@
+{| cellspacing="0" cellpadding="0" style="font-size:99%; line-height:99%; text-align:right; color:inherit; background-color:transparent; margin-top:-1px; margin-bottom:-3px; padding:0; border:none; border-collapse:collapse;" align="right"
+| style="padding:0; border:none; border-bottom:1px solid gray;" | {{{1|}}}
+|-
+| style="padding:0; border:none;" | {{{2|}}}
+|}
+<noinclude>
+{| cellspacing="0" cellpadding="0" style="font-size:99%; line-height:99%; text-align:right; color:inherit; background-color:transparent; margin-top:-1px; margin-bottom:-1px; padding:0; border:none; border-collapse:collapse;"
+| style="padding:0; border:none; border-bottom:1px solid gray;" | km1
+|-
+| style="padding:0; border:none;" | km2
+|}
+
+Mini-Tabelle für BS-Tabellenfelder.
+
+Beispiel: <tt><nowiki>{{BS|KMW|{{BSkm|1.2|1.5}}|km-Wechsel}}</nowiki></tt>
+{{BS-Baustein-Hinweis}}
+[[cs:Šablona:BSkm]]
+[[hsb:Předłoha:ŽLkm]]
+</noinclude>
