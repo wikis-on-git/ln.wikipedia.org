@@ -4,16 +4,16 @@
 {| {{Railway line header}}
 {{BS-header|Nzelá-masíni ya Wɛlɛ}}
 {{BS-table}}
-{{BS3|BOOT|KBHFa|FLUG|187|[[Bumba]] Port ''[[Ebale Kɔ́ngɔ]]''}}
-{{BS3|BOOT|BHF||0|[[Aketi]] ''[[Itimbiri]]''}}
+{{BS3|BOOT|KBHFa|FLUG|0|[[Bumba]] Port ''[[Ebale Kɔ́ngɔ]]''}}
+{{BS3|BOOT|BHF||{{BSkm|187|0}}|[[Aketi]] ''[[Itimbiri]]''}}
 {{BS3||BHF||30|Komba}}
 {{BS3||ABZlf|STRlg||}}
 {{BS3||STR|BHF|87|Likati}}
 {{BS3||STR|KBHFe|151|[[Bondo]]}}
 {{BS3||BHF|||Dulia}}
-{{BS3|STRrg|ABZgr+r||131/0|Buta Triangle}}
+{{BS3|STRrg|ABZgr+r||{{BSkm|131|0}}|Buta Triangle}}
 {{BS3|KBHFe|STR||3|[[Buta]] Engumba}}
-{{BS3||BHF||259/0|Andoma (Liénart)}}
+{{BS3||BHF||{{BSkm|259|0}}|Andoma (Liénart)}}
 {{BS3||ABZlf|STRlg||}}
 {{BS3||STR|HST||}}
 {{BS3||STR|KBHFe|31|Titulé}}
