@@ -1,1 +1,7 @@
-
+<includeonly>|-
+{{#ifeq:{{{avant}}}|idem||{{!}} {{#if:{{{nbav|}}}|rowspan="{{{nbav}}}"}} align="center" bgcolor="{{{couleur1|#F9F9F9}}}"{{!}} '''{{#if:{{{avant|}}}|{{{avant}}}|-}}'''
+}}
+{{#ifeq:{{{nom}}}|idem||{{!}} {{#if:{{{nbno|}}}|rowspan="{{{nbno}}}"}} align="center" bgcolor="{{{couleur2|#F9F9F9}}}" style="padding:1px"{{!}} {{Centre dynastie|taille={{{taille|}}}|nom={{{nom}}}|période={{{période|}}}|icone={{{icone|}}}|iconeG={{{iconeG|}}}|iconeD={{{iconeD|}}}}}
+}}
+{{#ifeq:{{{après}}}|idem||{{!}} {{#if:{{{nbap|}}}|rowspan="{{{nbap}}}"}} align="center" bgcolor="{{{couleur3|#F9F9F9}}}"{{!}} '''{{#if:{{{après|}}}|{{{après}}}|-}}'''
+}}</includeonly><noinclude>{{/Documentation}}[[Catégorie:Exclure lors de l'impression]]</noinclude>
