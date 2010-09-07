@@ -1,0 +1,6 @@
+<includeonly>{| rules="all" align="center" cellpadding="2" border="1" style="width:{{{largeur|80}}}%; clear:both; margin:0.5em auto; background-color:#f7f8ff; border:1px solid #aaa;border-collapse: collapse;font-size: 95%;"
+|-
+! scope="col" width="30%" align="center" style="font-weight: normal" | Précédé{{#switch:{{{genre}}}|féminin=e|masculin=|}} par
+! scope="col" width="40%" align="center" | {{{nom|{{PAGENAME}}}}}
+! scope="col" width="30%" align="center" style="font-weight: normal" | Suivi{{#switch:{{{genre}}}|féminin=e|masculin=|}} par</includeonly><noinclude>
+{{/Documentation}}[[Catégorie:Exclure lors de l'impression]]</noinclude>
