@@ -1,0 +1,11 @@
+<includeonly>{|width="100%" align="center" border="0" cellspacing="0" cellpadding="0" style="background-color:transparent;padding-top:3px"
+|-
+{{#if:{{{icone|}}}|{{!}}align="center"{{!}}[[Image:{{{icone}}}{{!}}{{#if:{{{taille|}}}|{{{taille}}}|40}}x{{#if:{{{taille|}}}|{{{taille}}}|40}}px]]}}
+|-
+{{#if:{{{iconeG|}}}|{{!}}width="40" rowspan="2" align="center"{{!}}[[Image:{{{iconeG}}}{{!}}{{#if:{{{taille|}}}|{{{taille}}}|40}}px]]|{{#if:{{{iconeD|}}}|{{!}}width="40" rowspan="2" align="center"{{!}}[[Image:Transparent.gif{{!}}{{#if:{{{taille|}}}|{{{taille}}}|40}}px]]|}}|}}
+|align="center" {{#if:{{{période|}}}|style="vertical-align:bottom"}}|<b>{{{nom}}}</b>
+{{#if:{{{iconeD|}}}|{{!}}width="40" rowspan="2" align="center"{{!}}[[Image:{{{iconeD}}}{{!}}{{#if:{{{taille|}}}|{{{taille}}}|40}}px]]|{{#if:{{{iconeG|}}}|{{!}}width="40" rowspan="2" align="center"{{!}}[[Image:Transparent.gif{{!}}{{#if:{{{taille|}}}|{{{taille}}}|40}}px]]|}}|}}
+|-
+{{#if:{{{période|}}}|{{!}}align="center" style="vertical-align:top"{{!}}{{{période}}}}}
+|}</includeonly><noinclude>{{/Documentation}}[[Catégorie:Exclure lors de l'impression]]
+</noinclude>
