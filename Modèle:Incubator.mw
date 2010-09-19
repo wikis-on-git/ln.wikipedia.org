@@ -1,0 +1,48 @@
+{{Wikilien
+  |image=Incubator-notext.svg
+  |texte='''''[[:incubator:{{{prefix|Wp}}}/{{{code}}}| {{{language|{{PAGENAME}}}}} test]]''''' du [[{{{project|Wikipedia}}}]] sur [[Incubateur Wikimedia|Wikimedia Incubator]].
+  |couleur_fond = f9f9f9
+  |alignement=right
+}}<noinclude>
+{{Documentation modèle}}
+;Utilisation: Ceci est à placer à la fin d'un article consacré à une langue, de la même manière qu'un modèle InterWiki, mais pour tester des Wikipédias sur l'[[incubator:|incubateur (incubator)]]. 
+
+;Syntaxe: 
+ <nowiki>{{</nowiki>{{PAGENAME}}
+ |code={{Param|languagecode}}
+ |project={{Param|projectname}}
+ |language={{Param|languagename}}
+ |prefix={{Param|prefixstart}}
+ }}
+
+;Note: Écrire <code><nowiki>{{</nowiki>{{PAGENAME}}|code={{Param|languagecode}}}}</code> pour tester des Wikipédias. Si le test n'est pas un Wikipédia, ajouter <code>|project={{Param|projectname}}</code> à la fin (avant le <code>}}</code>). Si le nom de la langue diffère de celui de l'article, ajouter <code>|language={{Param|languagename}}</code>. Si le préfixe commence par autre chose que <code>Test-wp</code>, ajouter <code>|prefix={{Param|prefixstart}}</code>.
+
+;Exemple:
+{{Entête tableau "Code Rendu"}}
+|-
+|<center>([[Mapudungun (langue)]])</center>
+<code><nowiki>{{Incubator|code=arn}}</nowiki></code>
+|{{Incubator|code=arn}}
+|-
+|<code><nowiki>{{Incubator|prefix=Test-wp|code=qya}}</nowiki></code>
+|{{Incubator|prefix=Test-wp|code=qya}}
+|}
+
+<!--exemple d'utilisation : [[Mapudungun (langue)]] -->
+[[Catégorie:Modèle interwiki|{{PAGENAME}}]]
+[[Catégorie:Modèle de wikilien|{{PAGENAME}}]]
+[[af:Sjabloon:Broeikas]]
+[[ar:قالب:إنكوباتور]]
+[[cs:Šablona:Incubator]]
+[[de:Vorlage:Incubator]]
+[[el:Πρότυπο:Incubator]]
+[[en:Template:Incubator]]
+[[es:Plantilla:Incubator]]
+[[hi:साँचा:Incubator]]
+[[ja:Template:Incubator]]
+[[ko:틀:인큐베이터]]
+[[nl:Sjabloon:Incubator]]
+[[os:Шаблон:Инкубатор]]
+[[ru:Шаблон:Инкубатор]]
+[[zh:Template:Incubator]]
+</noinclude>
