@@ -1,0 +1,31 @@
+<!--
+[[Wikipédia:Projet, Charte graphique/Domaine géographique/Couleurs et niveaux administratifs]]
+-->
+{| align="right" rules="all" cellpadding="3" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 1px; border-bottom-width: 1px; background-color: #f3fff3"
+! colspan="2" style="background-color: #ddffdd" |
+{| style="background: #ddffdd" align="center" width="100%"
+| padding=0px|
+| style="background: #ddffdd" align="center" width="100%" |<font color=black size=4>'''{{{nom}}}'''
+| padding=0px|
+|}
+|-
+<!--
+| valign="top" colspan="2" align="center" bgcolor="white"| {{{carte}}}
+|-
+-->
+| valign="top"| [[Esé]] || align=center| {{#if: {{#expr: {{{image}}}}}|[[Image:{{{image}}}]]|}}[[{{{pays}}}]]
+|-
+| [[Etúká]] || align=center| {{{etúká}}}
+|-
+| valign="top"| [[Engumba]] || align=center| {{{engumba}}}
+|-
+| valign="top"| [[Bugumési]] || align=center| {{{bugumési}}}
+|-
+| valign="top"| [[Etando]] || align=center|<!-- {{{etando}}} ha<br />--> {{{supkm2}}} km²
+|-
+| [[Bato]]<br /> - motángo ([[Mbúla]])
+| align=center| {{{bato}}} bato <br /><small>({{{mbúla}}})</small>
+|-
+| valign="top"| [[Densité de population|Densité]] || align=center|{{#if: {{#expr:{{{bato}}}}}|{{#if:{{#expr:{{{etando}}}}}|{{#expr:{{{bato}}}/{{{etando}}}}}bato/km²|}}|}} 
+|}
+<noinclude>[[Category:Modèle Afrique|Engumba]]</noinclude>
