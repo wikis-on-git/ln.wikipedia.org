@@ -28,3 +28,32 @@
 |}
 <noinclude>[[Category:Modèle Afrique|Engumba]]</noinclude>
 [[Catégorie:Engumba]]
+
+<noinclude>Exemple:
+{{Modèle:Engumba
+|image  =BandeauKosice.png
+|drapeau=Flag_of_Slovakia.svg‎ 
+|pays   =Slovakia
+|etúká  =Košický kraj
+|engumba=Košice
+|bugumési=František Knapík
+|etando =243
+|bato   =235006
+|mbúla  =2007
+|carte  =Map slovakia kosice.png
+}}
+<nowiki>
+{{Modèle:Engumba
+|image  =BandeauKosice.png
+|drapeau=Flag_of_Slovakia.svg‎ 
+|pays   =Slovakia
+|etúká  =Košický kraj
+|engumba=Košice
+|bugumési=František Knapík
+|etando =243
+|bato   =235006
+|mbúla  =2007
+|carte  =Map slovakia kosice.png
+}}
+</nowiki>
+</noinclude>
