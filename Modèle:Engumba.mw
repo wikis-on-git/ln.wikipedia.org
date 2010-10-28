@@ -31,8 +31,7 @@
 <noinclude>Exemple:
 {{Modèle:Engumba
 |image  =BandeauKosice.png
-|drapeau=Flag_of_Slovakia.svg‎ 
-|pays   =Slovakia
+|esé   =Slovakia
 |etúká  =Košický kraj
 |engumba=Košice
 |bugumési=František Knapík
@@ -43,9 +42,8 @@
 }}
 <nowiki>
 {{Modèle:Engumba
-|image  =BandeauKosice.png
-|drapeau=Flag_of_Slovakia.svg‎ 
-|pays   =Slovakia
+|image  =BandeauKosice.png 
+|esé   =Slovakia
 |etúká  =Košický kraj
 |engumba=Košice
 |bugumési=František Knapík
