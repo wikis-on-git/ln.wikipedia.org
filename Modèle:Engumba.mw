@@ -11,7 +11,7 @@
 |-
 | valign="top" colspan="2" align="center" bgcolor="white"| {{#if: {{#expr:{{{image}}}}}|[[Image:{{{image}}}|200px]]|}}
 |-
-| valign="top"| [[Esé]] || align=center| {{#if: {{#expr: {{{esé}}}}}| {{Country flagicon| {{{esé}}}}}|}}
+| valign="top"| [[Esé]] || align=center| {{#if: {{#expr: {{{esé}}}}}| {{Country flagicon| {{{esé}}}}} [[{{{esé}}}]]|}}
 |-
 | [[Etúká]] || align=center| {{{etúká}}}
 |-
