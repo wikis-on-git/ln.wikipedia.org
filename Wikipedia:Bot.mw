@@ -137,6 +137,7 @@ done. —<small>[[m:User:Pathoschild|Pathoschild]] 23:32:02, 06 novɛ́mbɛ 2010
 </div>
 
 === [[User:WikitanvirBot|WikitanvirBot]] ===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
 
 Hello, I'd like to request for a bot flag.
 * '''Operator:''' [[:bn:User:Wikitanvir]]
@@ -147,10 +148,12 @@ Hello, I'd like to request for a bot flag.
 
 ==== Ɛ́ɛ́ (oui/yes) ====
 * Les test sont prométants --[[Utilisateur:Eruedin|Etienne (Bombo)]] 4 ɔkɔtɔ́bɛ 2010 à 08:30 (UTC)
-*
 
 ==== Tɛ́ (non, no) ====
-*
+* &mdash;
+
+Already [{{fullurl:m:Special:Log|page=User:WikitanvirBot@lnwiki}} done]. —<small>[[m:User:Pathoschild|Pathoschild]] 23:46:30, 06 novɛ́mbɛ 2010 (UTC)</small>
+</div>
 
 == Bot policy ==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
