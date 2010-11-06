@@ -43,6 +43,7 @@ Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global 
 </div>
 
 === [[Utilisateur:HerculeBot|HerculeBot]] ===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
 :'''Operator''':[[:fr:User:Hercule]]
 :'''Programming Language''': Java
 :'''Functions''':Interwiki, update interwikis after page renaming.
@@ -53,7 +54,10 @@ Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global 
 *
 
 ==== Tɛ́ (non/no) ====
-*
+* &mdash;
+
+Already [{{fullurl:m:Special:Log|page=User:HerculeBot@lnwiki}} done]. —<small>[[m:User:Pathoschild|Pathoschild]] 23:19:13, 06 novɛ́mbɛ 2010 (UTC)</small>
+</div>
 
 === [[Utilisateur:Darkicebot|Darkicebot]] ===
 * '''Operator''': [[:simple:User:Razorflame]]
