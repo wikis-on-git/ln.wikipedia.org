@@ -79,6 +79,7 @@ Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global 
 </div>
 
 === [[Utilisateur:NobelBot]] ===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
 * '''Bot name''' : [[:ar:User:NobelBot]]
 * '''Operator''' : [[:ar:User:جمال بركات|جمال بركات]]
 * '''Programming Language''' : Python (Pywikipedia)
@@ -91,7 +92,10 @@ Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global 
 *
 
 ==== Tɛ́ (non, no) ====
-*
+* &mdash;
+
+Not done; the bot is inactive, and blocked on its main wiki. —<small>[[m:User:Pathoschild|Pathoschild]] 23:24:45, 06 novɛ́mbɛ 2010 (UTC)</small>
+</div>
 
 === [[Utilisateur:GhalyBot|GhalyBot]] ===
 I would like to ask for a Bot flag for GhalyBot
