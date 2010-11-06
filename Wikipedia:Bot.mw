@@ -26,6 +26,7 @@ Already [{{fullurl:m:Special:Log|page=User:SoxBot@lnwiki}} done]. —<small>[[m:
 </div>
 
 === [[Utilisateur:Alexbot|Alexbot]] ===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
 :'''Operator''':[[:zh:User:Alexsh]]
 :'''Programming Language''':Pywikipedia SVN
 :'''Functions''':Interwiki(+autonomous), double redirect fix.
@@ -36,7 +37,11 @@ Already [{{fullurl:m:Special:Log|page=User:SoxBot@lnwiki}} done]. —<small>[[m:
 *
 
 ==== Tɛ́ (non/no) ====
-*
+* &mdash;
+
+Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global bot]], and this wiki has enabled global bots. —<small>[[m:User:Pathoschild|Pathoschild]] 23:18:16, 06 novɛ́mbɛ 2010 (UTC)</small>
+</div>
+
 === [[Utilisateur:HerculeBot|HerculeBot]] ===
 :'''Operator''':[[:fr:User:Hercule]]
 :'''Programming Language''': Java
