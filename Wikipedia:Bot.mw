@@ -60,6 +60,7 @@ Already [{{fullurl:m:Special:Log|page=User:HerculeBot@lnwiki}} done]. —<small>
 </div>
 
 === [[Utilisateur:Darkicebot|Darkicebot]] ===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
 * '''Operator''': [[:simple:User:Razorflame]]
 * '''Function''': interwiki
 * '''Operation''': automatic as long as I am on, which is usually between 4 and 12 hours.
@@ -72,7 +73,10 @@ This bot will be making anywheres between 4 and 12 edits per minute.  If you req
 *
 
 ==== Tɛ́ (non, no) ====
-*
+* &mdash;
+
+Not done; a local bot flag is no longer needed. This is a [[m:bot policy|global bot]], and this wiki has enabled global bots. —<small>[[m:User:Pathoschild|Pathoschild]] 23:19:44, 06 novɛ́mbɛ 2010 (UTC)</small>
+</div>
 
 === [[Utilisateur:NobelBot]] ===
 * '''Bot name''' : [[:ar:User:NobelBot]]
