@@ -23,6 +23,14 @@ Demande --Signature
 *
 </div>
 
+=== [[User:DixonDBot|DixonDBot]] ===
+*'''Operator''': [[:uk:User:DixonD|DixonD]]
+*'''Automatic or Manually Assisted''': Automatic, in "-autonomous" mode. Sometimes the bot will run in manual assisted mode to solve interwiki conflicts.
+*'''Programming Language(s)''': Pywikipedia framework daily updated to the last SVN version
+*'''Function Summary''': interwiki
+*'''Already has a bot flag in''': [[:sulutil:DixonDBot]]
+Thanks  --[[Utilisateur:DixonD|DixonD]] 2 dɛsɛ́mbɛ 2010 à 09:05 (UTC)
+
 == Bot policy ==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
