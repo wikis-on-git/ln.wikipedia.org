@@ -1,11 +1,12 @@
-<div style="text-align:center;">
-<span style="font-size:x-large">'''Mbɔ́tɛ!'''</span><br/>
-Boyéí bolámu na ebandeli ya Wikipedia, búku ya libosó ya [[lingála]]. Sɔ́kí olobaka lingála mpé sɔ́kí okanísí éte búku ya lingála ekokí ékozala malámu, okɛí na [[Wikipedia:Kotámbola ya libosó|kotámbola ya libosó]].
+<div style="border:1px solid #C7D0F8; background:#F2F5FD; color:#000; width:100%; padding: 2px">
+{| style="background:#F2F5FD;"
+|<span style="font-size:x-large" text-align="center" >'''Mbɔ́tɛ !'''</span>
+|Boyéí bolámu na ebandeli ya Wikipedia, búku ya libosó ya [[lingála]]. Sɔ́kí olobaka lingála mpé sɔ́kí okanísí éte búku ya lingála ekokí ékozala malámu, okɛí na [[Wikipedia:Kotámbola ya libosó|kotámbola ya libosó]].
 Nkásá [[Special:Statistics|{{NUMBEROFARTICLES}}]] ya lingála izalí o [[Wikipedia]].
+|}
 ----
-<div><small>
+<div style="text-align:center;"><small>
 Bienvenue sur les débuts de [http://fr.Wikipedia.org Wikipédia], la première Encylopédie en '''[[:fr:lingala|lingala]]'''.  Si vous le parlez, et vous pensez qu'une encyclopédie lingála serait une bonne chose, rendez vous à <b> [[Wikipedia:Kotámbola ya libóso|''Comment débuter?'']]</div></small>
-----
 </div>
 </div>
 {{Nkásá ya sika}}
