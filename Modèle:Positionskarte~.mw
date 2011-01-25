@@ -1,0 +1,94 @@
+<noinclude><!-- Testframe! -->
+{|
+|<div class="positionmap" style="position: relative; z-index: 0; padding: 0; border: 1px solid {{#if:{{{border|}}}|{{{border}}}|#CCCCCC}};">[[image:{{#if: {{{Alternativkarte|}}} | {{{Alternativkarte}}} | {{Positionskarte {{{1|Erde}}}|image}} }}|frameless|{{#if:{{{width|x}}}|{{{width|240}}}px|upright=1}}|center|{{#if: {{{label|}}} 
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}} ({{Positionskarte {{{1|Erde}}}|name}})]] <!-- begin -->
+</noinclude>{{#if:{{{Y|}}}{{{X|}}}
+|{{Positionskarte~*
+ |Y={{{Y|50}}}
+ |X={{{X|50}}}
+ |position={{{position|}}}
+ |wrap={{{wrap|}}}
+ |label={{{label|{{PAGENAME}}}}}
+ |label_size={{{label_size|90}}}
+ |background={{{background|}}}
+ }}
+|{{#if:{{{lat_deg|}}}{{{lon_deg|}}}
+ |<span style="display:none">[[Vorlage:Positionskarte/Wartung/DMS|DMS]]</span>
+}}{{#iferror:{{CoordinateLAT |{{{lat|}}} }}{{CoordinateLONG|{{{long|}}} }}
+ |{{#if:{{{name|}}}|{{{name}}}|{{#if:{{{label|}}}|{{{label}}}|{{PAGENAME}}}}}}:{{CoordinateMSG|1
+  |{{CoordinateLAT |{{{lat|}}} }}
+  |{{CoordinateLONG|{{{long|}}} }}
+ }}|}}{{#if:{{{region|}}}||{{#switch:{{{globe|}}}|<!--void-->|earth={{CoordinateMSG|6|{{#if:{{{name|}}}|{{{name}}}|{{#if:{{{label|}}}|{{{label}}}|{{PAGENAME}}}}}} }}}}
+}}{{#if:{{IstZahl|0{{{pop|}}}|N}}|<!--void-->|{{CoordinateMSG|9|{{{pop|}}}}}
+}}{{#if:{{IstZahl|0{{{elevation|}}}|R|2}}|<!--void-->|{{CoordinateMSG|7|{{{elevation|}}}}}
+}}{{Positionskarte~*
+|LAT ={{#iferror:{{CoordinateLAT |{{{lat|}}} }}|}}
+|LONG={{#iferror:{{CoordinateLONG|{{{long|}}} }}|}}
+|Y={{#iferror:{{#expr:{{#if:{{Positionskarte {{{1|Erde}}}|y}}
+ |{{Positionskarte {{{1|Erde}}}|y
+  |{{CoordinateLAT |{{{lat|}}} }}
+  |{{CoordinateLONG|{{{long|}}} }}
+  }}
+ | 100 
+  *({{Positionskarte {{{1|Erde}}}|top}}
+   - {{CoordinateLAT |{{{lat|}}} }}
+   ) / ({{Positionskarte {{{1|Erde}}}|top}} - {{Positionskarte {{{1|Erde}}}|bottom}}) round 1
+  }}}}|0}}
+|X={{#iferror:{{#expr:{{#if:{{Positionskarte {{{1|Erde}}}|x}}
+ |{{Positionskarte {{{1|Erde}}}|x
+  |{{CoordinateLAT |{{{lat|}}} }}
+  |{{CoordinateLONG|{{{long|}}} }}
+  }}
+ | 100 
+  *(({{CoordinateLONG|{{{long|}}} }}<0)
+   *({{Positionskarte {{{1|Erde}}}|right}}<{{Positionskarte {{{1|Erde}}}|left}})*360
+   +{{CoordinateLONG|{{{long|}}} }}
+   -{{Positionskarte {{{1|Erde}}}|left}}
+   ) /
+   ( ({{Positionskarte {{{1|Erde}}}|right}}<{{Positionskarte {{{1|Erde}}}|left}})*360
+   + {{Positionskarte {{{1|Erde}}}|right}}
+   - {{Positionskarte {{{1|Erde}}}|left}}
+   ) round 1
+ }}}}|0}}
+|position={{{position|}}}
+|wrap={{{wrap|}}}
+|marksize= {{#if:{{{marksize|}}}
+ |{{{marksize}}}
+ |{{#if:{{Positionskarte {{{1|Erde}}}|marksize}}|{{Positionskarte {{{1|Erde}}}|marksize}}|8}}
+ }}
+|mark={{#if: {{{mark|}}} 
+ |{{{mark}}} 
+ |{{#if:{{Positionskarte {{{1|Erde}}}|mark}}|{{Positionskarte {{{1|Erde}}}|mark}}|Red pog.svg}}
+ }}
+|label={{{label|{{PAGENAME}}}}}
+|label_size={{{label_size|90}}}
+|marktarget= {{#if:{{{marktarget|}}}
+ |[[{{{marktarget}}}]]
+ |{{CoordinateLINK
+	|NS={{#iferror:{{CoordinateLAT |{{{lat|}}} }}|}}
+	|EW={{#iferror:{{CoordinateLONG|{{{long|}}} }}|}}
+	|type	={{#switch: {{{type|}}}
+		|country|state|adm1st|adm2nd|city|isle|airport|mountain|waterbody|forest|landmark={{{type}}}
+		|example={{#if:{{NAMESPACE}}|{{{type}}}|landmark}}
+		|#default=landmark
+		}}<!--type Fehler meldung fehlt noch! An label dranhängen? -->
+	|pop={{#if:{{IstZahl|0{{{pop|}}}|N}}|{{{pop|}}}}}
+	|elevation={{#if:{{IstZahl|0{{{elevation|}}}|R|2}}|{{{elevation|}}}}}
+	|region	={{{region|}}}
+        |globe  ={{{globe|}}}
+	|dim	={{{dim|}}}
+	|label	={{urlencode:{{{name|}}}}}
+	|0={{#if:{{FULLPAGENAME:{{{label|}}}}}|{{{label}}}}} {{#ifeq:{{{position|none}}}|none||({{Coordinate to {{#titleparts:{{CoordinateRR DEFAULT|{{{region|{{Positionskarte {{{1|Erde}}}|ISO 3166-2}}}}}}}|1|1}} for maps
+	  |NS	={{CoordinateLAT |{{{lat|0}}} }}
+	  |EW	={{CoordinateLONG|{{{long|0}}} }}
+	  |dim	=0{{Positionskarte {{{1|Erde}}}|dim}}}})}}
+	 }}
+	}}
+|background={{{background|}}}
+}}
+}}<noinclude><!--Testframe end--></div>
+|}
+{{Dokumentation}}
+</noinclude>
