@@ -1,0 +1,20 @@
+<onlyinclude><table {{#switch: {{{float|}}}
+  |left  = class="float-left" style="margin-right: 1em;
+  |right = class="float-right" style="margin-left: 1em;
+  |center= style="margin: 0 auto; display: inline-table;
+  |#default= style="margin: 0 1em; display: inline-table;
+  }}
+  background-color: {{#if:{{{background|}}}|{{{background}}}|#f9f9f9}};
+  border: {{#switch:{{#if:{{{caption|x}}}|{{{border|}}}|none}}|none=none|=1px solid #CCC|#default=1px solid {{{border|#CCC}}}}};
+  border-collapse: collapse;
+  width: 1px;<!-- IMPORTANT *** für alle Browser ausser Firefox *** WICHTIG -->
+">
+<tr><td style="border: none; padding: 0;"><div style="position: relative; z-index: 0; padding: 0; {{#switch:{{{border|#CCC}}}|none=border: none;|=margin:{{#if:{{{caption|x}}}|3|0}}px; border: 1px solid #CCC;|#default=margin:3px; border: 1px solid {{{border|#CCC}}};}}">[[Bild:{{#if: {{{Alternativkarte|}}} | {{{Alternativkarte}}} | {{Positionskarte {{{1|Erde}}}|image|{{{maptype|}}} }} }}|{{#if:{{{width|x}}}|{{{width|240}}}px|frameless{{!}}upright=1}}|center|{{#if: {{{label|}}}
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}} ({{Positionskarte {{{1|Erde}}}|name}})]]{{{places|}}}</div></td></tr>
+{{#if:{{{caption|x}}}
+|<tr style="font-size: 90%"><td style="border: none;"><div style="margin: 0 0.3em">{{{caption|{{#if: {{{label|}}}|{{{label}}}|{{PAGENAME}}}} ({{Positionskarte {{{1|Erde}}}|name}})}}}</div></td></tr>
+}}</table></onlyinclude>
+
+{{Dokumentation}}
