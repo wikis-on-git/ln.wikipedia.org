@@ -1,8 +1,9 @@
-<onlyinclude><table {{#switch: {{{float|}}}
-  |left  = class="float-left" style="margin-right: 1em;
-  |right = class="float-right" style="margin-left: 1em;
-  |center= style="margin: 0 auto; display: inline-table;
-  |#default= style="margin: 0 1em; display: inline-table;
+<onlyinclude><table style="{{#switch: {{{float|}}}
+  |left  = float:left; clear:left; margin:1em;
+  |right = float:right; clear:right; margin:1em;
+  |center= margin:0 auto;
+  |inline= margin:0 1em; display:inline-table;
+  |#default= margin:0 1em;
   }}
   background-color: {{#if:{{{background|}}}|{{{background}}}|#f9f9f9}};
   border: {{#switch:{{#if:{{{caption|x}}}|{{{border|}}}|none}}|none=none|=1px solid #CCC|#default=1px solid {{{border|#CCC}}}}};
