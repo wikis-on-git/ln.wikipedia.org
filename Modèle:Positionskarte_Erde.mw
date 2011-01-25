@@ -1,0 +1,42 @@
+{{#switch: {{{1}}}
+| name   = Erde
+| top    = 90
+| bottom = -90
+| left   = -180
+| right  = 180
+| image  = Earthmap1000x500compac.jpg
+}}<noinclude>
+{{Achtung|Eine Darstellung mit Staatsflächen findet sich unter [[:Vorlage:Positionskarte Welt]].}}
+{{Positionskarte/Info|sortkey=0Erde}}
+
+[[az:Şablon:Yer xəritəsi Dünya]]
+[[bar:Vorlage:Positionskarte Erde]]
+[[be:Шаблон:На карце/Зямля]]
+[[bg:Шаблон:ПК Земя]]
+[[bn:টেমপ্লেট:Location map Earth]]
+[[bs:Šablon:Lokacijska karta Planeta Zemlja]]
+[[cs:Šablona:LocMap Země]]
+[[dv:ފަންވަތް:Location map Earth]]
+[[en:Template:Location map Earth]]
+[[eo:Ŝablono:Situo sur mapo Tero]]
+[[fr:Modèle:Géolocalisation/Terre]]
+[[hsb:Předłoha:LocMap zemja]]
+[[ka:თარგი:პოზრუკა დედამიწა]]
+[[ko:틀:위치 지도 지구]]
+[[mk:Шаблон:ПозКарта Земја]]
+[[ml:ഫലകം:Location map Earth]]
+[[nds-nl:Mal:Positiekaarte Eerde]]
+[[nl:Sjabloon:Positiekaart Aarde]]
+[[nn:Mal:Kartposisjon Jorda]]
+[[os:Шаблон:ПозКартæ Зæхх]]
+[[pl:Szablon:Mapa lokalizacyjna/Świat]]
+[[pt:Predefinição:Mapa de localização/Terra]]
+[[ro:Format:Harta de localizare Terra]]
+[[ru:Шаблон:ПозКарта Земля]]
+[[sq:Stampa:Harta Toka]]
+[[sv:Mall:Kartposition Världen]]
+[[ta:வார்ப்புரு:Location map Earth]]
+[[tr:Şablon:Location map Earth]]
+[[uk:Шаблон:Карта розташування Земля]]
+[[vi:Bản mẫu:Bản đồ định vị Trái Đất]]
+</noinclude>
