@@ -1,0 +1,17 @@
+{{#switch: {{lc:{{{1|}}} }}
+ |continent = Afríka
+<!--Administration-->
+ |level   = 1
+ |maxlevel= 1
+ |acronym = OR
+ |top     = CD
+ |upper   = CD
+ |lemma   = Etúká ya Monyɛlɛ
+ |admname = Etúká ya Monyɛlɛ
+ |admtype = Etúká 
+ |0       = Kongó-Kinsásá
+ |1       = Etúká ya Monyɛlɛ
+ |2       = 
+ |map     = Kongó-Kinsásá
+ |flag    = Flag of the Democratic Republic of the Congo.svg
+}}<noinclude>{{Modèle:Info ISO-3166-2/Info}}</noinclude>
