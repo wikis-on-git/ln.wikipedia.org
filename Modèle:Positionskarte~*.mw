@@ -1,0 +1,54 @@
+<noinclude>{{Tausendfach verwendet}} <!-- Testframe! -->
+{|
+|<div class="positionmap" style="position: relative; z-index: 0; padding: 0; border: 1px solid {{#if:{{{border|}}}|{{{border}}}|#CCCCCC}};">[[Datei:{{#if: {{{Alternativkarte|}}} | {{{Alternativkarte}}} | {{Positionskarte {{{1|Erde}}}|image}} }}|frameless|{{#if:{{{width|x}}}|{{{width|240}}}px|upright=1}}|center|{{#if: {{{label|}}}
+  | {{{label}}} 
+  | {{PAGENAME}} 
+}} ({{Positionskarte {{{1|Erde}}}|name}})]] <!-- begin -->
+</noinclude>{{#if:{{{LAT}}}{{{LONG}}}
+|<div style="
+ position:absolute; 
+ z-index:2; 
+ top:{{#ifexpr:{{{Y|100}}}<0|0|{{#ifexpr:{{{Y|100}}}>100|100|{{{Y|100}}}}}}}%; 
+ left:{{#ifexpr:{{{X|100}}}<0|0|{{#ifexpr:{{{X|100}}}>100|100|{{{X|100}}}}}}}%; 
+ height:0; 
+ width:0; 
+"><div style=" position:relative; z-index:100;
+  left:-{{#expr:{{{marksize|8}}}/2 round 0}}px; 
+  top:-{{#expr:{{{marksize|8}}}/2 round 0}}px; 
+  width:{{{marksize|8}}}px; 
+  font-size:{{{marksize|8}}}px; 
+ ">{{#if:{{{marktarget<includeonly>|</includeonly>}}}|{{#tag:imagemap|Bild:{{{mark|Red pog.svg}}}{{!}}{{{marksize|8}}}x{{{marksize|8}}}px{{!}}{{{label|{{PAGENAME}}}}}
+default {{{marktarget|[[{{FULLPAGENAME}}]]}}}
+desc none }}}}</div>
+
+{{#ifeq:{{{position|}}}|none||<table style="
+ font-size:{{#if:{{{label_size|}}}|{{{label_size}}}|90}}%; 
+ border:none; 
+ background-color:transparent; 
+ border-collapse:collapse; 
+ line-height:1em; 
+ z-index:9; 
+ position:absolute; 
+ {{#ifeq: {{{wrap}}} | manual 
+ | white-space:nowrap; width:10em; 
+ | width:6em; 
+ }}
+ margin: 0 .2em; 
+ text-align:{{#switch:{{{position|}}}
+ |={{#ifexpr:{{{X|100}}}>50|right; right:3px; top:-2em; height:4em; |left; left:3px; top:-2em; height:4em; }}
+ |left=right; right:3px; top:-2em; height:4em; 
+ |right=left; left:3px; top:-2em; height:4em; 
+ |top=center; bottom:3px; {{#ifeq: {{{wrap}}} | manual | left:-5em; | left:-3em }}
+ |bottom=center; top:3px; {{#ifeq: {{{wrap}}} | manual | left:-5em; | left:-3em }}
+ }}
+
+"><tr><td style="border:none; vertical-align:middle;"><span style="
+ {{#if:{{{background|x}}}|background-color:{{{background|}}}; }}">{{{label|{{PAGENAME}}}}} {{#ifexpr:{{{X|0}}}<0 or {{{X|0}}}>100 or {{{Y|0}}}<0 or {{{Y|0}}}>100 |nicht auf der Karte<span style="display:none">[[Vorlage:Positionskarte/Wartung/Koordinate außerhalb|p3]]</span>}}</span></td></tr></table>}}</div>
+
+|<div style="color:red; position:absolute; text-align: center; top:30%; left:0; height:0; width:100%; font-size:{{{label_size|120}}}%;"> {{#if:{{{label|{{PAGENAME}}}}}|{{{label|{{PAGENAME}}}}} ohne|keine}} Koordinaten</div>
+}}<noinclude></div>
+|} <!-- Testframe end -->
+→[[Vorlage:Positionskarte+]]
+
+[[Kategorie:Vorlage:Untervorlage|Positionskarte~*]]
+</noinclude>
