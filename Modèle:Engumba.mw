@@ -22,7 +22,7 @@
 | [[Bato]]<br /> - motángo ([[Mbúla]])
 | align=center| {{formatnum:{{{bato}}}}} bato <br /><small>({{{mbúla}}})</small>
 |-
-| valign="top"| [[Densité de population|Densité]] || align=center|{{#if: {{{bato|}}}|{{#if:{{{etando|}}}|{{#expr:{{{bato}}}/{{{etando}}} }}|?}}|?}} bato/km² 
+| valign="top"| [[Densité de population|Densité]] || align=center|{{#if: {{{bato|}}}|{{#if:{{{etando|}}}|{{#expr:{{{bato}}}/{{{etando}}} round 2 }}|?}}|?}} bato/km² 
 |-
 | valign="top" colspan="2" align="center" bgcolor="white"| {{#if: {{#expr:{{{carte}}}}}|[[Image:{{{carte}}}|200px]]|}}
 |}
