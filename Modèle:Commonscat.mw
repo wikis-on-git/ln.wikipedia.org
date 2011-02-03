@@ -1,0 +1,8 @@
+<onlyinclude><div class="sisterproject" style="margin:0.1em 0 0 0;">[[File:Commons-logo.svg|x16px|alt=|link=|Commons]]&nbsp;'''<span class="plainlinks">[{{fullurl:Commons:Category:{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}|uselang={{INT:Lang}}}} Commons: {{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}}}]</span>'''{{#switch:{{{3|}}}
+|X|x=
+|S|s=&nbsp;– Sammlung von Bildern
+|= &nbsp;– Sammlung von Bildern, Videos und Audiodateien
+|#default= &nbsp;– {{{3}}}
+}}</div></onlyinclude><noinclude>
+{{Dokumentation}}
+</noinclude>
