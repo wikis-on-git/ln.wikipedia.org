@@ -1,0 +1,3 @@
+<includeonly><small>(ISBN {{{1|inconnu}}}{{#if:{{{3|}}}|, [[Special:Booksources/{{{2}}}|{{{2}}}]]}}{{#if:{{{2|}}}|&#160;et {{#if: {{{3|}}}|[[Special:Booksources/{{{3}}}|{{{3}}}]]|[[Special:Booksources/{{{2}}}|{{{2}}}]]}}}})</small></includeonly><noinclude>
+{{/Documentation}}
+</noinclude>
