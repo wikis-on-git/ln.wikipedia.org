@@ -26,8 +26,6 @@
 |-
 | valign="top" colspan="2" align="center" bgcolor="white"| {{#if: {{#expr:{{{carte}}}}}|[[Image:{{{carte}}}|200px]]|}}
 |}
-<noinclude>[[Category:Modèle Afrique|Engumba]]</noinclude>
-
 <noinclude>Exemple:
 {{Modèle:Engumba
 |image  =BandeauKosice.png
@@ -53,5 +51,5 @@
 |carte  =Map slovakia kosice.png
 }}
 </nowiki>
-[[Category:Emekisele ya mambí ma mabelé]]
+[[Category:Emekisele ya mambí ma mabelé|Engumba]]
 </noinclude>
