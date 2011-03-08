@@ -1,0 +1,39 @@
+<!--
+[[Wikipédia:Projet, Charte graphique/Domaine géographique/Couleurs et niveaux administratifs]]
+-->
+{| align="right" rules="all" border="0" cellpadding="3" cellspacing="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; border-right-width: 1px; border-bottom-width: 1px; background-color: aliceblue"
+! colspan="2" style="background-color: #BBDEFD" |
+{| style="background: #BBDEFD" align="center" width="100%"
+| padding=0px|
+| style="background: #BBDEFD" align="center" width="100%" |<font color=black size=4>'''{{{nom}}}'''
+| padding=0px|
+|}
+|-
+| valign="top"| [[Molɔngɔ́ ya bisé ya mokili|Esé]] || align=center| [[Image:Flag of the Democratic Republic of the Congo.svg|20px|Kongó-Kinsásá]] [[Kongó-Kinsásá]]
+|-
+| valign="top"| [[Engumba Mokonzi na Etuka (RKD)|Engumba Mokonzi]] || align=center| {{{capitale}}}
+|-
+| valign="top"| [[Moyángeli|Moyángeli]] || align=center| {{{moyángeli}}}
+|-
+| valign="top"| [[Nkótá ya ekólo]] || align=center| {{{lg}}}
+|-
+| valign="top"| [[Etando]] || align=center|<!-- {{{supha}}} ha<br />--> {{{supkm2}}} km²
+|-
+| <!--[[Population sans doubles comptes|Population sans<br />doubles comptes]]-->[[Mito|Mito estimée]] 
+| align=center| {{{pop}}} hab. <br /><small>({{{annéepop}}})</small>
+|-
+| [[Bato na etando]] || align=center| {{{densité}}} hab./km²
+|-
+| [[ISO 3166-2:CD|ISO 3166-2]] || align=center|{{{ISO}}}
+|-
+| [[Lisangá lya badepité lya Kongó-Kinsásá|Badepité]] || align=center| {{{dep}}}
+|-
+! colspan="2" bgcolor="#bbdefd" | Localisation
+|-
+| colspan="2" align=center| {{{carte}}}
+|-
+|align=center colspan=2 style="background: aliceblue"|<small>[[Bitando bya Kongó-Kinsásá|Komini mpé Territoires]] - [[Bingúmba bya Kongó-Kinsásá|Bingúmba]] - [[Bitúká bya Kongó-Kinsásá|Bitúká]]
+|}
+<noinclude>
+[[Category:Emekisele ya mambí ma mabelé ya Kongó-Kinsásá]]
+</noinclude>
