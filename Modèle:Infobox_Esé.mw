@@ -3,33 +3,22 @@ Emekoleli <nowiki>{{Infobox Esé}}</nowiki> ezalí mpɔ̂ na [[esé]].
 
 === Ndakisa ya emekoleli ===
 <pre>
-{{Infobox Esé|
-nkómbó 			= Republiki ya Tunisia |
-nkómbó_na_lokótá	= al-Dschumhūriyya at-tūnisiyya (liarabi)<br>الجمهورية التونسية<br><br>|
-image_flag 		= Flag of Tunisia.svg |
-image_coat 		= |
-liloba-lokúmu 		= Un Peuple, Un But, Une Foi|
-loyémbo 	= [[Humata l-hima]] |
-nkótá_ya_lɛ́ta 		= [[liarabi]]|
-mbóka-mokonzi 		= [[Tunis]] |
-latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E|
-engumba_monɛ́nɛ		= [[Tunis]] |
-loléngé_lɛ́ta 	= [[Republiki]] |
+{{Infobox Esé
+
 }}
 </pre>
 {{Infobox Esé|
-nkómbó 			= Republiki ya Tunisia |
-nkómbó_na_lokótá	= al-Dschumhūriyya at-tūnisiyya (liarabi)<br>الجمهورية التونسية<br><br>|
-image_flag 		= Flag of Tunisia.svg |
-image_coat 		= |
-liloba-lokúmu 		= Un Peuple, Un But, Une Foi|
-loyémbo 	= [[Humata l-hima]] |
-bato_botángi    = 10 031 100 |
-nkótá_ya_lɛ́ta 		= [[liarabi]]|
-mbóka-mokonzi 		= [[Tunis]] |
-latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E|
-engumba_monɛ́nɛ		= [[Tunis]] |
-loléngé_lɛ́ta 	= [[Republiki]] |
+| nkómbó            = Republiki ya Tunisia 
+| nkómbó_na_lokótá  = al-Dschumhūriyya at-tūnisiyya (liarabi)<br>الجمهورية التونسية<br><br>
+| image_flag        = Flag of Tunisia.svg 
+| image_coat        = 
+| liloba-lokúmu     = Un Peuple, Un But, Une Foi
+| loyémbo 	= [[Humata l-hima]] 
+| nkótá_ya_lɛ́ta     = [[liarabi]]
+| mbóka-mokonzi     = [[Tunis]] 
+| latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E
+| engumba_monɛ́nɛ    = [[Tunis]] 
+| loléngé_lɛ́ta      = [[Republíki]]
 }}
 <br clear="all"/>
 
