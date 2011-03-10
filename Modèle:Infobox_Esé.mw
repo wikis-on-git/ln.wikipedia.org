@@ -10,11 +10,11 @@ Emekoleli <nowiki>{{Infobox Esé}}</nowiki> ezalí mpɔ̂ na [[esé]].
 | elílí_elembo-nkita = Coat of arms of Tunisia.svg
 | liloba-lokúmu     = Un Peuple, Un But, Une Foi
 | loyémbo 	= [[Humata l-hima]] 
-| nkótá_ya_lɛ́ta     = [[liarabi]]
+| nkótá_ya_letá     = [[liarabi]]
 | mbóka-mokonzi     = [[Tunis]] 
 | latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E
 | engumba_monɛ́nɛ    = [[Tunis]] 
-| loléngé_lɛ́ta      = [[Republíki]]
+| loléngé_letá      = [[Republíki]]
 }}
 </pre>
 {{Infobox Esé|
@@ -24,11 +24,11 @@ Emekoleli <nowiki>{{Infobox Esé}}</nowiki> ezalí mpɔ̂ na [[esé]].
 | elílí_elembo-nkita = Coat of arms of Tunisia.svg
 | liloba-lokúmu     = Un Peuple, Un But, Une Foi
 | loyémbo 	= [[Humata l-hima]] 
-| nkótá_ya_lɛ́ta     = [[liarabi]]
+| nkótá_ya_letá     = [[liarabi]]
 | mbóka-mokonzi     = [[Tunis]] 
 | latd=46|latm=57|latNS=N|longd=7|longm=27|longEW=E
 | engumba_monɛ́nɛ    = [[Tunis]] 
-| loléngé_lɛ́ta      = [[Republíki]]
+| loléngé_letá      = [[Republíki]]
 }}
 <br clear="all"/>
 
@@ -58,15 +58,15 @@ Emekoleli <nowiki>{{Infobox Esé}}</nowiki> ezalí mpɔ̂ na [[esé]].
 |- style="vertical-align: top;" class="hiddenStructure{{{engumba_monɛ́nɛ|}}}"
 | '''[[Bato bya {{{nkómbó}}}|Engumba monɛ́nɛ koleka]]'''
 | {{{engumba_monɛ́nɛ}}}
-|- style="vertical-align: top;" class="hiddenStructure{{{nkótá_ya_lɛ́ta|}}}"
-| '''[[Lokóta ya lɛ́ta|Nkótá ya lɛ́ta]]'''
-| {{{nkótá_ya_lɛ́ta}}}
+|- style="vertical-align: top;" class="hiddenStructure{{{nkótá_ya_letá|}}}"
+| '''[[Lokóta ya letá|Nkótá ya letá]]'''
+| {{{nkótá_ya_letá}}}
 |- style="vertical-align: top;" class="hiddenStructure{{{nkótá_ya_ekólo|}}}"
 | '''[[Nkótá ya ekólo]]'''
 | {{{nkótá_ya_ekólo}}}
 |- style="vertical-align: top;" class="hiddenStructure{{{babengí_mokambi|}}}"
 | style="white-space: nowrap;" | '''[[Molɔngɔ ya Bisé na kolanda ndenge ya Mokonzi|Mokonzi]]''' <div style="text-align: right;">{{{babengí_mokambi}}}</div>
-| style="white-space: nowrap;" | {{{loléngé_lɛ́ta}}}<br>{{{nkómbó_mokambi}}}
+| style="white-space: nowrap;" | {{{loléngé_letá}}}<br>{{{nkómbó_mokambi}}}
 |- style="vertical-align: top;" class="hiddenStructure{{{sovereignty_type|}}}"
 | style="white-space: nowrap;" | '''{{{sovereignty_type}}}'''<br>{{{established_events}}}
 | {{{established_dates}}}
