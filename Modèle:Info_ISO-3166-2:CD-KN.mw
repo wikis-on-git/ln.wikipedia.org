@@ -1,0 +1,17 @@
+{{#switch: {{lc:{{{1|}}} }}
+ |continent = Afríka
+<!--Administration-->
+ |level   = 1
+ |maxlevel= 1
+ |acronym = KN
+ |top     = CD
+ |upper   = CD
+ |lemma   = Kinsásá
+ |admname = Kinsásá
+ |admtype = Etúka
+ |0       = Kongó-Kinsásá
+ |1       = Kinsásá
+ |2       = 
+ |map     = Kongó-Kinsásá
+ |flag    = 
+}}<noinclude>{{Info ISO-3166-2/Info}}</noinclude>
