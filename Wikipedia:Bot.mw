@@ -39,6 +39,7 @@ Wikiquotes: [[:pt:Special:Contributions/Ripchip Bot|pt.wikiquote]], [[:it:Specia
 
 ==== Tɛ́ (non, no) ====
 *
+</div>
 
 == Bot policy ==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
