@@ -23,6 +23,23 @@ Demande --Signature
 *
 </div>
 
+===[[User:Ripchip Bot|Ripchip Bot]]===
+<div style="background:#E3F9DF; padding:0 10px; border:1px solid #AAA;">
+Demande --Signature
+
+* '''Operator:''' [[User:Beria|<font size="3" face="Vivaldi" color="#4069e1">Béria Lima</font>]] (main wiki: [[:pt:User:Beria|pt.wiki]])
+* '''Function:'''  maintain interwiki links.
+* '''Operation:''' automatic and continuous.
+* '''Software:'''  [[:m:Pywikipediabot|Pywikipedia]] ([[:en:Python|Python]])
+* '''Already has bot flag on:''' Wikipedias: [[:pt:Special:Contributions/Ripchip Bot|pt.wiki]], [[:en:Special:Contributions/Ripchip Bot|en.wiki]], [[:es:Special:Contributions/Ripchip Bot|es.wiki]], [[:fr:Special:Contributions/Ripchip Bot|fr.wiki]], [[:it:Special:Contributions/Ripchip Bot|it.wiki]], [[:ru:Special:Contributions/Ripchip Bot|ru.wiki]], [[:ca:Special:Contributions/Ripchip Bot|ca.wiki]], [[:war:Special:Contributions/Ripchip Bot|war.wiki]], [[:io:Special:Contributions/Ripchip Bot|io.wiki]], [[:af:Special:Contributions/Ripchip Bot|af.wiki]], [[:qu:Special:Contributions/Ripchip Bot|qu.wiki]], [[:ast:Special:Contributions/Ripchip Bot|ast.wiki]], [[:yo:Special:Contributions/Ripchip Bot|yo.wiki]], [[:mn:Special:Contributions/Ripchip Bot|mn.wiki]], [[:be-x-old:Special:Contributions/Ripchip Bot|be-x-old.wiki]].  ([{{fullurl:tools:~vvv/sulutil.php|user=Ripchip+Bot&uselang=en}} bot flags on other wikis])
+Wikiquotes: [[:pt:Special:Contributions/Ripchip Bot|pt.wikiquote]], [[:it:Special:Contributions/Ripchip Bot|it.wikiquote]].
+
+==== Ɛ́ɛ́ (oui/yes) ====
+* 
+
+==== Tɛ́ (non, no) ====
+*
+
 == Bot policy ==
 Hello. To facilitate [[m:steward|steward]] granting of bot access, I'd like to implement the [[m:Bot policy|standard bot policy]] on this wiki. This will involve creating a redirect to this page from [[Wikipedia:Bot policy]], and adding a line at the top noting that it is used here. In particular, this policy allows automatic acceptance of known interlanguage linking bots (if this page says that is acceptable), which form the vast majority of such requests. 
 
