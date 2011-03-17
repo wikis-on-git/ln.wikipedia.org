@@ -6,7 +6,7 @@
 -->{{#ifeq:{{{mini|}}}{{{plain|}}}|1||Cette boîte&nbsp;:&nbsp;}}<!--
 -->[[{{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|<span title="Komɔ́nisa emekisele.">{{#if:{{{mini|}}}|m|komɔ́nisa}}</span>]]&nbsp;{{#if:{{{mini|}}}|·|•}} <!--
 -->[[Discussion {{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|<span {{#ifexist: Modèle discussion:{{{1}}}|<!--ne fait rien-->|style="color:#002bb8;"}} title="Ntembe ya emekisele.">{{#if:{{{mini|}}}|nt|ntembe}}</span>]]&nbsp;{{#if:{{{mini|}}}|·|•}} <!--
--->[{{fullurl:{{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|action=edit}} <span title="Kobɔngisa emekisele. Ótala yambo libóso lya kobómbisa.">{{#if:{{{mini|}}}|b|kobɔngisa}}</span>]<!--
+-->[{{fullurl:{{#ifeq:{{lc:{{{modèle}}}}}|non||Modèle:}}{{{1}}}|action=edit}} <span title="Kobɔngisa emekisele. Ótála yambo libóso lya kobómbisa.">{{#if:{{{mini|}}}|b|kobɔngisa}}</span>]<!--
 -->{{#if:{{{nodiv|}}}|<!--
   --></span>&nbsp;|<!--
   --></div><!--
