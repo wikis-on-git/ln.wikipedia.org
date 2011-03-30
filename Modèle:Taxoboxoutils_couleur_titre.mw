@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| test = &#35;50A0A0
+| algue = &#35;50A0A0
+| animal = &#35;FF9999
+| archaea = gray
+| bactérie = darkgray
+| champignon = &#35;4682B4
+| protiste = goldenrod
+| végétal = &#35;66CC66
+| virus = violet
+| neutre = &#35;EEEEEE
+| eucaryote = darkgray
+| procaryote = darkgray
+| &#35;FF0000
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Couleur titre]]
+
+</noinclude>
