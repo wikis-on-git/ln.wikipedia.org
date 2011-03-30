@@ -1,0 +1,20 @@
+{{#switch:{{lc:{{{1}}}}}
+<!-- végétal -->
+| apg = [[Classification APG|Classification APG]]
+| apgii = [[Classification APG II|Classification APG II]]
+| apgiii = [[Classification APG III|Classification APG III]]
+| apwebsite = [[Angiosperm Phylogeny Website|Classification selon APWebsite]]
+| ncbi = [[National Center for Biotechnology Information|Classification selon NCBI]]
+<!-- tous règnes-->
+| lecointre = [[Classification phylogénétique de Guillaume Lecointre et Hervé Le Guyader|Classification de Lecointre et Le Guyader]]
+<!-- valeur par défaut (paramètre vide) -->
+| = [[Classification phylogénétique]]
+<!-- valeur si le paramètre n'est pas reconnu -->
+| [[Classification phylogénétique]]<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Classification]]}}</includeonly>
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Classification phylogénétique]]
+
+</noinclude>
