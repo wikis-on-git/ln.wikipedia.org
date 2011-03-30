@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| test = &#35;70C0C0
+| algue = &#35;70C0C0
+| animal = pink
+| archaea = darkgray
+| bactérie = lightgrey
+| champignon = lightblue
+| protiste = khaki
+| végétal = lightgreen
+| virus = &#35;EEBBEE
+| neutre = &#35;EEEEEE
+| eucaryote = lightgrey
+| procaryote = lightgrey
+| &#35;FF3333
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Couleur majeure]]
+
+</noinclude>
