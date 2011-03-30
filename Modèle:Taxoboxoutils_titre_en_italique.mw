@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| végétal
+| algue = {{#ifeq:{{PAGENAME}}|{{{3}}}|{{Titre mis en forme|''{{lang|la|{{{3}}}}}''}} }}
+| animal
+| test
+| archaea
+| bactérie
+| champignon
+| protiste
+| virus
+| neutre
+| eucaryote
+| procaryote
+| {{#ifexpr:{{Taxoboxoutils infgenre|{{{2}}}}}|{{#ifeq:{{PAGENAME}}|{{{3}}}|{{Titre mis en forme|''{{lang|la|{{{3}}}}}''}} }} }}
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Titre en italique]]
+
+</noinclude>
