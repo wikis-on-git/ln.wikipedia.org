@@ -1,0 +1,21 @@
+{{#ifeq:{{{règne|afficher}}}|cacher||{{#switch:{{{1}}}
+| test = {{Taxobox | règne | Test }}
+| algue = {{Taxobox | domaine | Eukaryota }} <!-- Les algues ne sont pas un règne => il faut mettre le bon {{Taxobox | règne | ??? }} dans l'article -->
+| animal = {{Taxobox | règne | Animalia }}
+| archaea = {{Taxobox | règne | Archaea }}
+| bactérie = {{Taxobox | règne | Bacteria }}
+| champignon = {{Taxobox | règne | Fungi }}
+| protiste = {{Taxobox | domaine | Eukaryota }} <!-- Le règne protista n'est plus reconnu comme règne => il faut mettre le bon {{Taxobox | règne | ??? }} dans l'article -->
+| végétal = {{Taxobox | règne | Plantae }}
+| virus = {{Taxobox | type | Virus }}
+| neutre = {{Taxobox | règne | Neutre }}
+| eucaryote = {{Taxobox | domaine | Eukaryota }}
+| procaryote = {{Taxobox | domaine | Procaryote }}
+| {{Taxobox | règne | Règne à préciser | '''Règne à préciser''' }}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ègne]]}}
+}} }}<noinclude>
+{{protection}}
+{{Documentation}}
+
+[[Catégorie:Modèle outils taxobox|Premier parent]]
+
+</noinclude>
