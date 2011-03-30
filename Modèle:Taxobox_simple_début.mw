@@ -1,0 +1,13 @@
+{{#ifeq:{{{ouvrir_tableau|oui}}}|non||{}}{{#ifeq:{{{ouvrir_tableau|oui}}}|non||{{!}} }} align="right" rules="all" cellpadding="3" cellspacing="0" border="0"  style="margin: 0 0 1em 1em; border: 1px solid #999; background-color: {{taxoboxoutils couleur mineure|{{{1}}}}}"
+! colspan="3" style="background:{{taxoboxoutils couleur titre|{{{1}}}}};  padding:5px;" align="center"|<font color=white size=4><span style="position:relative; float:right;">[[Image:Gtk-dialog-info.svg|20px|Comment lire une taxobox|alt=Aide à la lecture d'une taxobox|link=Wikipédia:Lecture d'une taxobox]]</span>'''{{{2}}}'''</font>
+|----
+| colspan="2" style="padding:0px;" align="center"| [[Image:{{#if:{{{3|}}}|{{{3}}}|Defaut 2.svg}}|{{{extraimage|250px}}}|alt={{{4|}}}]]
+|----
+! colspan="2" align="center" | <small>{{{4|}}}</small>
+|----
+{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article avec taxobox-{{#if:x|{{{1}}}}}]]}}<noinclude>|}
+
+
+[[Catégorie:Modèle taxobox|Simple début]]
+
+</noinclude>
