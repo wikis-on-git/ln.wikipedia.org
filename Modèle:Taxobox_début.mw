@@ -7,3 +7,5 @@
 {{#switch: {{{3|Defaut 2.svg}}}|Defaut 2.svg|defaut 2.svg|={{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à illustrer/Taxobox {{{1}}}]]}}}}<noinclude>|}
 
 [[fr:Modèle:Taxobox début]]
+
+</noinclude>
