@@ -1,0 +1,68 @@
+{{#switch:{{lc:{{{1}}}}}
+| clade = 0
+| groupe = 0
+| non-classé = 0
+
+| sous-forme = 1
+| forme = 1
+| cultivar = 1
+| variété = 1
+| hybride = 1
+
+| sous-espèce = 1
+| espèce = 1
+
+| sous-série = 1
+| série = 1
+| sous-section = 1
+| section = 1
+| sous-genre = 1
+| genre = 1
+
+| infra-tribu = 1
+| sous-tribu = 1
+| tribu = 1
+| super-tribu = 1
+
+| sous-famille = 0
+| famille = 0
+| épifamille = 0
+| super-famille = 0
+
+| micro-ordre = 0
+| infra-ordre = 0
+| sous-ordre = 0
+| ordre = 0
+| super-ordre = 0
+
+| sous-cohorte = 0
+| cohorte = 0
+| super-cohorte = 0
+
+| infra-classe = 0
+| sous-classe = 0
+| classe = 0
+| super-classe = 0
+
+| sous-embranchement = 0
+| embranchement = 0
+| super-embranchement = 0
+| sous-division = 0
+| division = 0
+| super-division = 0
+
+| infra-règne = 0
+| sous-règne = 0
+| règne = 0
+| super-règne = 0
+| sous-domaine = 0
+| domaine = 0
+| empire = 0
+| 0 {{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ang]]}}
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Infgenre]]
+
+</noinclude>
