@@ -1,0 +1,7 @@
+| colspan="2" align="center" style="padding:1px 0px 0px 0px; font-size: 90%;" | '''[[Statut de conservation]] [[Union internationale pour la conservation de la nature|UICN]] :'''<br />
+'''{{{1}}}'''{{#if:{{{2|}}}| {{{2}}}}} : {{#ifeq:{{{1}}}|CR|<br/>| }}'''{{UICN {{{1}}}}}'''{{#if: {{{3|}}}|<br/>''{{{3}}}''}}<br />
+{{#ifeq:{{{1}}}|DD||[[Image:Status iucn{{#ifeq:{{{1}}}|CD|2.3|3.1}} {{#ifeq:{{{1}}}|jamais|blank|{{{1}}}}}-fr.svg|244px|alt=Schéma montrant le risque d'extinction sur le classement de l'UICN.]]<br />}}
+[[Catégorie:Statut UICN {{UICN {{{1}}}|court}}]]
+|-----
+
+[[fr:Modèle:Taxobox_UICN]]
