@@ -1,0 +1,59 @@
+{{#switch:{{{1}}}
+| clade = [[Clade]]
+| type = [[Classification des virus|Type]]
+| groupe = [[Classification des virus#Classification par type de génome|Groupe]]
+| non-classé = — non-classé —
+| sous-forme = [[Forme botanique|Sous-forme]]
+| forme = [[Forme botanique|Forme]]
+| cultivar = [[Cultivar]]
+| variété = [[Variété (botanique)|Variété]]
+| sous-espèce = [[Sous-espèce (biologie)|Sous-espèce]]
+| hybride = [[Hybride]]
+| espèce = {{#ifeq: {{{2|virus}}}|virus|[[Espèce (biologie)|Espèce]]|[[Nom binominal]]}}
+| sous-série = [[Série (biologie)|Sous-série]]
+| série = [[Série (biologie)|Série]]
+| sous-section = [[Section (biologie)|Sous-section]]
+| section = [[Section (biologie)|Section]]
+| sous-genre = [[Sous-genre (biologie)|Sous-genre]]
+| genre = [[Genre (biologie)|Genre]]
+| sous-tribu = [[Sous-tribu (biologie)|Sous-tribu]]
+| tribu = [[Tribu (biologie)|Tribu]]
+| super-tribu = [[Super-tribu (biologie)|Super-tribu]]
+| infra-tribu = [[Sous-tribu (biologie)|Infra-tribu]]
+| sous-famille = [[Sous-famille]]
+| famille = [[Famille (biologie)|Famille]]
+| épifamille = [[Famille (biologie)|Épifamille]]
+| super-famille = [[Super-famille]]
+| micro-ordre = [[Micro-ordre]]
+| infra-ordre = [[Infraordre|Infra-ordre]]
+| sous-ordre = [[Sous-ordre]]
+| ordre = [[Ordre (biologie)|Ordre]]
+| super-ordre = [[Superordre (biologie)|Super-ordre]]
+| sous-cohorte = [[Sous-cohorte (biologie)|Sous-cohorte]]
+| cohorte = [[Cohorte (biologie)|Cohorte]]
+| super-cohorte = [[Super-cohorte (biologie)|Super-cohorte]]
+| infra-classe = [[Infraclasse|Infra-classe]]
+| sous-classe = [[Sous-classe (biologie)|Sous-classe]]
+| classe = [[Classe (biologie)|Classe]]
+| super-classe = [[Superclasse|Super-classe]]
+| sous-embranchement = {{#ifeq:{{{format}}}|long|[[Sous-embranchement]]|[[Sous-embranchement|Sous-embr.]]}}
+| embranchement = {{#ifeq:{{{format}}}|long|[[Embranchement (biologie)|Embranchement]]|[[Embranchement (biologie)|Embranchement]]}}
+| super-embranchement = {{#ifeq:{{{format}}}|long|[[Super-embranchement (biologie)|Super-embranchement]]|[[Super-embranchement (biologie)|Super-embr.]]}}
+| sous-division = [[Sous-division (biologie)|Sous-division]]
+| division = [[Division (biologie)|Division]]
+| super-division = [[Division (biologie)|Super-Division]]
+| infra-règne = [[Infra-règne]]
+| sous-règne = [[Sous-règne]]
+| règne = [[Règne (biologie)|Règne]]
+| super-règne = [[Super-règne (biologie)|Super-règne]]
+| sous-domaine = [[Sous-domaine (biologie)|Sous-domaine]]
+| domaine = [[Domaine (biologie)|Domaine]]
+| empire = [[Empire (biologie)|Empire]]
+| '''Rang à préciser''' {{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ang]]}}
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Rang]]
+
+</noinclude>
