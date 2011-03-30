@@ -1,0 +1,12 @@
+<noinclude>{|
+</noinclude>! style="background-color:{{Taxoboxoutils couleur majeure|{{{1}}}}};" colspan="2" | {{taxoboxoutils rang|{{{2}}}|{{{1}}}|format=long}} {{Taxoboxoutils règne vérification|{{{1}}} }}
+|-----
+! colspan="2" | ''{{{3}}}''<br /><font color=black size=1> {{#if:{{{4|}}}|{{{4}}}|{{Taxoboxoutils auteur inconnu|{{{1}}} }} }}
+|-----
+{{Taxoboxoutils titre en italique|{{{1}}}|{{{2}}}|{{{3}}}}}<noinclude>|}
+
+
+
+[[Catégorie:Modèle taxobox|Taxon]]
+
+</noinclude>
