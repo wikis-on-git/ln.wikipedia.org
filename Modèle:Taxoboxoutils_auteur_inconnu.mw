@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| test = {{auteur}}, {{Date à préciser}}
+| algue = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-algue]]
+| animal = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-animal]]
+| archaea = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-archaea]]
+| bactérie = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-bactérie]]
+| champignon = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-champignon]]
+| protiste = [[Catégorie:Auteur manquant-protiste]]
+| végétal = [[:Catégorie:Auteur incomplet ou manquant|— auteur incomplet —]], {{Date à préciser}} [[Catégorie:Auteur manquant-végétal]]
+| virus = [[Catégorie:Auteur manquant-virus]]
+| neutre =
+| eucaryote = {{auteur}}, {{Date à préciser}}
+| procaryote = {{auteur}}, {{Date à préciser}}
+| {{auteur}}, {{Date à préciser}} {{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ègne]]}}
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Auteur inconnu]]
+
+</noinclude>
