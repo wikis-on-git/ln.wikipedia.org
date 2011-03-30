@@ -1,0 +1,5 @@
+<span class="ouvrage" id=" {{ #if:{{{ancre|}}} |{{{ancre}}} |{{anchorencode:UICN }} }}">Référence [[Union internationale pour la conservation de la nature|UICN]] : [http://www.iucnredlist.org/apps/redlist/details/{{#if:x|{{{1}}}}} <small>espèce</small> {{{2|num {{{1}}}}}}] {{en}}</span><noinclude>
+
+
+
+</noinclude>
