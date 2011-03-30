@@ -13,9 +13,9 @@
 | procaryote = {{Taxobox | domaine | Procaryote }}
 | {{Taxobox | règne | Règne à préciser | '''Règne à préciser''' }}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ègne]]}}
 }} }}<noinclude>
-{{protection}}
-{{Documentation}}
 
 [[Catégorie:Modèle outils taxobox|Premier parent]]
+
+[[fr:Modèle:Taxoboxoutils premier parent]]
 
 </noinclude>
