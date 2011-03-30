@@ -14,8 +14,8 @@
 | {{#ifexpr:{{Taxoboxoutils infgenre|{{{2}}}}}|{{#ifeq:{{PAGENAME}}|{{{3}}}|{{Titre mis en forme|''{{lang|la|{{{3}}}}}''}} }} }}
 }}<noinclude>
 
-
-
 [[Catégorie:Modèle outils taxobox|Titre en italique]]
+
+[[fr:Modèle:Taxoboxoutils titre en italique]]
 
 </noinclude>
