@@ -1,0 +1,34 @@
+{{#switch:{{lc:{{{1}}}}}
+<!-- végétal -->
+| apg = [[Classification APG]]
+| apgii = [[Classification APG II]]
+| apgiii = [[Classification APG III]]
+| apwebsite = [[Angiosperm Phylogeny Website|Classification selon APWebsite]]
+| cronquist = [[Classification de Cronquist]]
+| dahlgren = [[Classification de Dahlgren]]
+| engler = [[Classification de Engler]]
+| ncbi = [[National Center for Biotechnology Information|Classification selon NCBI]]
+| takhtajan = [[Classification de Takhtajan]]
+| thorne = [[Classification de Thorne]]
+| raunkier = [[Classification de Raunkier]]
+<!-- oiseaux -->
+| coi = [[Congrès ornithologique international|Classification (COI)]]
+| peterson = [[Alan P. Peterson|Classification de Alan P. Peterson]]
+| sibley = [[Classification de Sibley-Ahlquist]]
+<!-- amphibiens -->
+| asw = [[Amphibian Species of the World|Classification selon ASW]]
+<!-- tortues -->
+| tftsg = [[Tortoise and Freshwater Turtle Specialist Group|Classification selon TFTSG]]
+<!-- tous règnes-->
+| lecointre = [[Classification phylogénétique de Guillaume Lecointre et Hervé Le Guyader|Classification de Lecointre et Le Guyader]]
+<!-- valeur par défaut (paramètre vide) -->
+| = {{#switch:{{{2|}}}
+| végétal = [[Classification classique]]<!-- Les Taxobox de végétaux doivent fournir 2 classif: par exemple Cronquist + APGII -->
+| virus = [[Classification des virus]]
+| [[Classification scientifique des espèces|Classification]]
+}}
+<!-- valeur si le paramètre n'est pas reconnu -->
+| [[Classification scientifique des espèces|Classification]]<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Classification]]}}</includeonly>
+}}<noinclude>
+
+</noinclude>
