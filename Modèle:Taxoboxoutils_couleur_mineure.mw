@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| test = &#35;C0F0E0
+| algue = &#35;FFFFFF
+| animal = &#35;FFFFFF
+| archaea = &#35;FFFFFF
+| bactérie = &#35;FFFFFF
+| champignon = &#35;FFFFFF
+| protiste = &#35;FFFFFF
+| végétal = &#35;FFFFFF
+| virus = &#35;FFFFFF
+| neutre = &#35;FFFFFF
+| eucaryote = &#35;#FFFFFF
+| procaryote = &#35;FFFFFF
+| &#35;FF6666
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Couleur mineure]]
+
+</noinclude>
