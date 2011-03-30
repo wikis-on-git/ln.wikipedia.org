@@ -1,0 +1,37 @@
+| colspan=2 align="center" style="padding:0px;" | [[Image:{{{1}}}|250px]]
+{{#if: {{{2|{{{label|}}} }}} | <small>{{{2|{{{label|}}} }}}</small> | }}
+|-----
+<noinclude>
+
+
+;Utilisation
+: Le but de ce taxobox est de fournir une image avec une légende dessous dans taxobox.
+
+;Exemples
+: <nowiki>{{Taxobox image | Leopard.png | un léopard faisant la sieste}}</nowiki>
+: <nowiki>{{Taxobox image | Leopard.png }}</nowiki>
+
+;Syntaxes
+: <pre><nowiki>{{Taxobox image | Image | Légende }}</nowiki></pre>
+
+;Paramètres
+:* '''Image'''
+:: L'image.
+:: '''Ex:''' ''Leopard.png''
+:* '''Légende''' (optionnel)
+:: Une légende à cet image
+:: '''Ex:''' ''un léopard faisant la sieste''
+
+;Exemples d'utilisation
+:Avec légende:
+:* en recherche d'exemple
+:Sans légende:
+:* en recherche d'exemple
+
+;Voir aussi
+
+[[Catégorie:Modèle taxobox|Image]]
+
+[[fr:Modèle:Taxobox image]]
+
+</noinclude>
