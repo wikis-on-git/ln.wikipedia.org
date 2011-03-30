@@ -1,0 +1,13 @@
+<noinclude>{|
+</noinclude>! bgcolor="{{Taxoboxoutils couleur majeure|{{{1}}}}}" colspan="2" | Répartition géographique {{Taxoboxoutils règne vérification|{{{1}}} }}
+|-----
+| colspan=2 align="center" style="padding:0px;" | [[Image:{{{2}}}|{{{4|250px}}}|{{{3|{{{label|}}} }}}]]
+{{#if: {{{3|{{{label|}}} }}} | <small>{{{3|{{{label|}}} }}}</small> | }}
+|-----<noinclude>
+|}<!--juste pour fermer la table pour la documentation-->
+
+
+
+[[Catégorie:Modèle taxobox|Repartition]]
+
+</noinclude>
