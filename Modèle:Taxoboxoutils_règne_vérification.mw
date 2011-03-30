@@ -1,0 +1,21 @@
+{{#switch:{{{1}}}
+| test =
+| algue =
+| animal =
+| archaea =
+| bactérie =
+| champignon =
+| protiste =
+| végétal =
+| virus =
+| neutre =
+| eucaryote =
+| procaryote =
+| '''Règne à préciser''' {{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article à taxobox à corriger|Ègne]]}}
+}}<noinclude>
+
+
+
+[[Catégorie:Modèle outils taxobox|Règne vérification]]
+
+</noinclude>
