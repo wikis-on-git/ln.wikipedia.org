@@ -7,7 +7,8 @@
 |----
 {{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Article avec taxobox-{{#if:x|{{{1}}}}}]]}}<noinclude>|}
 
-
 [[Catégorie:Modèle taxobox|Simple début]]
+
+[[fr:Modèle:Taxobox simple début]]
 
 </noinclude>
