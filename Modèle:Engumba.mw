@@ -19,8 +19,8 @@
 |-
 | valign="top"| [[Etando]] || align=center|{{{etando}}} km² 
 |-
-| [[Bato]]<br /> - motángo ([[Mbúla]])
-| align=center| {{formatnum:{{{bato}}}}} bato <br /><small>({{{mbúla}}})</small>
+| [[Bato]]<br /> - motángo ([[Mobú]])
+| align=center| {{formatnum:{{{bato}}}}} bato <br /><small>({{{mobú}}})</small>
 |-
 | valign="top"| [[Densité de population|Densité]] || align=center|{{#if: {{{bato|}}}|{{#if:{{{etando|}}}|{{#expr:{{{bato}}}/{{{etando}}} round 2 }}|?}}|?}} bato/km² 
 |-
@@ -35,7 +35,7 @@
 |bugumési=František Knapík
 |etando =243
 |bato   =235006
-|mbúla  =2007
+|mobú  =2007
 |carte  =Map slovakia kosice.png
 }}
 <nowiki>
@@ -47,7 +47,7 @@
 |bugumési=František Knapík
 |etando =243
 |bato   =235006
-|mbúla  =2007
+|mobú  =2007
 |carte  =Map slovakia kosice.png
 }}
 </nowiki>
