@@ -1,0 +1,59 @@
+{{#switch:{{{1}}}
+| name   = Demokratische Republik Kongo
+| top    = 6
+| bottom = -14
+| left   = 11
+| right  = 32
+|image={{#switch: {{{2|}}}
+|relief=Democratic Republic of the Congo relief location map.jpg
+|#default=Democratic Republic of the Congo location map.svg
+}}}}<noinclude>
+{{Positionskarte/Info|sortkey=Kongo, Demokratische Republik}}
+
+[[am:መለጠፊያ:Location map ኮንጎ ዲሞክራቲክ ሪፑብሊክ]]
+[[be:Шаблон:На карце/Дэмакратычная Рэспубліка Конга]]
+[[be-x-old:Шаблён:Лякалізацыйная мапа Дэмакратычнай Рэспублікі Конга]]
+[[bg:Шаблон:ПК Демократична република Конго]]
+[[cs:Šablona:LocMap Demokratická republika Kongo]]
+[[dsb:Pśedłoga:LocMap Demokratiska republika Kongo]]
+[[en:Template:Location map Democratic Republic of the Congo]]
+[[eo:Ŝablono:Situo sur mapo Kongo Kinŝasa]]
+[[es:Plantilla:Mapa de localización de República Democrática del Congo]]
+[[eu:Txantiloi:Kokapen mapa/COD]]
+[[fr:Modèle:Géolocalisation/République démocratique du Congo]]
+[[he:תבנית:מפת מיקום/הרפובליקה הדמוקרטית של קונגו]]
+[[hr:Predložak:Lokacijska karta Demokratska Republika Kongo]]
+[[hsb:Předłoha:LocMap Demokratiska republika Kongo]]
+[[hu:Sablon:Pozíciós térkép Kongói Demokratikus Köztársaság]]
+[[hy:Կաղապար:Տեղորոշման քարտեզ Կոնգոյի Դեմոկրատական Հանրապետություն]]
+[[id:Templat:Location map Republik Demokratik Kongo]]
+[[is:Snið:Location map Austur-Kongó]]
+[[it:Template:Mappa di localizzazione/COD]]
+[[ja:Template:Location map コンゴ民主共和国]]
+[[ka:თარგი:პოზრუკა კონგოს დემოკრატიული რესპუბლიკა]]
+[[ko:틀:위치 지도 콩고 민주 공화국]]
+[[lt:Šablonas:Location map Kongo Demokratinė Respublika]]
+[[ml:ഫലകം:Location map Democratic Republic of the Congo]]
+[[mr:साचा:Location map काँगोचे लोकशाही प्रजासत्ताक]]
+[[nl:Sjabloon:Positiekaart Congo-Kinshasa]]
+[[nn:Mal:Kartposisjon Kongo]]
+[[no:Mal:Kartposisjon Den demokratiske republikken Kongo]]
+[[os:Шаблон:ПозКартæ Конгойы Демократон Республикæ]]
+[[pl:Szablon:Mapa lokalizacyjna/COD]]
+[[pt:Predefinição:Mapa de localização/República Democrática do Congo]]
+[[ro:Format:Harta de localizare Republica Democrată Congo]]
+[[ru:Шаблон:ПозКарта Демократическая Республика Конго]]
+[[sah:Халыып:Location map Democratic Republic of the Congo]]
+[[sk:Šablóna:Geobox locator Kongo (býv. Zair)]]
+[[sr:Шаблон:Location map Congo]]
+[[sv:Mall:Kartposition Kongo-Kinshasa]]
+[[sw:Kigezo:Location map Jamhuri ya Kidemokrasia ya Kongo]]
+[[szl:Szablon:Mapa lokalizacyjno/COD]]
+[[th:แม่แบบ:Location map Democratic Republic of the Congo]]
+[[tr:Şablon:Location map Democratic Republic of the Congo]]
+[[uk:Шаблон:Карта розташування Демократична Республіка Конго]]
+[[vi:Bản mẫu:Bản đồ định vị Cộng hòa Dân chủ Congo]]
+[[yo:Àdàkọ:Location map Democratic Republic of the Congo]]
+[[zh:Template:Location map Democratic Republic of the Congo]]
+[[zh-min-nan:Template:Location map Democratic Republic of the Congo]]
+</noinclude>
