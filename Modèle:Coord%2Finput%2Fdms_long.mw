@@ -1,0 +1,6 @@
+<includeonly>{{Coord/link|dms-lat={{{1}}}°&nbsp;{{{2}}}′&nbsp;{{{3}}}″&nbsp;{{ #ifeq:{{{4}}}|N|Nord|Sud}}|dms-long={{{5}}}°&nbsp;{{{6}}}′&nbsp;{{{7}}}″&nbsp;{{ #ifeq:{{{8}}}|E|Est|Ouest}}|dec-lat={{coord/dms2dec|{{{4}}}|{{{1}}}|{{{2}}}|{{{3}}}}}|dec-long={{coord/dms2dec|{{{8}}}|{{{5}}}|{{{6}}}|{{{7}}}}}|param={{{1}}}_{{{2}}}_{{{3}}}_{{{4}}}_{{{5}}}_{{{6}}}_{{{7}}}_{{{8}}}_{{{9|}}}|default={{#if:{{{format|}}}|{{{format}}}|dms long}}|name={{{name|}}}}}</includeonly><noinclude>
+Modèle utilisé par {{m|Coord}}, se rapporter à ce dernier. Adaptation en français de l'affichage des coordonnées exprimées en degrés-minutes-secondes :
+* Affiche la latitude et la longitude sur deux lignes séparées,
+* Met des espaces entre les degrés, minutes, secondes et points cardinaux,
+* Remplace l'affichage points cardinaux en anglais (N/E/S/W) par un affichage en français (Nord/Est/Sud/Ouest)
+[[Catégorie:Modèle de coordonnées|Coord/input/dms long]]</noinclude>
