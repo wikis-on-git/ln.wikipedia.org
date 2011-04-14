@@ -1,0 +1,4 @@
+<includeonly>{{Coord/link|dms-lat={{coord/dec2dms|{{{1}}}|{{#ifeq:{{{format|}}}|dms long|Nord|N}}|{{#ifeq:{{{format|}}}|dms long|Sud|S}}|{{coord/prec dec|{{{1}}}|{{{2}}}}}}}|dms-long={{coord/dec2dms|{{{2}}}|{{#ifeq:{{{format|}}}|dms long|Est|E}}|{{#ifeq:{{{format|}}}|dms long|Ouest|W}}|{{coord/prec dec|{{{1}}}|{{{2}}}}}}}|dec-lat={{{1}}}|dec-long={{{2}}}|param={{{1}}}_N_{{{2}}}_E_{{{3|}}}|default={{#if:{{{format|}}}|{{{format}}}|dec}}|name={{{name|}}}
+}}</includeonly><noinclude>
+{{/Ndimbo}}
+</noinclude>
