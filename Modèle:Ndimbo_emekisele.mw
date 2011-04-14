@@ -1,4 +1,4 @@
 <includeonly><div class="template-documentation" style="clear:both;border:1px solid #AAA;background:{{#if:{{{background|}}}|{{{background|}}}|#ECFCF4}};padding:5px;zoom:1"><!--zoom:1 pour bug IE-->
-{{Ndimbo emekisele {{#if:{{{parser|}}}|esálí na ParserFunctions}}|{{{1|{{FULLPAGENAME}}/Documentation}}}|preload=Modèle:Ndimbo emekisele/Preload}}
+{{Ndimbo emekisele {{#if:{{{parser|}}}|esálí na ParserFunctions}}|{{{1|{{FULLPAGENAME}}/Ndimbo}}}|preload=Modèle:Ndimbo emekisele/Preload}}
 {{ {{#ifexist:{{{1|{{FULLPAGENAME}}/Ndimbo}}}|{{{1|{{FULLPAGENAME}}/Ndimbo}}}|ns:0}} }}
 </div></includeonly><noinclude>{{ndimbo emekisele|parser=1}}</noinclude>
