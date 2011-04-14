@@ -1,0 +1,13 @@
+<includeonly><div class="messagebox" style="clear:both;margin:0.5em;margin-left:10%;width:80%;margin-left:10%;border:1px solid #AAA;padding:0.2em">
+{|width="100%" border="0" cellspacing="0" cellpadding="4" style="background:transparent"
+|width="90" align="center"|[[Image:Template-info.svg|80px|link=|alt=]]
+|
+<p style="line-height:1.2">{{{texte|Ci-dessous la [[Aide:Modèle/Comment documenter un modèle ?|documentation]] de ce [[Aide:modèle|modèle]].}}} {{{aide|Voir la [[Wikipédia:Modèles|liste des modèles]].}}}{{#if:{{{note|x}}}|</p>
+<p style="line-height:1.2"><small>{{{note|{{Purger le cache}} lorsque vos modifications n’apparaissent pas.}}}</small><nowiki />}}</p>
+|}{{#if:{{{information|}}}|<nowiki />
+{{{!}}width="100%" border="0" cellspacing="0" cellpadding="4" style="background:transparent;border-top:1px solid #AAA"
+{{!}}width="90" align="center"{{!}}[[Image:Nuvola apps important.svg|50px|alt=|link=]]
+{{!}}
+<p style="line-height:1.2">{{{information|}}}</p>
+{{!}}}<nowiki />}}
+</div></includeonly><noinclude>{{ndimbo emekisele}}</noinclude>
