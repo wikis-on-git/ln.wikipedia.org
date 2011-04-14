@@ -1,0 +1,3 @@
+<includeonly>{{#switch:{{max|{{precision1|{{{1}}}}}|{{precision1|{{{2}}}}}}}|0=d|1|2=dm|dms}}</includeonly><noinclude>
+{{/Documentation}}
+</noinclude>
