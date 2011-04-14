@@ -1,0 +1,9 @@
+<includeonly>{{#expr:{{{1}}} mod 360}}°&nbsp;{{padleft:{{#expr:({{{1}}} * 600 round 0) mod 600 / 10 round 0}}|2|0}}′&nbsp;</includeonly><noinclude>
+Modèle utilisé par {{m|Coord}}.
+[[Catégorie:Modèle de coordonnées|Coord/dec2dms/dm]]
+[[af:Sjabloon:Koördinate/dec2dms/dm]]
+[[arz:قالب:Coord/dec2dms/dm]]
+[[en:Template:Coord/dec2dms/dm]]
+[[pt:Predefinição:Coordenadas/dec2dms/dm]]
+[[sl:Predloga:Koord/dec2dms/dm]]
+</noinclude>
