@@ -1,0 +1,6 @@
+<includeonly>{{Coord/link|dms-lat={{{1}}}°{{{2}}}′{{{3}}}|dms-long={{{4}}}°{{{5}}}′{{{6}}}|dec-lat={{coord/dms2dec|{{{3}}}|{{{1}}}|{{{2}}}}}|dec-long={{coord/dms2dec|{{{6}}}|{{{4}}}|{{{5}}}}}|param={{{1}}}_{{{2}}}_{{{3}}}_{{{4}}}_{{{5}}}_{{{6}}}_{{{7|}}}|default={{#if:{{{format|}}}|{{{format}}}|dms}}|name={{{name|}}}}}</includeonly><noinclude>
+Modèle utilisé par {{m|Coord}}, voir cette page. Renvoit les coordonnées pour lien url et pour affichage en degrés-minutes.
+
+[[Catégorie:Modèle de coordonnées|Coord/input/dm]]
+[[en:Template:Coord/input/dm]]
+</noinclude>
