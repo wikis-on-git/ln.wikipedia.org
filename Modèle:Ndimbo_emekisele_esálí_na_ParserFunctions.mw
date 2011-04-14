@@ -1,4 +1,4 @@
-<includeonly>{{ {{#ifeq:{{SUBPAGENAME}}|Ndimbo|Documentation modèle vue directement|Méta documentation modèle}}|
+<includeonly>{{ {{#ifeq:{{SUBPAGENAME}}|Ndimbo|Ndimbo emekisele etálémí|Méta ndimbo emekisele}}|
 texte=La [[Aide:Modèle/Comment documenter un modèle ?|documentation]] de ce [[Aide:modèle|modèle]] est [[Aide:Inclusion|incluse]] depuis sa '''[[{{FULLPAGENAME}}/Documentation|sous-page de documentation]]''' <span style="font-size:smaller">[{{Modifier la sous-page|Documentation|}}]</span>.|
 information='''Ce modèle emploie quelques fonctionnalités complexes de la syntaxe des [[mw:Help:Extension:ParserFunctions/fr|ParserFunctions]].'''
 
