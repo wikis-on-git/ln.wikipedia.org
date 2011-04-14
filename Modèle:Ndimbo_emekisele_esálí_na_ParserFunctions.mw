@@ -1,0 +1,12 @@
+<includeonly>{{ {{#ifeq:{{SUBPAGENAME}}|Ndimbo|Documentation modèle vue directement|Méta documentation modèle}}|
+texte=La [[Aide:Modèle/Comment documenter un modèle ?|documentation]] de ce [[Aide:modèle|modèle]] est [[Aide:Inclusion|incluse]] depuis sa '''[[{{FULLPAGENAME}}/Documentation|sous-page de documentation]]''' <span style="font-size:smaller">[{{Modifier la sous-page|Documentation|}}]</span>.|
+information='''Ce modèle emploie quelques fonctionnalités complexes de la syntaxe des [[mw:Help:Extension:ParserFunctions/fr|ParserFunctions]].'''
+
+Veuillez ne pas tenter de le modifier à moins que vous ne soyez certain de bien comprendre sa conception '''et''' êtes préparé à réparer tous les dommages collatéraux si les résultats sont inattendus. Toute expérimentation devrait être conduite d’abord via une copie sur le [[Modèle:Bac à sable|Modèle bac à sable]] ou dans votre espace utilisateur (voir la page [[Bosáli:Emekisele]]).
+}}{{#ifeq:{{SUBPAGENAME}}|Ndimbo||{{#ifeq:{{NAMESPACE}}|Modèle|[[Catégorie:Emekisele esálí na ParserFunctions|{{PAGENAME}}]]}}}}</includeonly><noinclude><!--
+
+  Pour limiter le nombre de changements de cette page merci de placer les
+  métadonnées (catégories, interwikis) concernant ce modèle dans une
+  section <includeonly> de sa sous-page de documentation, plutôt qu'ici.
+
+-->{{nobots}}{{ndimbo emekisele|parser=1}}</noinclude>
