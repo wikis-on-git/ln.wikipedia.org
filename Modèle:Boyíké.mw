@@ -1,1 +1,5 @@
-([[boyíké]] : {{#if:{{{1|}}}|''{{{1}}}''}}{{#if:{{{2|}}}|&#32;tǒ ''{{{2}}}''}})
+([[boyíké]] : {{#if:{{{1|}}}|''{{{1}}}''}}{{#if:{{{2|}}}|&#32;tǒ ''{{{2}}}''}})<noinclude>
+== Ndakisa ==
+*<nowiki>{{boyíké|nyama}}</nowiki> → {{boyíké|nyama}}
+*<nowiki>{{boyíké|nyama|banyama}}</nowiki> → {{boyíké|nyama|banyama}}
+</noinclude>
