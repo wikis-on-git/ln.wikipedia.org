@@ -1,0 +1,16 @@
+{{#switch:{{{1|}}}
+| animal
+| animale
+| animals =&source=animals
+| végétal
+| végétale
+| végétals
+| plants =&source=plants
+|}}<noinclude>
+
+;Utilisation
+:Ce modèle ne doit pas être utilisé directement.
+:Il est utilisé par {{m|CITES espèce}}, {{m|CITES genre}}, {{m|CITES famille}} pour déterminer de quel genre il s’agit.
+
+
+</noinclude>
