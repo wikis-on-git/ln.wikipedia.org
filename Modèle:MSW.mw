@@ -1,0 +1,5 @@
+<span class="ouvrage" id=" {{ #if:{{{ancre|}}} |{{{ancre}}} |{{anchorencode:MSW }} }}"> Référence [[Mammal Species of the World]] : [http://www.bucknell.edu/msw3/browse.asp?s=y&id={{#if:x|{{{1}}}}} ''{{{2}}}'' {{{3|}}}] {{en}}</span><noinclude>
+
+{{Documentation}}
+
+</noinclude>
