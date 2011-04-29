@@ -1,0 +1,5 @@
+<span class="ouvrage" id=" {{ #if:{{{ancre|}}} |{{{ancre}}} |{{anchorencode:CITES genre}} }}">Référence [[Convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction|CITES]] : [http://sea.unep-wcmc.org/isdb/CITES/Taxonomy/tax-genus-result.cfm?displaylanguage=fra&Country={{CITES outils règne|{{{1|}}}}}&Genus={{#if:x|{{{2}}}}} <small>genre</small> {{{3|{{{2}}}}}}] (<small>sur le site de l’[[Programme des Nations unies pour l'environnement|UNEP]]-[[Centre de surveillance de la conservation de la nature|WCMC]]</small>) {{fr+en}}</span><noinclude>
+
+{{Documentation}}
+
+</noinclude>
