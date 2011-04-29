@@ -1,0 +1,5 @@
+<span class="ouvrage" id=" {{ #if:{{{ancre|}}} |{{{ancre}}} |{{anchorencode:ARKive GES}} }}">Référence [http://www.arkive.org/ Fonds documentaire ARKive] : [http://www.arkive.org/species/GES/{{#if:x|{{{1}}}}}/{{#if:x|{{{2}}}}}_{{#if:x|{{{3}}}}}{{ #if: {{{4|}}} | _{{#if:x|{{{4}}}}} }}/ ''{{{2}}} {{{3}}} {{ #if: {{{4|}}} | {{{4}}} }}''] {{en}}</span><noinclude>
+
+{{Documentation}}
+
+</noinclude>
