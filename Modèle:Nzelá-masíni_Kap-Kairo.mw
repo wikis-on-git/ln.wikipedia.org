@@ -2,7 +2,7 @@
 {{BS-header|Nzelá-masíni ya Kap na Kairo}}
 {{BS-table}}
 {{BS3|BOOT|KBHFa ||0|[[Alexandria]] |(0 m) ''[[Méditeranéa]]''}}
-{{BS3||ABZrg | | |''[[Palestina]]'' }}
+{{BS3||ABZrg |CONTl  | |''[[Palestina]]'' }}
 {{BS3||BHF|| |[[Kairo]] |(68 m)}}
 {{BS3||KBHFe|| 893 |[[Asswan]] |(106 m)}}
 {{BS3||BOOT|| |[[Nil]] |}}
@@ -10,9 +10,9 @@
 {{BS3||BHF||917 |[[Kartum]] |(379 m)}}
 {{BS3||KBHFe|| |[[Wau]] |(453 m)}}
 {{BS3||LUECKE||| }}
-{{BS3||KBHFl|||[[Arua]] | (1195 m) ''na [[Mombasa]]'' }}
+{{BS3||KBHFl|CONTl ||[[Arua]] | (1195 m) ''na [[Mombasa]]'' }}
 {{BS3||LUECKE||| }}
-{{BS3||KBHFl |||[[Kasese]]| (1734 m) ''na Mombasa''  }}
+{{BS3||KBHFl |CONTl ||[[Kasese]]| (1734 m) ''na Mombasa''  }}
 {{BS3|BOOT|LUECKE||137|[[Bukavu]] | (1460 m) ''[[Kivu (etímá)]]''}}
 {{BS3||exBHF||93.4|Kamanyola | (903 m)}}
 {{BS3|BOOT|exBHF||0|[[Uvira]] (Kalundu) | (776 m) ''[[Tanganyika (etímá)]]''}}
@@ -20,7 +20,7 @@
 {{BS3||BHF|||[[Lubumbashi]] |(1000 m)}}
 {{BS3||BHF|||[[Lusaka]] |(1250 m)}}
 {{BS3||BHF|||[[Bulawayo]] |(1358 m)}}
-{{BS3||ABZdg| | | | ''[[Namibia]] mpé [[Johannesburg]]'' }}
+{{BS3|CONTr |ABZdg|CONTl  | | | ''[[Namibia]] mpé [[Johannesburg]]'' }}
 {{BS3||BHF||1036|[[Kimberley]] |(1240 m)}}
 {{BS3|BOOT|KBHFe||0|[[Engumba ya Kap]] |(8 m)}}
 |}
