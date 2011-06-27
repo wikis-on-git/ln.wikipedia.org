@@ -1,6 +1,70 @@
+{{Taxobox début | animal | ''Polypterus'' | Polypterus_senegalus_senegalus_headstand.jpg | ''[[Polypterus senegalus]]'' }}
+{{Taxobox | embranchement | Chordata }}
+{{Taxobox | sous-embranchement | Vertebrata }}
+{{Taxobox | super-classe | Osteichthyes }}
+{{Taxobox | classe | Actinopterygii }}
+{{Taxobox | sous-classe | Chondrostei }}
+{{Taxobox | ordre | Polypteriformes }}
+{{Taxobox | famille | Polypteridae }}
+{{Taxobox taxon | animal | genre | Polypterus | [[Bernard Germain Étienne de Laville-sur-Illon, comte de Lacépède|Lacepède]], [[1803]]  }}
+{{Taxobox phylogénie arbre | animal |
+*[[Ostéichthyens]]
+**[[Actinoptérygiens]]
+***[[Cladistiens]]
+***[[Actinoptères]]
+****[[Chondrostéens]]
+****[[Néoptérygiens]]
+**[[Sarcoptérygiens]]}}
+{{Taxobox wikispecies | Polypterus }}
+{{Taxobox commons | Category:Polypteriformes }}
+{{Taxobox fin}}
+
 '''Mokóngá''' (''Polypterus'') ezalí [[mbísi]].
 
+== Species ==
+* ''[[Polypterus ansorgii]]'' <small> Boulenger, 1910</small>
+* ''[[Polypterus bichir]]'' <small>Lacepède, 1803</small>
+** ''[[Polypterus bichir bichir|P. bichir bichir]]''
+** ''[[Polypterus bichir katangae|P. bichir katangae]]''
+** ''[[Polypterus bichir lapradei|P. bichir lapradei]]''
+* ''[[Polypterus delhezi]]'' <small>Boulenger, 1899</small>
+* ''[[Polypterus endlicherii]]'' <small>Heckel, 1847</small>
+** ''[[Polypterus endlicheri endlicheri|P. endlicheri endlicheri]]''
+* ''[[Polypterus ornatipinnis]]'' <small>Boulenger, 1902 - Bichir</small>
+* ''[[Polypterus palmas]]'' <small>Ayres, 1850</small>
+** ''[[Polypterus palmas buettikoferi|P. palmas buettikoferi]]''
+** ''[[Polypterus palmas palmas|P. palmas palmas]]''
+** ''[[Polypterus palmas polli|P. palmas polli]]''
+* ''[[Polypterus polli]]'' <small>Gosse, 1988</small>
+* ''[[Polypterus retropinnis]]'' <small>Vaillant, 1899</small>
+* ''[[Polypterus senegalus]]'' <small>Cuvier, 1829</small>
+** ''[[Polypterus senegalus meridionalis|P. senegalus meridionalis]]''
+** ''[[Polypterus senegalus senegalus|P. senegalus senegalus]]''
+* ''[[Polypterus weeksii]]'' <small>Boulenger, 1898</small>
+* ''[[Polypterus congicus|P. congicus]]'' 
+* ''[[Polypterus mokelembembe|P. mokelembembe]]'' - Mokèlé-mbèmbé 
+* ''[[Polypterus teugelsi|P. teugelsi]]'' 
+
+== Ilingi ==
+<gallery>
+Image:Polypterus weeksii 1.jpg|''Polypterus weeksii''
+Image:Polypterus weeksii 2.jpg
+Image:Polypterus weeksii 3.jpg
+Image:Polypterus weeksii 4.jpg
+</gallery>
+
 == Tála mpé ==
-* [http://www.fishbase.org/Nomenclature/ScientificNameSearchList.php?crit1_fieldname=SYNONYMS.SynGenus&crit1_fieldtype=CHAR&crit1_operator=EQUAL&crit1_value=Polypterus&crit2_fieldname=SYNONYMS.SynSpecies&crit2_fieldtype=CHAR&crit2_operator=contains&crit2_value=&group=summary&backstep=-2 http://www.fishbase.org]
+* {{FishBase genre|Polypterus|Lacepède, 1803 }}
+* {{ITIS|161059|''Polypterus''  Lacepède, 1803 }}
+* {{ADW|Polypterus|''Polypterus'' }}
+* {{NCBI|8290|''Polypterus'' }}
 
 [[Category:mbísi]]
+
+[[az:Çoxüzgəcli]]
+[[de:Eigentliche Flösselhechte]]
+[[fr:Polypterus]]
+[[ka:მრავალფარფლიანები]]
+[[lij:Polypterus]]
+[[no:Skuldergjedder]]
+[[uk:Багатопер]]
