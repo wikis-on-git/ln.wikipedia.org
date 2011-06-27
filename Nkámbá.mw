@@ -1,6 +1,82 @@
+{{Taxobox début | animal | ''Nkámbá '' | | }}
+{{Taxobox | embranchement | Chordata }}
+{{Taxobox | sous-embranchement | Vertebrata }}
+{{Taxobox | super-classe | Osteichthyes }}
+{{Taxobox | classe | Actinopterygii }}
+{{Taxobox | sous-classe | Neopterygii }}
+{{Taxobox | infra-classe | Teleostei }}
+{{Taxobox | super-ordre | Ostariophysi }}
+{{Taxobox | ordre | Siluriformes }}
+{{Taxobox | famille | Bagridae }}
+{{Taxobox taxon | animal | genre | Chrysichthys | [[Pieter Bleeker|Bleeker]], [[1858]]  }}
+{{Taxobox wikispecies | Bagridae }}
+{{Taxobox commons | Category:Siluriformes }}
+{{Taxobox fin}}
+
 '''Nkámbá''' (''Chrysichthys'') ezalí [[mbísi]].
 
+==Species==
+*''[[Chrysichthys acsiorum]]'' <small>Hardman, 2008</small>
+*''[[Chrysichthys aluuensis]]'' <small>Risch, 1985</small>
+*''[[Chrysichthys ansorgii]]'' <small>[[George Albert Boulenger|Boulenger]], 1910</small>
+*''[[Chrysichthys auratus]]'' <small>(Geoffroy Saint-Hilaire, 1809)</small><!-- ZoolRes28:193. -->
+*''[[Chrysichthys bocagii]]'' <small>Boulenger, 1910</small>
+*''[[Chrysichthys brachynema]]'' &ndash; [[Kibonde]], "[[salmontail catfish]]"
+*''[[Chrysichthys brevibarbis]]'' <small>(Boulenger, 1899)</small>
+*''[[Chrysichthys cranchii]]'' <small>(Leach, 1818)</small>
+*''[[Chrysichthys dageti]]'' <small>Risch, 1992</small>
+*''[[Chrysichthys delhezi]]'' <small>Boulenger, 1899</small>
+*''[[Chrysichthys duttoni]]'' <small>Boulenger, 1905</small>
+*''[[Chrysichthys furcatus]]'' <small>[[Albert C. L. G. Günther|Günther]], 1864</small>
+*''[[Chrysichthys grandis]]'' &ndash; [[Kukumai]]
+*''[[Chrysichthys graueri]]''
+*''[[Chrysichthys habereri]]'' <small>Steindachner, 1912</small>
+*''[[Chrysichthys helicophagus]]'' <small>Roberts & Stewart, 1976</small>
+*''[[Chrysichthys johnelsi]]'' <small>Daget, 1959</small>
+*''[[Chrysichthys laticeps]]'' <small>[[Jacques Pellegrin|Pellegrin]], 1932</small>
+*''[[Chrysichthys levequei]]'' <small>Risch, 1988</small>
+*''[[Chrysichthys longibarbis]]'' <small>(Boulenger, 1899)</small>
+*''[[Chrysichthys longidorsalis]]'' <small>Risch & Thys van den Audenaerde, 1981</small>
+*''[[Chrysichthys longipinnis]]'' <small>(Boulenger, 1899)</small>
+*''[[Chrysichthys mabusi]]'' <small>Boulenger, 1905</small>
+*''[[Chrysichthys macropterus]]'' <small>Boulenger, 1920</small>
+*''[[Chrysichthys macrotis]]'' <small>Van Neer, 1994</small> ([[extinct]])
+*''[[Chrysichthys mahengeensis]]'' <small>Murray & Budney, 2003</small> ([[extinct]])
+*''[[Chrysichthys maurus]]'' <small>([[Achille Valenciennes|Valenciennes]], 1840)</small>
+*''[[Chrysichthys nigrodigitatus]]'' <small>([[Bernard Germain de Lacépède|La Cepède]], 1803)</small>
+*''[[Chrysichthys nyongensis]]'' <small>Risch & Thys van den Audenaerde, 1985</small>
+*''[[Chrysichthys ogooensis]]'' <small>(Pellegrin, 1900)</small>
+*''[[Chrysichthys okae]]'' <small>[[Henry Weed Fowler|Fowler]], 1949</small>
+*''[[Chrysichthys ornatus]]'' <small>Boulenger, 1902</small>
+*''[[Chrysichthys persimilis]]'' <small>Günther, 1899</small>
+*''[[Chrysichthys platycephalus]]''
+*''[[Chrysichthys polli]]'' <small>Risch, 1987</small>
+*''[[Chrysichthys punctatus]]'' <small>Boulenger, 1899</small>
+*''[[Chrysichthys rueppelli]]'' <small>Boulenger, 1907</small>
+*''[[Chrysichthys sharpii]]'' <small>Boulenger, 1901</small>
+*''[[Chrysichthys sianenna]]''
+*''[[Chrysichthys stappersii]]''
+*''[[Chrysichthys teugelsi]]'' <small>Risch, 1987</small>
+*''[[Chrysichthys thonneri]]'' <small>Steindachner, 1912</small>
+*''[[Chrysichthys thysi]]'' <small>Risch, 1985</small>
+*''[[Chrysichthys turkana]]'' <small>Hardman, 2008</small>
+*''[[Chrysichthys uniformis]]'' <small>Pellegrin, 1922</small>
+*''[[Chrysichthys wagenaari]]'' <small>Boulenger, 1899</small>
+*''[[Chrysichthys walkeri]]'' <small>Günther, 1899</small>
+
+
 == Tála mpé ==
-* [http://www.fishbase.org/Nomenclature/ScientificNameSearchList.php?crit1_fieldname=SYNONYMS.SynGenus&crit1_fieldtype=CHAR&crit1_operator=EQUAL&crit1_value=Chrysichthys&crit2_fieldname=SYNONYMS.SynSpecies&crit2_fieldtype=CHAR&crit2_operator=contains&crit2_value=&group=summary&backstep=-2 Liste complète sur Fishbase - à vérifier]
+* {{FishBase genre|Chrysichthys|Bleeker, 1858 }}
+* {{ITIS|638985|''Chrysichthys''  Bleeker, 1858 }}
+* {{NCBI|236587|''Chrysichthys'' }}
+
+=== Búku ===
+* {{en}} {{cite journal|url=http://silurus.acnatsci.org/ACSI/library/biblios/2007_Ferraris_Catfish_Checklist.pdf|title=Checklist of catfishes, recent and fossil (Osteichthyes: Siluriformes), and catalogue of siluriform primary types|first=Carl J., Jr.|last=Ferraris|journal=[[Zootaxa]]|volume=1418|pages=1–628|year=2007|format=[[PDF]]}}
+* {{en}} {{cite journal|title=A New Species of Catfish Genus ''Chrysichthys'' from Lake Tanganyika (Siluriformes: Claroteidae)|first=Michael|last=Hardman|journal=Copeia|year=2008|volume=1|pages=43–56}}
 
 [[Category:mbísi]]
+
+[[ca:Chrysichthys]]
+[[es:Chrysichthys]]
+[[fr:Chrysichthys]]
+[[pt:Chrysichthys]]
