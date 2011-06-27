@@ -1,0 +1,14 @@
+<noinclude>{|
+</noinclude>! style="background-color:{{Taxoboxoutils couleur majeure|{{{1}}}}};" colspan="2" | {{Taxoboxoutils classification phylogénétique|{{{classification|}}} }}
+|-----
+{{#if:{{{image|{{{3|}}}}}}|
+<tr><td colspan="2" style="padding:0px;">[[Image:{{{image|{{{3|}}}}}}|250px]]</td></tr>}}
+<tr><td colspan="2" align="left">'''Position :'''<BR/>{{#if:x|{{{2}}}}}
+|-----<noinclude>
+|}
+
+{{/Documentation}}
+
+[[Catégorie:Modèle taxobox|Phylogenie arbre]]
+
+</noinclude>
