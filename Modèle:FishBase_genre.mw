@@ -1,0 +1,5 @@
+<span class="ouvrage" id="{{#if:{{{ancre|}}}|{{{ancre}}}|{{anchorencode:FishBase genre}}}}">Référence [[FishBase]] : <span class="plainlinksneverexpand">[http://www.fishbase.org/NomenClature/ScientificNameSearchList.php?crit1_fieldname=SYNONYMS.SynGenus&crit1_fieldtype=CHAR&crit1_operator=EQUAL&crit2_fieldname=SYNONYMS.SynSpecies&crit2_fieldtype=CHAR&crit2_operator=contains&group=summary&backstep=-2&crit1_value={{#if:x|{{{1}}}}} liste des espèces du genre ''{{{1|}}}'']</span> {{en}} <span class="plainlinksneverexpand"><small>([http://filaman.ifm-geomar.de/NomenClature/ScientificNameSearchList.php?crit1_fieldname=SYNONYMS.SynGenus&crit1_fieldtype=CHAR&crit1_operator=EQUAL&crit2_fieldname=SYNONYMS.SynSpecies&crit2_fieldtype=CHAR&crit2_operator=contains&group=summary&backstep=-2&crit1_value={{#if:x|{{{1}}}}} site mirroir])</small></span></span><noinclude>
+
+{{Documentation}}
+
+</noinclude>
