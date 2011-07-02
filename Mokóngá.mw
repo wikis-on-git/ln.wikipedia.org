@@ -8,13 +8,13 @@
 {{Taxobox | famille | Polypteridae }}
 {{Taxobox taxon | animal | genre | Polypterus | [[Bernard Germain Étienne de Laville-sur-Illon, comte de Lacépède|Lacepède]], [[1803]]  }}
 {{Taxobox phylogénie arbre | animal |
-*[[Ostéichthyens]]
-**[[Actinoptérygiens]]
-***[[Cladistiens]]
-***[[Actinoptères]]
-****[[Chondrostéens]]
-****[[Néoptérygiens]]
-**[[Sarcoptérygiens]]}}
+* [[Ostéichthyens]]
+** [[Actinoptérygiens]]
+*** [[Cladistiens]]
+*** [[Actinoptères]]
+**** [[Chondrostéens]]
+**** [[Néoptérygiens]]
+** [[Sarcoptérygiens]]}}
 {{Taxobox wikispecies | Polypterus }}
 {{Taxobox commons | Category:Polypteriformes }}
 {{Taxobox fin}}
@@ -59,10 +59,11 @@ Image:Polypterus weeksii 4.jpg
 * {{ADW|Polypterus|''Polypterus'' }}
 * {{NCBI|8290|''Polypterus'' }}
 
-[[Category:mbísi]]
+[[Catégorie:Mbísi]]
 
 [[az:Çoxüzgəcli]]
 [[de:Eigentliche Flösselhechte]]
+[[en:Polypterus]]
 [[fr:Polypterus]]
 [[ka:მრავალფარფლიანები]]
 [[lij:Polypterus]]
