@@ -1,0 +1,11 @@
+<div class="noprint wikilien_alternatif" style="clear:{{{alignement|right}}}; float:{{{alignement|right}}};margin:{{{marge|0 0 1em 1em}}};width:{{{longueur|250}}}px;border:solid #{{{couleur_bordure|AAAAAA}}} 1px; background:#{{{couleur_fond|FFFFFF}}};padding:0px;font-size:90%;text-align:left;">
+{| cellpadding="2" cellspacing="0" style="background-color:transparent"
+|- valign="middle"
+| style="line-height:{{{largeur|50}}}px;vertical-align:middle;position:relative" align="center" valign="middle" |
+[[Image:{{{image|Defaut.svg}}}|{{{largeur|50}}}px|link={{{lien|{{PAGENAME}}}}}]]
+| valign="middle" |
+{{{texte}}}
+|}
+</div><noinclude>
+{{/Documentation}}
+</noinclude>
