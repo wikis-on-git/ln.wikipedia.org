@@ -3,7 +3,7 @@ image=Wiktprintable without text.svg|
 lien=wikt:|
 couleur fond=#f9f9f9|
 texte=
-{{#if:{{{adq|}}}|[[Image:Fairytale bookmark.png|14px|right|link=|Lien vers un article de qualité du Wiktionnaire]]}}Voir «&nbsp;'''[[wikt:{{{1|{{lcfirst:{{PAGENAME}}}}}}}|{{{2|{{{1|{{lcfirst:{{PAGENAME}}}}}}}}}}]]'''&nbsp;» sur le [[Wiktionnaire]].
+{{#if:{{{adq|}}}|[[Image:Fairytale bookmark.png|14px|right|link=|Lien vers un article de qualité du Wiktionnaire]]}}Tála mpé «'''[[wikt:{{{1|{{lcfirst:{{PAGENAME}}}}}}}|{{{2|{{{1|{{lcfirst:{{PAGENAME}}}}}}}}}}]]'''» ya [[Wiktionnaire]].
 }}{{#ifeq:{{NAMESPACE}}|{{ns:0}}|[[Catégorie:Page utilisant un modèle obsolète{{!}}D]]}}<noinclude>
 
 {{/Documentation}}
