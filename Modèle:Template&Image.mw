@@ -1,0 +1,20 @@
+<div class="NavFrame" style="clear:both">
+<div class="NavPic" style="position: relative; z-index: 1;">{{{IMAGE}}}</div>
+<div class="NavHead" style="z-index: 0; {{ #if: {{{COLOR|}}} | background: {{{COLOR}}} }}">{{{TITRE}}}</div>
+<div class="NavContent">
+{{{CONTENU}}}
+</div>
+<div class="NavEnd">&nbsp;</div>
+</div><noinclude>
+<pre>Parametre:
+ IMAGE   = image, p.ex. Drapeau "[[image:XXX.png|50px|description]]"
+ TITRE   = Titre de la liste de navigation
+ CONTENU = entre les divers liens, il faut écrire &amp;#124; (qui donne "|")
+           "|" n'est pas iutilisable directement.
+</pre>
+
+[[br:Patrom:Taolenn verdeiñ skeudennet]]
+[[ca:Template:Navegació dinàmica amb imatge]]
+[[en:Template:Dynamic navigation box with image]]
+[[ro:Format:Navigație dinamică cu imagine]]
+</noinclude>
